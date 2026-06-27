@@ -1,0 +1,45 @@
+services:
+
+  innosoft_app_web:
+    build:
+      context: /workspace
+      dockerfile: /workspace/innosoft_app/docker/Dockerfile.innosoft_app.dev
+    container_name: innosoft_app_web
+    volumes:
+      - ${SPLENT_HOST_PROJECT_DIR}:/workspace
+    env_file:
+      - /workspace/innosoft_app/docker/.env
+    ports:
+      - "5800:5000"
+    depends_on:
+      innosoft_app_db:
+        condition: service_healthy
+    networks:
+      - splent_network
+    command: [ "tail", "-f", "/dev/null" ]
+
+  innosoft_app_db:
+    image: mariadb:11.4
+    container_name: innosoft_app_db
+    env_file:
+      - /workspace/innosoft_app/docker/.env
+    command: --default-authentication-plugin=mysql_native_password
+    ports:
+      - "33860:3306"
+    volumes:
+      - innosoft_app_db_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD-SHELL", "mariadb -u$${MARIADB_USER} -p$${MARIADB_PASSWORD} -e 'SELECT 1'"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+      start_period: 10s
+    networks:
+      - splent_network
+
+volumes:
+  innosoft_app_db_data:
+
+networks:
+  splent_network:
+    external: true

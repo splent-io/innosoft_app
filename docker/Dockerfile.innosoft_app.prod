@@ -1,0 +1,75 @@
+# ── Stage 1: Builder ─────────────────────────────────────────────────────────
+FROM python:3.13 AS builder
+WORKDIR /workspace
+
+# System dependencies for building
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    curl \
+    gcc \
+    libffi-dev \
+    libssl-dev \
+    mariadb-client \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+# Node.js 22 (only needed at build time for asset compilation)
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+        ca-certificates gnupg curl \
+    && curl -fsSL https://deb.nodesource.com/setup_22.x | bash - \
+    && apt-get update \
+    && apt-get install -y --no-install-recommends nodejs \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy product source + framework (if available locally)
+COPY innosoft_app/ innosoft_app/
+COPY splent_framework/ splent_framework/
+
+ENV PIP_ROOT_USER_ACTION=ignore
+
+# Install SPLENT CLI first (needed for feature:pip-install).
+# Always install the latest published CLI so the product is not pinned to the
+# (possibly older) version that scaffolded it.
+RUN pip install --no-cache-dir --upgrade splent_cli
+
+# Install framework from local source (has latest changes), then product
+RUN pip install --no-cache-dir ./splent_framework
+RUN pip install --no-cache-dir ./innosoft_app
+
+# Install all features from PyPI using the CLI
+ENV SPLENT_APP=innosoft_app
+ENV WORKING_DIR=/workspace
+RUN splent feature:pip-install
+
+# Compile frontend assets (if package.json exists)
+RUN if [ -f innosoft_app/package.json ]; then \
+        cd innosoft_app && npm install --no-audit --no-fund && \
+        splent feature:compile && \
+        cd /workspace; \
+    fi
+
+# Production server
+RUN pip install --no-cache-dir gunicorn
+
+# ── Stage 2: Runtime ─────────────────────────────────────────────────────────
+FROM python:3.13-slim
+WORKDIR /workspace
+
+# Minimal runtime dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    mariadb-client \
+    curl \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+ENV PIP_ROOT_USER_ACTION=ignore
+ENV SPLENT_APP=innosoft_app
+ENV WORKING_DIR=/workspace
+
+# Copy installed Python packages from builder
+COPY --from=builder /usr/local/lib/python3.13/site-packages /usr/local/lib/python3.13/site-packages
+COPY --from=builder /usr/local/bin /usr/local/bin
+
+# Copy product source (includes compiled assets, templates, migrations, entrypoints)
+COPY --from=builder /workspace/ /workspace/
+
+EXPOSE 5000

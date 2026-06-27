@@ -1,0 +1,23 @@
+FROM python:3.13
+WORKDIR /workspace
+
+COPY innosoft_app/ innosoft_app/
+RUN pip install --no-cache-dir --root-user-action=ignore -e ./innosoft_app
+RUN pip install ./innosoft_app[dev]
+
+ENV PIP_ROOT_USER_ACTION=ignore
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    gcc libc-dev python3-dev libffi-dev build-essential curl mariadb-client \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+        ca-certificates gnupg curl \
+    && curl -fsSL https://deb.nodesource.com/setup_22.x | bash - \
+    && apt-get update \
+    && apt-get install -y --no-install-recommends nodejs \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+EXPOSE 5000

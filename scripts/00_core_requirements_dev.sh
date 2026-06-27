@@ -1,0 +1,36 @@
+#!/bin/bash
+
+# ---------------------------------------------------------------------------
+# Creative Commons CC BY 4.0 - SPLENT - Diverso Lab
+# ---------------------------------------------------------------------------
+# This script is licensed under the Creative Commons Attribution 4.0
+# International License.
+# https://creativecommons.org/licenses/by/4.0/
+# ---------------------------------------------------------------------------
+
+set -e
+
+# Check if splent_framework is already installed in editable mode
+if [ -d /workspace/splent_framework ]; then
+    if pip show splent_framework 2>/dev/null | grep -q "Editable project location.*/workspace/splent_framework"; then
+        echo "    splent_framework already installed."
+    else
+        echo "    installing splent_framework..."
+        pip install --no-cache-dir --root-user-action=ignore -e /workspace/splent_framework
+    fi
+else
+    echo "    installing splent_framework from pyproject.toml [core]..."
+    pip install --no-cache-dir "innosoft_app[core]"
+fi
+
+# Check if splent_cli is already installed
+if [ -d /workspace/splent_cli ]; then
+    if pip show splent_cli 2>/dev/null | grep -q "Editable project location.*/workspace/splent_cli"; then
+        echo "    splent_cli already installed."
+    else
+        echo "    installing splent_cli..."
+        pip install --no-cache-dir --root-user-action=ignore -e /workspace/splent_cli
+    fi
+else
+    echo "    splent_cli not found, skipping."
+fi

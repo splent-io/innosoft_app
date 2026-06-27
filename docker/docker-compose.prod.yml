@@ -1,0 +1,41 @@
+services:
+
+  innosoft_app_web_deploy:
+    image: innosoft_app:latest
+    container_name: innosoft_app_web_deploy
+    env_file:
+      - ./.env.deploy
+    ports:
+      - "5800:5000"
+    depends_on:
+      innosoft_app_db_deploy:
+        condition: service_healthy
+    networks:
+      - splent_network
+    command: [ "bash", "-c", "bash /workspace/innosoft_app/entrypoints/entrypoint.prod.sh" ]
+
+  innosoft_app_db_deploy:
+    image: mariadb:11.4
+    container_name: innosoft_app_db_deploy
+    env_file:
+      - ./.env.deploy
+    command: --default-authentication-plugin=mysql_native_password
+    ports:
+      - "33860:3306"
+    volumes:
+      - innosoft_app_db_deploy_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD-SHELL", "mariadb -u$${MARIADB_USER} -p$${MARIADB_PASSWORD} -e 'SELECT 1'"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+      start_period: 10s
+    networks:
+      - splent_network
+
+volumes:
+  innosoft_app_db_deploy_data:
+
+networks:
+  splent_network:
+    external: true
