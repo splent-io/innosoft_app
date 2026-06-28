@@ -34,6 +34,7 @@ features = [
     "splent-io/splent_feature_session_redis",
     "splent-io/splent_feature_nginx@v1.1.0",
     "splent-io/splent_feature_media",
+    "splent-io/splent_feature_settings",
 ]
 features_dev = [
     "splent-io/splent_feature_admin",

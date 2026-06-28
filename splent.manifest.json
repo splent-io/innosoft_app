@@ -10,7 +10,7 @@
       "declared_at": "2026-06-27T19:55:10+00:00",
       "installed_at": "2026-06-27T19:57:50+00:00",
       "migrated_at": null,
-      "updated_at": "2026-06-28T11:31:28+00:00"
+      "updated_at": "2026-06-28T14:11:46+00:00"
     },
     "splent_io/splent_feature_team": {
       "namespace": "splent_io",
@@ -21,7 +21,7 @@
       "declared_at": "2026-06-27T19:55:34+00:00",
       "installed_at": "2026-06-27T19:57:54+00:00",
       "migrated_at": null,
-      "updated_at": "2026-06-28T11:31:29+00:00"
+      "updated_at": "2026-06-28T14:11:46+00:00"
     },
     "splent_io/splent_feature_events": {
       "namespace": "splent_io",
@@ -32,7 +32,7 @@
       "declared_at": "2026-06-27T19:55:35+00:00",
       "installed_at": "2026-06-27T19:57:57+00:00",
       "migrated_at": null,
-      "updated_at": "2026-06-28T11:31:29+00:00"
+      "updated_at": "2026-06-28T14:11:45+00:00"
     },
     "splent_io/splent_feature_skin_arcade": {
       "namespace": "splent_io",
@@ -43,7 +43,7 @@
       "declared_at": "2026-06-27T20:18:59+00:00",
       "installed_at": "2026-06-27T20:19:05+00:00",
       "migrated_at": null,
-      "updated_at": "2026-06-28T11:31:29+00:00"
+      "updated_at": "2026-06-28T14:11:45+00:00"
     },
     "splent_io/splent_feature_public": {
       "namespace": "splent_io",
@@ -54,7 +54,7 @@
       "declared_at": "2026-06-27T21:04:39+00:00",
       "installed_at": "2026-06-27T21:04:39+00:00",
       "migrated_at": null,
-      "updated_at": "2026-06-28T11:31:29+00:00"
+      "updated_at": "2026-06-28T14:11:46+00:00"
     },
     "splent_io/splent_feature_redis@v1.5.6": {
       "namespace": "splent_io",
@@ -65,7 +65,7 @@
       "declared_at": "2026-06-27T23:43:08+00:00",
       "installed_at": "2026-06-27T23:43:09+00:00",
       "migrated_at": null,
-      "updated_at": "2026-06-28T11:31:29+00:00"
+      "updated_at": "2026-06-28T14:11:46+00:00"
     },
     "splent_io/splent_feature_nginx@v1.1.0": {
       "namespace": "splent_io",
@@ -76,7 +76,7 @@
       "declared_at": "2026-06-27T23:43:19+00:00",
       "installed_at": "2026-06-27T23:43:20+00:00",
       "migrated_at": null,
-      "updated_at": "2026-06-28T11:31:29+00:00"
+      "updated_at": "2026-06-28T14:11:46+00:00"
     },
     "splent_io/splent_feature_media": {
       "namespace": "splent_io",
@@ -87,7 +87,7 @@
       "declared_at": "2026-06-28T00:21:22+00:00",
       "installed_at": "2026-06-28T00:21:30+00:00",
       "migrated_at": null,
-      "updated_at": "2026-06-28T11:31:29+00:00"
+      "updated_at": "2026-06-28T14:11:46+00:00"
     },
     "splent_io/splent_feature_auth": {
       "namespace": "splent_io",
@@ -98,7 +98,7 @@
       "declared_at": "2026-06-28T00:44:50+00:00",
       "installed_at": "2026-06-28T00:44:50+00:00",
       "migrated_at": null,
-      "updated_at": "2026-06-28T11:31:29+00:00"
+      "updated_at": "2026-06-28T14:11:46+00:00"
     },
     "splent_io/splent_feature_admin": {
       "namespace": "splent_io",
@@ -109,7 +109,7 @@
       "declared_at": "2026-06-28T00:47:46+00:00",
       "installed_at": "2026-06-28T00:47:46+00:00",
       "migrated_at": null,
-      "updated_at": "2026-06-28T11:31:29+00:00"
+      "updated_at": "2026-06-28T14:11:46+00:00"
     },
     "splent_io/splent_feature_session_redis": {
       "namespace": "splent_io",
@@ -120,9 +120,20 @@
       "declared_at": "2026-06-28T10:11:12+00:00",
       "installed_at": "2026-06-28T10:11:12+00:00",
       "migrated_at": null,
-      "updated_at": "2026-06-28T11:31:29+00:00"
+      "updated_at": "2026-06-28T14:11:46+00:00"
+    },
+    "splent_io/splent_feature_settings": {
+      "namespace": "splent_io",
+      "name": "splent_feature_settings",
+      "version": null,
+      "mode": "editable",
+      "state": "active",
+      "declared_at": "2026-06-28T14:07:44+00:00",
+      "installed_at": "2026-06-28T14:07:51+00:00",
+      "migrated_at": null,
+      "updated_at": "2026-06-28T14:11:46+00:00"
     }
   },
   "product": "innosoft_app",
-  "updated_at": "2026-06-28T11:31:29+00:00"
+  "updated_at": "2026-06-28T14:11:46+00:00"
 }
