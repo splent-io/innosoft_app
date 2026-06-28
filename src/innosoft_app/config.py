@@ -68,10 +68,10 @@ class _SiteConfig:
     ]
     SITE_HIGHLIGHTS_TITLE = "¿Por qué asistir?"
     SITE_HIGHLIGHTS = [
-        {"icon": "🎤", "title": "Charlas", "text": "Ponentes de referencia de la industria y la academia."},
-        {"icon": "🛠️", "title": "Talleres", "text": "Aprende haciendo, con tecnologías punteras."},
-        {"icon": "🎮", "title": "Competiciones", "text": "Retos, torneos y premios para todos los niveles."},
-        {"icon": "🤝", "title": "Networking", "text": "Conoce a gente con tu misma pasión por el software."},
+        {"title": "Charlas", "text": "Ponentes de referencia de la industria y la academia."},
+        {"title": "Talleres", "text": "Aprende haciendo, con tecnologías punteras."},
+        {"title": "Competiciones", "text": "Retos, torneos y premios para todos los niveles."},
+        {"title": "Networking", "text": "Conoce a gente con tu misma pasión por el software."},
     ]
     SITE_CTA = {
         "title": "¿Te lo vas a perder?",
