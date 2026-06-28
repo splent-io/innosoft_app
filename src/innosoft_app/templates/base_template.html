@@ -9,7 +9,7 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
 
-    <title>{% block title %}{{ SPLENT_APP }}{% endblock %}</title>
+    <title>{% block title %}{{ site.name if site is defined and site else SPLENT_APP }}{% endblock %}</title>
 
     <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -30,7 +30,7 @@
         <div class="sidebar-content js-simplebar">
 
             <a class="sidebar-brand" href="/">
-                {{ SPLENT_APP }}
+                {{ site.name if site is defined and site else SPLENT_APP }}
             </a>
 
             <ul class="sidebar-nav">
@@ -114,7 +114,7 @@
                 <div class="row text-muted">
                     <div class="col-6 text-start">
                         <p class="mb-0">
-                            {{ SPLENT_APP }}
+                            {{ site.name if site is defined and site else SPLENT_APP }}
                         </p>
                     </div>
                     <div class="col-6 text-end">
