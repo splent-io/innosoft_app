@@ -30,10 +30,10 @@ class _SiteConfig:
         "Three days of talks, workshops and competitions at the ETSII — "
         "Universidad de Sevilla."
     )
-    SITE_NAV = [
-        {"label": "Events", "href": "/events"},
-        {"label": "Team", "href": "/team"},
-    ]
+    # No SITE_NAV: the main navigation is composed from the INSTALLED features
+    # (each declares its entry via register_nav_item) and tuned in the admin
+    # Menus editor. The theme keeps SITE_NAV support only as a zero-feature
+    # fallback, which this product never hits.
     SITE_SOCIAL = [
         {"network": "Instagram", "href": "https://www.instagram.com/innosoftdays/"},
         {"network": "X", "href": "https://x.com/innosoftdays"},

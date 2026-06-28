@@ -28,14 +28,15 @@ features = [
     "splent-io/splent_feature_team",
     "splent-io/splent_feature_events",
     "splent-io/splent_feature_skin_arcade",
-    "splent-io/splent_feature_auth@v1.5.8",
+    "splent-io/splent_feature_auth",
     "splent-io/splent_feature_public",
     "splent-io/splent_feature_redis@v1.5.6",
-    "splent-io/splent_feature_session_redis@v1.0.7",
+    "splent-io/splent_feature_session_redis",
     "splent-io/splent_feature_nginx@v1.1.0",
+    "splent-io/splent_feature_media",
 ]
 features_dev = [
-    "splent-io/splent_feature_admin@v1.0.2",
+    "splent-io/splent_feature_admin",
 ]
 features_prod = []
 spl = "cms_spl"
