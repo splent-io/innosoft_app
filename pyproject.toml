@@ -24,20 +24,20 @@ core = [
 [tool.splent]
 cli_version = "1.11.0"
 features = [
-    "splent-io/splent_feature_theme",
-    "splent-io/splent_feature_team",
-    "splent-io/splent_feature_events",
-    "splent-io/splent_feature_skin_arcade",
-    "splent-io/splent_feature_auth",
-    "splent-io/splent_feature_public",
     "splent-io/splent_feature_redis@v1.5.6",
-    "splent-io/splent_feature_session_redis",
     "splent-io/splent_feature_nginx@v1.1.0",
-    "splent-io/splent_feature_media",
-    "splent-io/splent_feature_settings",
+    "splent_io/splent_feature_theme@v0.2.1",
+    "splent_io/splent_feature_team@v0.2.1",
+    "splent_io/splent_feature_events@v0.1.2",
+    "splent_io/splent_feature_skin_arcade@v0.2.1",
+    "splent_io/splent_feature_auth@v1.6.2",
+    "splent_io/splent_feature_public@v1.7.2",
+    "splent_io/splent_feature_session_redis@v1.1.1",
+    "splent_io/splent_feature_media@v0.4.2",
+    "splent_io/splent_feature_settings@v0.2.1",
 ]
 features_dev = [
-    "splent-io/splent_feature_admin",
+    "splent_io/splent_feature_admin@v1.1.1",
 ]
 features_prod = []
 spl = "cms_spl"
@@ -56,6 +56,13 @@ hooks = [
     "layout.scripts",
 ]
 
+[tool.splent.spl_model]
+mirror = "uvlhub.io"
+doi = "10.5281/zenodo.21610307"
+concept_doi = ""
+version = ""
+file = "cms_spl.uvl"
+
 [tool.setuptools.package-dir]
 "" = "src"
 
@@ -63,14 +70,3 @@ hooks = [
 where = [
     "src",
 ]
-
-# Where the SPL model itself comes from. The name above is not enough
-# to download anything, so the DOI travels with the product and any
-# clone of this repository can resolve the model from UVLHub alone.
-[tool.splent.spl_model]
-mirror = "uvlhub.io"
-doi = "10.5281/zenodo.21610307"
-# Same line, every version. Used to report that a newer model exists.
-concept_doi = ""
-version = ""
-file = "cms_spl.uvl"
