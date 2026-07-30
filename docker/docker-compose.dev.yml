@@ -43,3 +43,4 @@ volumes:
 networks:
   splent_network:
     external: true
+    name: ${SPLENT_NETWORK:-splent_network}
