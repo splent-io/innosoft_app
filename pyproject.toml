@@ -35,10 +35,9 @@ features = [
     "splent_io/splent_feature_session_redis@v1.1.1",
     "splent_io/splent_feature_media@v0.4.2",
     "splent_io/splent_feature_settings@v0.2.1",
-]
-features_dev = [
     "splent_io/splent_feature_admin@v1.1.1",
 ]
+features_dev = []
 features_prod = []
 spl = "cms_spl"
 
