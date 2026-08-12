@@ -24,7 +24,6 @@ core = [
 [tool.splent]
 cli_version = "1.11.0"
 features = [
-    "splent-io/splent_feature_redis@v1.5.6",
     "splent-io/splent_feature_nginx@v1.1.0",
     "splent_io/splent_feature_theme@v0.2.1",
     "splent_io/splent_feature_team@v0.2.1",
@@ -36,6 +35,7 @@ features = [
     "splent_io/splent_feature_media@v0.4.2",
     "splent_io/splent_feature_settings@v0.2.1",
     "splent_io/splent_feature_admin@v1.1.1",
+    "splent_io/splent_feature_redis@v1.5.7",
 ]
 features_dev = []
 features_prod = []
