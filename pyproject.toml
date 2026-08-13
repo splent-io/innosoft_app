@@ -26,7 +26,6 @@ cli_version = "1.21.1"
 features = [
     "splent_io/splent_feature_redis@v1.5.7",
     "splent_io/splent_feature_media@v0.7.0",
-    "splent_io/splent_feature_auth@v1.10.4",
     "splent_io/splent_feature_public@v1.7.3",
     "splent_io/splent_feature_session_redis@v1.1.2",
     "splent_io/splent_feature_settings@v0.3.1",
@@ -34,8 +33,9 @@ features = [
     "splent_io/splent_feature_nginx@v1.2.0",
     "splent_io/splent_feature_skin_arcade@v0.2.2",
     "splent_io/splent_feature_events@v0.2.0",
-    "splent_io/splent_feature_theme@v0.9.1",
     "splent_io/splent_feature_about@v0.2.2",
+    "splent_io/splent_feature_auth@v1.11.0",
+    "splent_io/splent_feature_theme@v0.10.0",
 ]
 features_dev = []
 features_prod = []
@@ -65,6 +65,7 @@ file = "cms_spl.uvl"
 [tool.splent.config]
 AUTH_LOGIN_LAYOUT = "public_base.html"
 AUTH_NAV_LOGIN = false
+AUTH_FOOTER_LOGIN = true
 MEDIA_NAV_LABEL = "Fotos"
 EVENTS_NAV_LABEL = "Eventos"
 ABOUT_NAV_LABEL = "Quiénes somos"
