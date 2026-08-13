@@ -64,6 +64,7 @@ file = "cms_spl.uvl"
 
 [tool.splent.config]
 AUTH_LOGIN_LAYOUT = "public_base.html"
+AUTH_NAV_LOGIN = false
 MEDIA_NAV_LABEL = "Fotos"
 EVENTS_NAV_LABEL = "Eventos"
 ABOUT_NAV_LABEL = "Quiénes somos"
