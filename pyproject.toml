@@ -55,9 +55,13 @@ hooks = [
     "layout.scripts",
 ]
 
+# Where the SPL model itself comes from. The name above is not enough
+# to download anything, so the DOI travels with the product and any
+# clone of this repository can resolve the model from UVLHub alone.
 [tool.splent.spl_model]
 mirror = "uvlhub.io"
-doi = "10.5281/zenodo.21916291"
+doi = "10.5281/zenodo.21923420"
+# Same line, every version. Used to report that a newer model exists.
 concept_doi = ""
 version = ""
 file = "cms_spl.uvl"
