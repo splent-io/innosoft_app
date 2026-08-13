@@ -33,9 +33,9 @@ features = [
     "splent_io/splent_feature_admin@v1.4.0",
     "splent_io/splent_feature_nginx@v1.2.0",
     "splent_io/splent_feature_skin_arcade@v0.2.2",
-    "splent_io/splent_feature_about@v0.2.1",
     "splent_io/splent_feature_events@v0.2.0",
-    "splent_io/splent_feature_theme@v0.8.0",
+    "splent_io/splent_feature_theme@v0.9.1",
+    "splent_io/splent_feature_about@v0.2.2",
 ]
 features_dev = []
 features_prod = []
