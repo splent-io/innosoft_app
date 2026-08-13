@@ -1,0 +1,350 @@
+{
+  "pages": {
+    "en": {
+      "url": "https://www.innosoftdays.com/feedback/",
+      "title": "Feedback questionnaire",
+      "heading": "We'd Love Your Feedback",
+      "intro": "Tell us about your experience and how we can improve our event for the following years. The purpose of this questionnaire is to assess the satisfaction of attendees of the events that made up the InnoSoft Days 2025. The responses will be treated confidentially and will be used to improve future editions of the event."
+    },
+    "es": {
+      "url": "https://www.innosoftdays.com/es/cuestionario/",
+      "title": "Cuestionario de calidad",
+      "heading": "Nos encantaría conocer tu opinión",
+      "intro": "Cuéntanos sobre tu experiencia y cómo podemos mejorar nuestro evento para los próximos años. El presente cuestionario tiene como objetivo evaluar la satisfacción de los asistentes de los eventos que han conformado las Jornadas InnoSoft Days 2025. Las respuestas serán tratadas de forma confidencial y servirán para mejorar futuras ediciones del evento."
+    }
+  },
+  "mechanism": "Embedded Forminator form (WordPress plugin), submitted via admin-ajax on the same site. NOT an external service (no Google Forms). EN form_id=444 on page 440; ES form_id=443 on page 459.",
+  "structure": "22 required Likert questions rated 0-5, grouped into 5 sections, plus 5 optional open-text questions.",
+  "questions_en": [
+    {
+      "group": "General Organization",
+      "question": "The information provided before the event was clear and sufficient.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "General Organization",
+      "question": "Registration and access to the activities were easy and well organized.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "General Organization",
+      "question": "The schedules and locations of the activities were appropriate.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "General Organization",
+      "question": "Communication during the event (email, social media, website, signage) was effective.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "General Organization",
+      "question": "Overall, I found the organization of the event satisfactory.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Activities and Content",
+      "question": "The workshops offered were interesting and useful.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Activities and Content",
+      "question": "The talks/lectures conveyed relevant information appropriately.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Activities and Content",
+      "question": "The recreational activities were fun and well organized.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Activities and Content",
+      "question": "The duration of the activities was appropriate.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Activities and Content",
+      "question": "I learned new things during the event.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Activities and Content",
+      "question": "The topics covered were interesting and relevant to my field of study.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Facilities and Resources",
+      "question": "The spaces where the activities took place were suitable.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Facilities and Resources",
+      "question": "The signage within the venue made it easy to find my way around.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Experience and Atmosphere",
+      "question": "Throughout the event, there was a positive and collaborative atmosphere.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Experience and Atmosphere",
+      "question": "I felt welcomed during the activities.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Experience and Atmosphere",
+      "question": "The event encouraged interaction among participants.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Experience and Atmosphere",
+      "question": "The overall atmosphere fostered learning and creativity.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Experience and Atmosphere",
+      "question": "I felt motivated to actively participate in the activities.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Overall Satisfaction",
+      "question": "The event met my expectations.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Overall Satisfaction",
+      "question": "I was able to understand or reaffirm aspects of society related to my field of knowledge.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Overall Satisfaction",
+      "question": "I would recommend participating in future editions of InnoSoft Days.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Overall Satisfaction",
+      "question": "Overall, I am satisfied with the experience I had during the event.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Final Comments and Suggestions",
+      "question": "Which events did you attend?",
+      "required": false,
+      "type": "textarea"
+    },
+    {
+      "group": "Final Comments and Suggestions",
+      "question": "What things would you improve for future editions?",
+      "required": false,
+      "type": "textarea"
+    },
+    {
+      "group": "Final Comments and Suggestions",
+      "question": "What was your favorite event?",
+      "required": false,
+      "type": "textarea"
+    },
+    {
+      "group": "Final Comments and Suggestions",
+      "question": "What activity would you have liked to see included in the event?",
+      "required": false,
+      "type": "textarea"
+    },
+    {
+      "group": "Final Comments and Suggestions",
+      "question": "Did you find the prize distribution appropriate? What would you change?",
+      "required": false,
+      "type": "textarea"
+    }
+  ],
+  "questions_es": [
+    {
+      "group": "Organización general",
+      "question": "La información previa al evento fue clara y suficiente.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Organización general",
+      "question": "La inscripción y el acceso a las actividades fueron fáciles y bien organizados.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Organización general",
+      "question": "Los horarios y localizaciones de las actividades fueron adecuados.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Organización general",
+      "question": "La comunicación durante el evento (correo, redes, web, cartelería) fue eficaz.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Organización general",
+      "question": "En general, la organización del evento me pareció satisfactoria.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Actividades y contenidos",
+      "question": "Los talleres ofrecidos fueron interesantes y útiles.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Actividades y contenidos",
+      "question": "Las charlas/conferencias transmitieron información relevante de forma apropiada.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Actividades y contenidos",
+      "question": "Las actividades lúdicas fueron divertidas y bien organizadas.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Actividades y contenidos",
+      "question": "La duración de las actividades fue apropiada.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Actividades y contenidos",
+      "question": "He aprendido cosas nuevas durante las jornadas.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Actividades y contenidos",
+      "question": "Los temas tratados fueron interesantes y relevantes para mi formación.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Instalaciones y recursos",
+      "question": "Los espacios donde se realizaron las actividades eran adecuados.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Instalaciones y recursos",
+      "question": "La señalización dentro del recinto facilitó la orientación.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Experiencia y ambiente",
+      "question": "Durante las jornadas se percibió un ambiente positivo y colaborativo.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Experiencia y ambiente",
+      "question": "Me sentí bien acogido/a durante las actividades.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Experiencia y ambiente",
+      "question": "Las jornadas fomentaron la interacción entre los participantes.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Experiencia y ambiente",
+      "question": "El ambiente general favoreció el aprendizaje y la creatividad.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Experiencia y ambiente",
+      "question": "Me sentí motivado/a a participar activamente en las actividades.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Satisfacción global",
+      "question": "El evento cumplió mis expectativas.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Satisfacción global",
+      "question": "He podido comprender o reafirmar aspectos de la sociedad relacionados con mi rama de conocimiento.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Satisfacción global",
+      "question": "Recomendaría participar en futuras ediciones de InnoSoft Days.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Satisfacción global",
+      "question": "En general, estoy satisfecho/a con la experiencia vivida en las Jornadas.",
+      "required": true,
+      "type": "likert_0_5"
+    },
+    {
+      "group": "Comentarios y sugerencias finales",
+      "question": "¿A qué eventos has asistido?",
+      "required": false,
+      "type": "textarea"
+    },
+    {
+      "group": "Comentarios y sugerencias finales",
+      "question": "Cosas que mejorarías de cara a futuras ediciones.",
+      "required": false,
+      "type": "textarea"
+    },
+    {
+      "group": "Comentarios y sugerencias finales",
+      "question": "Cuál ha sido tu evento favorito.",
+      "required": false,
+      "type": "textarea"
+    },
+    {
+      "group": "Comentarios y sugerencias finales",
+      "question": "Qué actividad te habría gustado que se hubiera realizado en el evento.",
+      "required": false,
+      "type": "textarea"
+    },
+    {
+      "group": "Comentarios y sugerencias finales",
+      "question": "¿Te pareció adecuado el reparto de premios? ¿Qué cambiarías?",
+      "required": false,
+      "type": "textarea"
+    }
+  ],
+  "counts": {
+    "en": 27,
+    "es": 27
+  }
+}

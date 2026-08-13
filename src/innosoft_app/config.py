@@ -27,7 +27,7 @@ class _SiteConfig:
 
     SITE_NAME = "InnoSoft Days"
     SITE_TAGLINE = (
-        "Three days of talks, workshops and competitions at the ETSII — "
+        "Tres días de charlas, talleres y competiciones en la ETSII, "
         "Universidad de Sevilla."
     )
     # No SITE_NAV: the main navigation is composed from the INSTALLED features
@@ -64,7 +64,7 @@ class _SiteConfig:
     SITE_SPONSORS_TITLE = "Patrocinadores y colaboradores"
     SITE_HERO_ACTIONS = [
         {"label": "Ver eventos", "href": "/events"},
-        {"label": "El equipo", "href": "/team", "class": "btn-ghost"},
+        {"label": "Quiénes somos", "href": "/about", "class": "btn-ghost"},
     ]
     SITE_HIGHLIGHTS_TITLE = "¿Por qué asistir?"
     SITE_HIGHLIGHTS = [
@@ -84,8 +84,6 @@ class _SiteConfig:
     BABEL_DEFAULT_LOCALE = "es"
     BABEL_SUPPORTED_LOCALES = ["es", "en"]
 
-    # Team section/role types and their order — declared per product.
-    TEAM_GROUPS = ["Organisers", "Faculty"]
 
 
 class DevelopmentConfig(_SiteConfig, BaseDev):

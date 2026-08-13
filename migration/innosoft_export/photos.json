@@ -1,0 +1,2174 @@
+{
+  "source_pages": {
+    "en": "https://www.innosoftdays.com/fotos-2/",
+    "es": "https://www.innosoftdays.com/es/fotos/"
+  },
+  "edition_heading": "InnoSoft Days - 2025",
+  "es_en_identical_images": true,
+  "notes": [
+    "Single edition covered (2025). No older-edition galleries exist on the site.",
+    "Page structure: MetaSlider highlight carousel at top (58 unique photos), then an Elementor nested-tabs widget with one tab per in-person day and h6 subheadings per activity.",
+    "Displayed images use the Elementor 2000x1000 crop; fullsize_url is the verified (HTTP 200 via HEAD) original upload, preferring the un-scaled camera original over the WordPress -scaled variant.",
+    "fullsize candidates that returned 404 fall back to the -scaled variant."
+  ],
+  "counts": {
+    "slider_unique": 58,
+    "tab_photos": 360,
+    "total_img_slots": 418,
+    "unique_photo_files": 418
+  },
+  "highlight_slider": [
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04297-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04297.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04862-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04862.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04863-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04863.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04864-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04864.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04865-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04865.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04866-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04866.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04868-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04868.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04870-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04870.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04871-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04871.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04872-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04872.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04873-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04873.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04874-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04874.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04903-1-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04903-1.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04904-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04904.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04905-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04905.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04915-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04915.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04918-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04918.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04920-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04920.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04921-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04921.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04923-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04923.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04924-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04924.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04927-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04927.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04928-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04928.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04929-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04929.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04953-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04953.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04954-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04954.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04233-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04233.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04234-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04234.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04236-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04236.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04237-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04237.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04238-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04238.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04239-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04239.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04243-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04243.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04269-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04269.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04270-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04270.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04274-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04274.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04290-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04290.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04292-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04292.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04298-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04298.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04299-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04299.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04235-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04235.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04240-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04240.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04241-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04241.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04262-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04262.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04275-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04275.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04276-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04276.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04277-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04277.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04278-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04278.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04288-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04288.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04291-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04291.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04294-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04294.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04295-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04295.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04296-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04296.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04304-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04304.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04305-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04305.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04306-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04306.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04307-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04307.jpg"
+    },
+    {
+      "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04310-scaled-2000x1000.jpg",
+      "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04310.jpg"
+    }
+  ],
+  "days": [
+    {
+      "day_tab": "Tuesday 4th",
+      "groups": [
+        {
+          "group": "Opening Ceremony",
+          "count": 24,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04231-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04231.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04229-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04229.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04228-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04228.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04227-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04227.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04225-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04225.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1959-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1959-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1960-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1960-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1963-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1963-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1965-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1965-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1966-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1966-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04224-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04224.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1958-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1958-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1957-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1957-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1956-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1956-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1955-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1955-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1954-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1954-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1949-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1949-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1948-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1948-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1947-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1947-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1946-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1946-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1943-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1943-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1942-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1942-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1941-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1941-scaled.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1937-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1937-scaled.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "NTT Data",
+          "count": 10,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04244-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04244.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04245-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04245.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04246-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04246.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04287-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04287.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04286-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04286.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04285-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04285.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04284-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04284.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04283-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04283.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04248-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04248.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04249-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04249.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "RogueLikes Tournament",
+          "count": 7,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04263-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04263.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04264-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04264.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04265-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04265.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04266-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04266.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04267-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04267.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04268-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04268.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04308-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04308.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "eSports - Smash",
+          "count": 10,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04250-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04250.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04251-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04251.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04252-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04252.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04253-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04253.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04254-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04254.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04255-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04255.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04256-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04256.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04257-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04257.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04258-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04258.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04309-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04309.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "Escape Room - Grace's Enigma",
+          "count": 7,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04271-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04271.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04272-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04272.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04273-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04273.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04955-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04955.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04956-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04956.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04957-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04957.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04958-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04958.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "Workshops - Time Series Forecasting & Relational Machine Learning",
+          "count": 6,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04279-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04279.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04280-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04280.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04281-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04281.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04282-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04282.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04300-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04300.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04303-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04303.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "Pablo Reina - Introduction to AI in images",
+          "count": 10,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04876-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04876.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04877-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04877.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04878-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04878.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04879-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04879.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04880-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04880.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04881-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04881.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04882-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04882.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04883-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04883.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageExs9WV-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageExs9WV.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageSlNa5o-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageSlNa5o.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "Game Jam",
+          "count": 11,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04903-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04903.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04931-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04931.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04932-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04932.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04933-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04933.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04934-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04934.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04935-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04935.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04936-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04936.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04937-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04937.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04938-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04938.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04939-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04939.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04940-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04940.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "Indra - AI: From Corporate Impact to Responsible Governance",
+          "count": 9,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04959-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04959.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04960-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04960.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04961-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04961.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04962-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04962.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04963-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04963.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04964-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04964.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04965-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04965.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04966-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04966.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04967-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04967.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "Equality Committee - Diversity, Equality and Respect",
+          "count": 7,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04945-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04945.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04946-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04946.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04947-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04947.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04948-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04948.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04949-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04949.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04950-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04950.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04951-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04951.jpg",
+              "in_media_library": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day_tab": "Thursday 6th",
+      "groups": [
+        {
+          "group": "eSports - Pokemon",
+          "count": 4,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Pokemon-1-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Pokemon-1.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Pokemon-3-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Pokemon-3.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Pokemon-5-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Pokemon-5.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Pokemon-7-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Pokemon-7.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "Pablo Dávila - The MCP Protocol",
+          "count": 21,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-8-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-8.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-9-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-9.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-16-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-16.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-17-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-17.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-18-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-18.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-2-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-2.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-4-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-4.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-6-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-6.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-7-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-7.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-10-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-10.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-12-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-12.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-13-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-13.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-19-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-19.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-20-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-20.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-21-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-21.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-1-1-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-1-1.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-3-1-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-3-1.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-5-1-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-5-1.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-11-1-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-11-1.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-14-1-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-14-1.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-15-1-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-15-1.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "eSports - Minecraft",
+          "count": 4,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Minecraft-2-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Minecraft-2.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Minecraft-4-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Minecraft-4.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Minecraft-6-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Minecraft-6.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Minecraft-8-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Minecraft-8.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "Andreas Zeller - New ways to Test Software using AI",
+          "count": 62,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageHuR3Wx-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageHuR3Wx.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage0YpG9v-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage0YpG9v.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage2mkRZ1-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage2mkRZ1.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage8cMAK5-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage8cMAK5.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage8jX1Dj-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage8jX1Dj.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageAawjCO-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageAawjCO.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageADma1E-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageADma1E.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageepme2q-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageepme2q.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageGMXBkQ-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageGMXBkQ.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageK51A5b-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageK51A5b.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagemZuAXF-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagemZuAXF.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagepbW7Ak-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagepbW7Ak.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagepRo91y-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagepRo91y.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage85eTqp-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage85eTqp.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagelZS5bc-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagelZS5bc.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageXtGt9w-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageXtGt9w.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagetsIQKi-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagetsIQKi.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageVFCdi4-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageVFCdi4.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageTFBBtM-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageTFBBtM.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageWxxusy-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageWxxusy.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageYj4sIP-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageYj4sIP.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagez6gdF4-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagez6gdF4.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagezbgokc-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagezbgokc.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage2XNKcq-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage2XNKcq.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage021sQr-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage021sQr.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage185TLl-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage185TLl.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageCWxX31-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageCWxX31.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageFh9NUT-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageFh9NUT.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageFlYT01-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageFlYT01.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageisxZTp-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageisxZTp.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageLvCMaZ-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageLvCMaZ.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageN0GJyT-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageN0GJyT.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageNeVoXs-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageNeVoXs.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagenl6nY5-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagenl6nY5.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagenQn0x3-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagenQn0x3.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageOUhclD-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageOUhclD.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageUxcKj0-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageUxcKj0.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageV8Y5uS-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageV8Y5uS.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageweBBp5-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageweBBp5.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageXd6o1o-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageXd6o1o.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagexewVBo-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagexewVBo.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagexlOvat-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagexlOvat.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageXyQYcp-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageXyQYcp.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageyQQhX7-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageyQQhX7.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage7u9Un2-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage7u9Un2.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage8CsonA-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage8CsonA.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagebfC9BH-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagebfC9BH.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageemY5d6-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageemY5d6.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageFxyaIy-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageFxyaIy.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageKJ1tBm-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageKJ1tBm.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageLgeHop-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageLgeHop.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageOaq5Nh-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageOaq5Nh.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageQ7H4Ah-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageQ7H4Ah.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageQcwhZN-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageQcwhZN.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageqMvHOr-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageqMvHOr.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagesz5AWg-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagesz5AWg.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagewWYg31-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagewWYg31.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageWXOTu7-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageWXOTu7.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageydji2i-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageydji2i.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Zeller-2-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Zeller-2.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Zeller-3-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Zeller-3.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Zeller-5-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Zeller-5.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "The Sustainable Challenge",
+          "count": 8,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Reto-Sostenible-1-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Reto-Sostenible-1.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Reto-Sostenible-6-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Reto-Sostenible-6.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Reto-Sostenible-7-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Reto-Sostenible-7.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Reto-Sostenible-8-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Reto-Sostenible-8.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-15.59.39-2000x1000.png",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-15.59.39.png",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-15.59.49-2000x1000.png",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-15.59.49.png",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-15.59.57-2000x1000.png",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-15.59.57.png",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-16.00.05-2000x1000.png",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-16.00.05.png",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "CaixaBank Tech - QA in the Financial world",
+          "count": 36,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-2-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-2.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-5-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-5.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-6-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-6.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-7-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-7.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-8-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-8.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-9-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-9.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-13-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-13.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-16-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-16.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-17-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-17.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-11-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-11.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-19-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-19.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-21-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-21.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-23-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-23.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-25-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-25.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-26-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-26.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-27-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-27.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-29-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-29.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageeaVZPQ-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageeaVZPQ.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageELoSWs-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageELoSWs.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageFfTh7Y-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageFfTh7Y.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageIcK6Z0-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageIcK6Z0.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagekL8fHH-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagekL8fHH.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-1-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-1.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-3-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-3.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-4-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-4.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-10-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-10.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-12-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-12.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-14-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-14.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-15-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-15.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-18-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-18.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-20-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-20.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-24-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-24.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-28-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-28.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageQLnnkX-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageQLnnkX.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageqxGf12-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageqxGf12.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageDeAOC8-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageDeAOC8.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "A Talk with Rebeca",
+          "count": 18,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04988-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04988.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04989-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04989.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04990-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04990.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04991-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04991.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04992-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04992.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04993-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04993.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04994-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04994.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04995-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04995.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04996-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04996.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04997-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04997.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04998-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04998.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04999-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04999.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05000-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05000.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05001-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05001.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05002-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05002.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05003-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05003.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05004-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05004.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05005-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05005.jpg",
+              "in_media_library": true
+            }
+          ]
+        },
+        {
+          "group": "Closing Ceremony",
+          "count": 106,
+          "images": [
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05013-1-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05013-1.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05016-1-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05016-1.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05017-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05017.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05018-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05018.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05019-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05019.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05020-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05020.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05022-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05022.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05023-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05023.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05025-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05025.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05027-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05027.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05029-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05029.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05030-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05030.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05031-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05031.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05032-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05032.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05034-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05034.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05037-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05037.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05039-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05039.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05041-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05041.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05042-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05042.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05043-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05043.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05046-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05046.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05047-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05047.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05049-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05049.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05051-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05051.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05054-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05054.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05056-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05056.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05057-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05057.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05058-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05058.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05059-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05059.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05061-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05061.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05062-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05062.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05063-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05063.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05065-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05065.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05066-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05066.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05067-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05067.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05071-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05071.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05073-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05073.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05074-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05074.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05075-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05075.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05077-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05077.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05078-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05078.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05079-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05079.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05080-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05080.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05082-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05082.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05083-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05083.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05085-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05085.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05086-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05086.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05087-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05087.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05088-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05088.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05089-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05089.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05092-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05092.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05094-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05094.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05095-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05095.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05099-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05099.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05100-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05100.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05101-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05101.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05102-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05102.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05105-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05105.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05106-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05106.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05107-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05107.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05109-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05109.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05111-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05111.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05112-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05112.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05115-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05115.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05116-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05116.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05119-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05119.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05120-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05120.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05121-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05121.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05122-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05122.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05123-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05123.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05124-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05124.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05125-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05125.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05126-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05126.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05127-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05127.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05128-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05128.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05130-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05130.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05131-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05131.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05133-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05133.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05134-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05134.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05135-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05135.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05136-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05136.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05137-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05137.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05138-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05138.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05139-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05139.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05140-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05140.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05143-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05143.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05144-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05144.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05145-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05145.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05146-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05146.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05147-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05147.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05148-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05148.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05149-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05149.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05150-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05150.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05151-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05151.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05152-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05152.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05153-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05153.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05154-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05154.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05155-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05155.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05156-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05156.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05157-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05157.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05158-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05158.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05159-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05159.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05160-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05160.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05161-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05161.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05162-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05162.jpg",
+              "in_media_library": true
+            },
+            {
+              "displayed_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05163-scaled-2000x1000.jpg",
+              "fullsize_url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05163.jpg",
+              "in_media_library": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
