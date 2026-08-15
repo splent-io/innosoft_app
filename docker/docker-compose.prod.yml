@@ -6,7 +6,19 @@ services:
     env_file:
       - ./.env.deploy
     ports:
-      - "5800:5000"
+      # Host interface for the published web port, taken from
+      # SPLENT_WEB_BIND_HOST in .env.deploy (marked user-tunable there, so
+      # product:deploy keeps whatever you set). It falls back to 0.0.0.0, all
+      # interfaces, when the variable is absent, which matches the historical
+      # behaviour. 127.0.0.1 is the right value when a proxy on the host
+      # terminates TLS and forwards traffic to loopback.
+      - "${SPLENT_WEB_BIND_HOST:-0.0.0.0}:5800:5000"
+    volumes:
+      # Uploaded and generated files live inside the container and are lost
+      # on every redeploy unless they are kept on named volumes.
+      - innosoft_app_web_deploy_uploads:/workspace/innosoft_app/src/innosoft_app/static/uploads
+      - innosoft_app_web_deploy_protected_uploads:${PROTECTED_UPLOADS_DIR:-/workspace/innosoft_app/protected_uploads}
+      - innosoft_app_web_deploy_archive:${ARCHIVE_DIR:-/workspace/innosoft_app/archive}
     depends_on:
       innosoft_app_db_deploy:
         condition: service_healthy
@@ -21,7 +33,13 @@ services:
       - ./.env.deploy
     command: --default-authentication-plugin=mysql_native_password
     ports:
-      - "33860:3306"
+      # Host interface for the published database port, taken from
+      # SPLENT_DB_BIND_HOST in .env.deploy (marked user-tunable there). It
+      # falls back to 0.0.0.0 when the variable is absent, matching the
+      # historical behaviour. 127.0.0.1 keeps the database reachable from the
+      # host itself only. The compose network already connects the web
+      # container to it, so the published port is for host-side tooling.
+      - "${SPLENT_DB_BIND_HOST:-0.0.0.0}:33860:3306"
     volumes:
       - innosoft_app_db_deploy_data:/var/lib/mysql
     healthcheck:
@@ -35,6 +53,9 @@ services:
 
 volumes:
   innosoft_app_db_deploy_data:
+  innosoft_app_web_deploy_uploads:
+  innosoft_app_web_deploy_protected_uploads:
+  innosoft_app_web_deploy_archive:
 
 networks:
   splent_network:
