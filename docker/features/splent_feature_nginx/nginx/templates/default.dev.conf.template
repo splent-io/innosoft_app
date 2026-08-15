@@ -1,0 +1,112 @@
+# Trust boundary for the forwarded headers.
+#
+# Same rule as in production. A remote client must never be able to assert
+# its own X-Forwarded-* headers, so whatever it sends is overwritten unless
+# its peer address is listed as a trusted proxy in
+# NGINX_TRUSTED_PROXY_CIDRS. That variable is empty by default, so no peer
+# is trusted and the headers are rewritten from $scheme and $host.
+#
+# Turn the trust on when a TLS terminator runs on the host in front of this
+# container, which is the teaching wiki deployment (the VM host terminates
+# HTTPS and forwards to the published port). Packets forwarded from the
+# host reach the container with the docker gateway as peer address, not
+# with 127.0.0.1, so the value is the docker network range, for example
+# NGINX_TRUSTED_PROXY_CIDRS=172.16.0.0/12 (add 192.168.65.0/24 on Docker
+# Desktop, or 127.0.0.1/32 when nginx runs with host networking). Publish
+# the HTTP port on loopback, "127.0.0.1:80:80", whenever a range that wide
+# is trusted, so that only the host terminator can reach this server.
+#
+# docker-entrypoint.d/15-splent-trusted-proxies.sh writes the variable into
+# the file included below on every container start, and writes it empty
+# when nothing is trusted, which leaves the default of 0. The path is
+# spelled out because the include inside a geo block takes a plain file
+# name, not a wildcard.
+geo $remote_addr $from_trusted_proxy {
+    default 0;
+    include /etc/nginx/trusted_proxies/trusted.conf;
+}
+
+# What the peer claims, with a fallback for the trusted proxy that sends no
+# header at all. These two are only read when the peer is trusted.
+map $http_x_forwarded_proto $client_forwarded_proto {
+    default $http_x_forwarded_proto;
+    ""      $scheme;
+}
+
+map $http_x_forwarded_host $client_forwarded_host {
+    default $http_x_forwarded_host;
+    ""      $host;
+}
+
+# What is actually forwarded upstream. An untrusted peer gets the values
+# this server can prove, which is what the app needs for CSRF checks and
+# for building absolute links such as password reset mails.
+map $from_trusted_proxy $forwarded_proto {
+    default $scheme;
+    1       $client_forwarded_proto;
+}
+
+map $from_trusted_proxy $forwarded_host {
+    default $host;
+    1       $client_forwarded_host;
+}
+
+upstream app {
+    server ${NGINX_UPSTREAM_HOST}:${NGINX_UPSTREAM_PORT};
+}
+
+server {
+    listen 80;
+    server_name ${NGINX_SERVER_NAME};
+
+    client_max_body_size 256M;
+
+    # Hardening headers. "always" makes nginx attach them to every
+    # response, including error pages. add_header is not inherited inside
+    # a location that declares add_header directives of its own, so repeat
+    # these there if you add one.
+    add_header X-Content-Type-Options nosniff always;
+    add_header X-Frame-Options SAMEORIGIN always;
+    add_header Referrer-Policy strict-origin-when-cross-origin always;
+
+    # Compress text responses above 1 KB. text/html is always compressed by
+    # the gzip module and must not be listed in gzip_types.
+    gzip on;
+    gzip_min_length 1024;
+    gzip_comp_level 5;
+    gzip_vary on;
+    gzip_proxied any;
+    gzip_types text/css text/javascript application/javascript application/json;
+
+    # Extension point for products and other features. Every *.conf file in
+    # /etc/nginx/conf.d/locations/ is loaded inside this server block, so a
+    # deployment can add locations of its own (a static alias, an internal
+    # location for X-Accel-Redirect downloads, ...) without patching this
+    # feature. This feature mounts its own docker/nginx/locations directory
+    # there, so in dev the files are dropped at
+    #   <workspace>/splent_feature_nginx/docker/nginx/locations/
+    # Another feature cannot contribute by shipping a compose fragment for
+    # this service, because the CLI runs every feature compose as its own
+    # project in dev and replaces same-named services when merging in prod.
+    # See locations/protected-files.conf.example for a worked example.
+    include /etc/nginx/conf.d/locations/*.conf;
+
+    location / {
+        proxy_pass http://app;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        # The entry nginx appends here is the peer it really saw, and it is
+        # the last one, which is the entry ProxyFix reads. A client cannot
+        # spoof it by prepending a chain of its own.
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $forwarded_proto;
+        proxy_set_header X-Forwarded-Host $forwarded_host;
+        proxy_read_timeout 120s;
+        proxy_buffering off;
+
+        # WebSocket support (dev hot-reload)
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+    }
+}
