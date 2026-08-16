@@ -1,0 +1,1356 @@
+[
+ {
+  "name": "Alba Ferri",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/de-devops-a-devsecpos/"
+ },
+ {
+  "name": "Alberto Asuero",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-100b-rows-manejando-grandes-cantidades-de-datos-en-el-cliente/"
+ },
+ {
+  "name": "Alberto Fernández",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/lo-nadie-me-conto-la-universidad/"
+ },
+ {
+  "name": "Alejandro Fdez Montes",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Web",
+    "url": "https://personal.us.es/afdez/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/limiting-global-warning-by-improving-data-centre-software/"
+ },
+ {
+  "name": "Alejandro Hall",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-deep-learning/"
+ },
+ {
+  "name": "Amador Durán",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-los-estudios-ingenieria-software-pasado-presente-futuro/"
+ },
+ {
+  "name": "Ana Domínguez Pérez",
+  "affiliation": "Copyright Clearance Center",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-sra-ana-dominguez-perez-sra-carmen-andrade-perez-sra-beatriz-diaz-fernandez/"
+ },
+ {
+  "name": "Ana Rosa González Diánez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/tecnologia-y-arte/"
+ },
+ {
+  "name": "Anabel Carmona Guitiérrez",
+  "affiliation": "Maxeon",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-energia-renovable-y-emprendimiento-anabel-carmona-guitierrez-maxeon/"
+ },
+ {
+  "name": "Andrés Marchante",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/seguridad-los-servicios-la-nube/"
+ },
+ {
+  "name": "Andrés Pérez Domínguez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/taller-iniciacion-scraping/"
+ },
+ {
+  "name": "Angel Jesús Varela Vaca",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/tema-a-especificar/"
+ },
+ {
+  "name": "Antoni Cobos Domínguez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/introduccion-al-hacking-1/"
+ },
+ {
+  "name": "Antonio Castillo",
+  "affiliation": "Deloitte",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-del-sr-antonio-castillo/"
+ },
+ {
+  "name": "Antonio Jesús García Nieto",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/antonio-jesus-garcia-nieto/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/iniciacion-a-la-clasificacion-de-imagenes-usando-redes-convolucionales/"
+ },
+ {
+  "name": "Beatriz Díaz Fernández",
+  "affiliation": "Copyright Clearance Center",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-sra-ana-dominguez-perez-sra-carmen-andrade-perez-sra-beatriz-diaz-fernandez/"
+ },
+ {
+  "name": "Benito Peña Sánchez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/building-mobileweb-applications-and-deployment-on-cloud/"
+ },
+ {
+  "name": "Carlos Luis Parra Calderón",
+  "affiliation": "Hospital Universitario Virgen del Rocío",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/transformando-la-salud-con-inteligencia-artificial/"
+ },
+ {
+  "name": "Carlos Müller Cejas",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-1/"
+ },
+ {
+  "name": "Carlos Pérez",
+  "affiliation": "CoverMananger",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-oficina-software-libre-covermanage/"
+ },
+ {
+  "name": "Carlos Pérez Fernández",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+ },
+ {
+  "name": "Carmen Andrade Pérez",
+  "affiliation": "Copyright Clearance Center",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-sra-ana-dominguez-perez-sra-carmen-andrade-perez-sra-beatriz-diaz-fernandez/"
+ },
+ {
+  "name": "Clara Grima",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-los-estudios-ingenieria-software-pasado-presente-futuro-2/"
+ },
+ {
+  "name": "Clara Grima Ruiz",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-clara-grima-libnamic/"
+ },
+ {
+  "name": "Coral Calero Muñoz",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/green-computing/"
+ },
+ {
+  "name": "Daniel Escribano Ales",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/como-luchar-contra-google/"
+ },
+ {
+  "name": "Daniel Garcia",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/futuro-sin-contrasenas/"
+ },
+ {
+  "name": "Daniel García",
+  "affiliation": "PRiSE",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-prise-maria-teresa/"
+ },
+ {
+  "name": "Daniel García Moreno",
+  "affiliation": "SUSE",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-opensuse-maptool/"
+ },
+ {
+  "name": "David Borrego",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-roadmap-de-oportunidades-tecnologicas/"
+ },
+ {
+  "name": "David Brincau Cano",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/programacion-competitiva/"
+ },
+ {
+  "name": "David Sánchez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/mayor-quiero-pentester/"
+ },
+ {
+  "name": "Diego Fernández Barrera",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-blockchain-que-es-y-como-funciona/"
+ },
+ {
+  "name": "Elena de la Osa",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/especial-ninos-linea-del-tiempo-se-ha-desarrollado-la-web-2-2/"
+ },
+ {
+  "name": "Esperanza Caro",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-proyecto-smart-cities-del-ayuntamiento-sevilla/"
+ },
+ {
+  "name": "Eva Esquivel Peter Cutino",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/taller-integracion-animaciones-unity/"
+ },
+ {
+  "name": "Federico Castanedo Sotela",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/fcastanedo/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/como-hacer-los-equipos-de-data-science-10-veces-mas-productivo/"
+ },
+ {
+  "name": "Fernando Fernández Mancera",
+  "affiliation": "Red Hat",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-del-sr-fernando-fernandez-mancera/"
+ },
+ {
+  "name": "Fernando La Chica",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Web",
+    "url": "https://flachica.github.io/fernandolachica/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/odoo-erp-con-alma-de-framework/"
+ },
+ {
+  "name": "Fernando Soler",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/retos-sociales-y-eticos-de-la-ia/"
+ },
+ {
+  "name": "Francisco Ramírez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/ciberseguridad-hacking-etico/"
+ },
+ {
+  "name": "Francisco Valencia",
+  "affiliation": "Secure&It",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/secureit/"
+ },
+ {
+  "name": "Frank «Azhrei» Edwars",
+  "affiliation": "MapTool",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-del-sr-frank-azhrei-edwards/"
+ },
+ {
+  "name": "Gonzalo Fernández de la Torre",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/gonzalo-fernndez-de-la-torre-157291126/?originalSubdomain=es"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/trading-algoritmico-con-criptomonedas/"
+ },
+ {
+  "name": "Guillermo Rodríguez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/tecnologia-y-arte/"
+ },
+ {
+  "name": "Helena Hernández Acuaviva",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/tecnologia-y-arte/"
+ },
+ {
+  "name": "Ignasi Labastida i Juan",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-emprendimiento-ignasi-labastida-i-juan/"
+ },
+ {
+  "name": "Inmaculada Alcón Piñero",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-por-que-ellas-no-escogen-carreras-tecnicas/"
+ },
+ {
+  "name": "Inmaculada Rodríguez Vizcaína",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-introduccion-a-singular-sass/"
+ },
+ {
+  "name": "Irene Ugolini Sánchez-Barroso",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/tecnologia-y-arte/"
+ },
+ {
+  "name": "Isabel Cayrasso Buzón",
+  "affiliation": "GeseRisk",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/taller-de-ciberseguridad/"
+ },
+ {
+  "name": "Israel Blancas Álvares",
+  "affiliation": "Red Hat",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/redhat/"
+ },
+ {
+  "name": "Javier Antonio Pérez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-gestion-emocional-javier-antonio-perez/"
+ },
+ {
+  "name": "Javier Haro",
+  "affiliation": "Tragsatec",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-tragsatec-pandora-clarisa-mesa-redonda/"
+ },
+ {
+  "name": "Javier María de Domingo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-emprendimiento-javier-maria-de-domingo/"
+ },
+ {
+  "name": "Jesús Alcaide Marín",
+  "affiliation": "NTT DATA",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-nttdata-accenture/"
+ },
+ {
+  "name": "Jesús Bermejo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-los-nuevos-retos-en-la-ingenieria-de-software-aplicada/"
+ },
+ {
+  "name": "Jesús Bocanegra",
+  "affiliation": "Libnamic",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-del-sr-jesus-bocanegra/"
+ },
+ {
+  "name": "Jesús Manuel Sánchez Alanís",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/introduccion-al-pentest-herramientas/"
+ },
+ {
+  "name": "Jorge Coronado",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-osint-que-sabe-internet-sobre-ti/"
+ },
+ {
+  "name": "José Carlos Gómez",
+  "affiliation": "Accenture",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-de-accenture/"
+ },
+ {
+  "name": "José Eulalio Bernáldez Torres",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-de-videojuegos/"
+ },
+ {
+  "name": "José González",
+  "affiliation": "Insinno",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/el-uso-de-chat-gpt-para-datos-estructurados-con-insinno/"
+ },
+ {
+  "name": "José Ignacio Morales Conde",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+ },
+ {
+  "name": "José Martínez García",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/introduccion-computacion-cuantica/"
+ },
+ {
+  "name": "Juan Ariza Toledano",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018,
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/buenas-practicas-escribiendo-dockerfiles/"
+ },
+ {
+  "name": "Leila Pontiga Gaytán",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/tecnologia-y-arte/"
+ },
+ {
+  "name": "Luis Pablo del Árbol Pérez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-wide-wild-west-2-0/"
+ },
+ {
+  "name": "Manuel Jesús Flores Montaño",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021,
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-manuel-jesus-flores-sugus/"
+ },
+ {
+  "name": "Maria José Escalona",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/mjescalona/"
+   }
+  ],
+  "edition_years": [
+   2020,
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/ahora-estoy-acabando-la-carrera/"
+ },
+ {
+  "name": "María Arias de Reyna",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/privacidad-autodefensa-internet/"
+ },
+ {
+  "name": "María José Escalona",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-copyright-escalona-guadaltel/"
+ },
+ {
+  "name": "María Teresa Gómez López",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-la-sra-maria-teresa-gomez-lopez/"
+ },
+ {
+  "name": "Mayte Gómez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Web",
+    "url": "http://www.idea.us.es/staff/maria-teresa-gomez-phd/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/procesos-inteligentes-en-la-industria-4-0/"
+ },
+ {
+  "name": "Miguel Ángel Cabrera",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/miguel-ángel-cabrera-miñagorri-67a013162"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/las-soluciones-de-machine-learning/"
+ },
+ {
+  "name": "Mª Carmen Romero",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-gestion-de-la-seguridad-dentro-de-las-organizaciones-normativa-de-seguridad-de-la-universidad-de-sevilla/"
+ },
+ {
+  "name": "Mª Iluminada Baturone Castillo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/identidades-y-el-uso-de-la-biometria-en-esas-identidades/"
+ },
+ {
+  "name": "Mónica Romero Nájera",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-ingenieria-informatica-pasado-presente-y-futuro/"
+ },
+ {
+  "name": "Olga Albillos Castillo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/tecnologia-y-arte/"
+ },
+ {
+  "name": "Pablo Borondo García",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/emprendimiento-software/"
+ },
+ {
+  "name": "Pablo Cala",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+ },
+ {
+  "name": "Paco Profe",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/becaria-ciberseguridad-no-morir-intento/"
+ },
+ {
+  "name": "Patricia Bornes Rodríguez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-proyeccion-de-hologramas-sobre-tejido-semitransparente-concierto-de-vocaloid/"
+ },
+ {
+  "name": "Paula Garrido Lerman",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/introduccion-al-pentest-herramientas/"
+ },
+ {
+  "name": "Pedro Grau",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-drones-lo-que-se-puede-hacer-ahora-mismo-con-ellos-y-tendencias-futuras/"
+ },
+ {
+  "name": "Pedro J. Molina",
+  "affiliation": "METADEV",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-metadev-deloitte/"
+ },
+ {
+  "name": "Pepe Riquelme",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/josé-cristóbal-riquelme-santos-532ba416/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/aportaciones-ivestigacion-y-transferencia-en-ciencia-de-datos/"
+ },
+ {
+  "name": "Rafael Corchuelo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Web",
+    "url": "https://investigacion.us.es/sisius/sis_showpub.php?idpers=3263"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/introduccion-a-la-computacion-cuantica/"
+ },
+ {
+  "name": "Rafael Fresno",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-oas-toolsgenerator/"
+ },
+ {
+  "name": "Rafael M Guitart",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-sostenibilidad-rafael-m-guitart/"
+ },
+ {
+  "name": "Rafael Martínez Gasca",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/identificacion-de-ciberseguridades/"
+ },
+ {
+  "name": "Rafael Poveda",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-de-b2cafelog-a-wordpress/"
+ },
+ {
+  "name": "Rafael Poveda Santos",
+  "affiliation": "Accenture",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-de-accenture/"
+ },
+ {
+  "name": "Ramón Salado",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-seguridad-en-entornos-iot/"
+ },
+ {
+  "name": "Raquel Campuzano Godoy",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/lecciones-he-aprendido-escribiendo-documentacion-tecnica/"
+ },
+ {
+  "name": "Raúl Castilla",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/taller-sistemas-operativos-de-los-robots-librerias-software-y-herramientas-de-ayuda-para-construir-una-aplicacion-robot/"
+ },
+ {
+  "name": "Raúl López García",
+  "affiliation": "NTT Data",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-ntt-data-raul-lopez-garcia/"
+ },
+ {
+  "name": "Raúl Yeguas",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-frontend-tambien-es-diseno/"
+ },
+ {
+  "name": "Ricardo Arjona",
+  "affiliation": "EC2CE",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/la-ia-motor-de-la-transformacion-laboral/"
+ },
+ {
+  "name": "Rocío Berenguel Gallardo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-los-estudios-ingenieria-software-pasado-presente-futuro-2-2/"
+ },
+ {
+  "name": "Rocío García Robles",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/tecnologia-y-arte/"
+ },
+ {
+  "name": "Sancho Lerena",
+  "affiliation": "Pandora FMS",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-de-pandora/"
+ },
+ {
+  "name": "Sergio Medina",
+  "affiliation": "Avenade",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/ciberseguridad-luchando-contra-el-lado-oscuro-de-la-fuerza/"
+ },
+ {
+  "name": "Soraya Peceño Capilla",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/events/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-1/"
+ },
+ {
+  "name": "Verónica Dahl",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Web",
+    "url": "https://www.cs.sfu.ca/~veronica/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/hacia-una-inteligencia-artificial-regenerativa-y-redistributiva/"
+ },
+ {
+  "name": "Vicente Herrera",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/ciberseguridad-containers-kubernetes/"
+ },
+ {
+  "name": "Yoana Dimitrova",
+  "affiliation": null,
+  "position": "Presidenta Innosoft 2020",
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/acto-de-clausura/"
+ },
+ {
+  "name": "Ángel de Miguel Meana",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/introduccion-a-reactjs/"
+ }
+]

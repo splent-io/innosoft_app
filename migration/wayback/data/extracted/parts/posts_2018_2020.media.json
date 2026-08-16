@@ -1,0 +1,110 @@
+[
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2018/10/logo_2_blanco-300x300.png",
+  "kind": "logo",
+  "edition_year": 2018,
+  "caption": null,
+  "used_by": [
+   "https://www.innosoftdays.com/2018/10/24/innosoft-days-nueva-imagen/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2018/11/201819-Cartel-v7-1.png",
+  "kind": "poster",
+  "edition_year": 2018,
+  "caption": null,
+  "used_by": [
+   "https://www.innosoftdays.com/2018/10/24/innosoft-days-nueva-imagen/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2018/11/Daniel-Liszka-300x300.png",
+  "kind": "photo",
+  "edition_year": 2018,
+  "caption": null,
+  "used_by": [
+   "https://www.innosoftdays.com/2018/11/07/competicion-ideas-open-source-modelos-negocio-bitnami/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2018/11/Pablo-Trindad.jpg",
+  "kind": "photo",
+  "edition_year": 2018,
+  "caption": null,
+  "used_by": [
+   "https://www.innosoftdays.com/2018/11/07/competicion-ideas-open-source-modelos-negocio-bitnami/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2018/11/Jesus-Gonzalez.jpg",
+  "kind": "photo",
+  "edition_year": 2018,
+  "caption": null,
+  "used_by": [
+   "https://www.innosoftdays.com/2018/11/07/competicion-ideas-open-source-modelos-negocio-bitnami/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2019/10/imagen-1.png",
+  "kind": "other",
+  "edition_year": 2019,
+  "caption": "Doodle creado por Google para celebrar el aniversario de la World Wide Web.",
+  "used_by": [
+   "https://www.innosoftdays.com/2019/10/22/aniversario-la-web-30-anos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2019/10/imagen-2.png",
+  "kind": "other",
+  "edition_year": 2019,
+  "caption": "Archie Query Form, el primer buscador",
+  "used_by": [
+   "https://www.innosoftdays.com/2019/10/22/aniversario-la-web-30-anos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2019/10/Deep-web-Dark-web-y-red-Tor-Iceberg.jpg",
+  "kind": "other",
+  "edition_year": 2019,
+  "caption": "Imagen descriptiva sobre el tamaño de la Deep Web .",
+  "used_by": [
+   "https://www.innosoftdays.com/2019/10/29/lado-oscuro-la-web/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/Cartel-v1-1.png",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": null,
+  "used_by": [
+   "https://www.innosoftdays.com/2020/11/09/primeras-ponencias-confirmadas-innosoft-days-2020/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/Martes_24-Innosoft-2020-min.png",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": null,
+  "used_by": [
+   "https://www.innosoftdays.com/2020/11/20/ponencias-definitivas-24112020/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/jueves_26-min.png",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": null,
+  "used_by": [
+   "https://www.innosoftdays.com/2020/11/21/ponencias-definitivas-26112020/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/viernes_26-min.png",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": null,
+  "used_by": [
+   "https://www.innosoftdays.com/2020/11/22/ponencias-definitivas-27112020/"
+  ]
+ }
+]

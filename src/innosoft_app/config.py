@@ -41,29 +41,13 @@ class _SiteConfig:
         {"network": "Twitch", "href": "https://www.twitch.tv/innosoftdays"},
         {"network": "LinkedIn", "href": "https://www.linkedin.com/company/innosoft-days/"},
     ]
-    SITE_EVENT = {
-        "edition": "XIV",
-        "dates": "3–5 Nov 2026",
-        "venue": "ETSII · Universidad de Sevilla",
-        "iso": "2026-11-03T09:00:00",
-    }
-    SITE_SPONSORS = [
-        "CaixaBank Tech", "NTT Data", "Indra", "Diverso Lab",
-        "Universidad de Sevilla", "MCIU · AEI", "Universidad de Málaga", "ETSII",
-    ]
     SITE_LOGO = "img/innosoft-logo.png"
-    SITE_GALLERY = [
-        "img/gallery/photo-2.jpg",
-        "img/gallery/photo-10.jpg",
-        "img/gallery/photo-14.jpg",
-        "img/gallery/photo-18.jpg",
-        "img/gallery/photo-23.jpg",
-        "img/gallery/photo-26.jpg",
-    ]
-    SITE_GALLERY_TITLE = "Galería"
-    SITE_SPONSORS_TITLE = "Patrocinadores y colaboradores"
+    # The headline moment (edition, dates, venue, countdown, registration)
+    # is content, not config: the editions feature owns the homepage hero
+    # from the edition flagged as current in the admin. Likewise sponsors
+    # (partners feature) and the photo strip (media feature). What stays
+    # here is brand copy that does not change from one edition to the next.
     SITE_HERO_ACTIONS = [
-        {"label": "Ver eventos", "href": "/events"},
         {"label": "Quiénes somos", "href": "/about", "class": "btn-ghost"},
     ]
     SITE_HIGHLIGHTS_TITLE = "¿Por qué asistir?"
@@ -74,15 +58,15 @@ class _SiteConfig:
         {"title": "Networking", "text": "Conoce a gente con tu misma pasión por el software."},
     ]
     SITE_CTA = {
-        "title": "¿Te lo vas a perder?",
-        "text": "Tres días de tecnología, aprendizaje y diversión en la ETSII.",
-        "button": "Apúntate a InnoSoft Days",
-        "href": "/events",
+        "title": "¿Quieres participar?",
+        "text": "Propón una charla o un taller, patrocina la próxima edición o simplemente cuéntanos qué te gustaría ver.",
+        "button": "Escríbenos",
+        "href": "/contact",
     }
 
-    # i18n (native Flask-Babel support)
-    BABEL_DEFAULT_LOCALE = "es"
-    BABEL_SUPPORTED_LOCALES = ["es", "en"]
+    # i18n: the language is product configuration read from the environment
+    # (BABEL_DEFAULT_LOCALE / BABEL_SUPPORTED_LOCALES in [tool.splent.config]
+    # of pyproject.toml), so it is not repeated here.
 
 
 

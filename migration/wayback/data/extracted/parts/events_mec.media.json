@@ -1,0 +1,137 @@
+[
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/Camboi-Climático-min.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Limiting Global Warning by Improving Data-Centre Software",
+  "used_by": [
+   "https://www.innosoftdays.com/events/limiting-global-warning-by-improving-data-centre-software/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/IA-regenarativa-min.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Hacia una Inteligencia Artificial Regenerativa y Redistributiva (keynote speech)",
+  "used_by": [
+   "https://www.innosoftdays.com/events/hacia-una-inteligencia-artificial-regenerativa-y-redistributiva/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/Identidad_Biométrica-min.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "¿Quién es quién en una sociedad digital?",
+  "used_by": [
+   "https://www.innosoftdays.com/events/identidades-y-el-uso-de-la-biometria-en-esas-identidades/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/Odoo-Turn-It-Easy-min.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Odoo, ERP con alma de framework",
+  "used_by": [
+   "https://www.innosoftdays.com/events/odoo-erp-con-alma-de-framework/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/computacion-cuantica.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Introducción a la Computación Cuántica",
+  "used_by": [
+   "https://www.innosoftdays.com/events/introduccion-a-la-computacion-cuantica/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/convolucionales-min.png",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Iniciación a la clasificación de imágenes usando redes convolucionales",
+  "used_by": [
+   "https://www.innosoftdays.com/events/iniciacion-a-la-clasificacion-de-imagenes-usando-redes-convolucionales/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/datarobot.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Como hacer los equipos de Data Science 10 veces más productivo",
+  "used_by": [
+   "https://www.innosoftdays.com/events/como-hacer-los-equipos-de-data-science-10-veces-mas-productivo/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/escape-room-min.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Scape Room",
+  "used_by": [
+   "https://www.innosoftdays.com/events/scape-room/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/industria-4.0.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Procesos Inteligentes en la Industria 4.0",
+  "used_by": [
+   "https://www.innosoftdays.com/events/procesos-inteligentes-en-la-industria-4-0/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/lecciones-trading-criptomonedas-min.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Trading algorítmico con criptomonedas",
+  "used_by": [
+   "https://www.innosoftdays.com/events/trading-algoritmico-con-criptomonedas/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/machine-learning.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Introducción a soluciones open-source de “Machine Learning”",
+  "used_by": [
+   "https://www.innosoftdays.com/events/las-soluciones-de-machine-learning/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/swift4TensorFlow-min.png",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Aprendizaje Automático con Swift",
+  "used_by": [
+   "https://www.innosoftdays.com/events/gumus/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/the-hack-on-innovation_131-min.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Taller Hackatón",
+  "used_by": [
+   "https://www.innosoftdays.com/events/taller-hackaton/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/universidad-corporativa-min.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Universidad Empresarial: el binomio perfecto",
+  "used_by": [
+   "https://www.innosoftdays.com/events/universidad-empresarial-el-binomio-perfecto/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/vehiculo-autonomo.jpg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Aportaciones de investigación y Transferencia en ciencia de datos",
+  "used_by": [
+   "https://www.innosoftdays.com/events/aportaciones-ivestigacion-y-transferencia-en-ciencia-de-datos/"
+  ]
+ }
+]

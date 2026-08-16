@@ -1,0 +1,71 @@
+[
+ {
+  "year": 2018,
+  "number": 6,
+  "roman": "VI",
+  "name": "InnoSoft Days 2018",
+  "starts_on": "2018-11-12",
+  "ends_on": "2018-11-16",
+  "venue": "ETSII, Universidad de Sevilla (Av. Reina Mercedes, Sevilla)",
+  "summary": "50 años de la Ingeniería del Software. 12, 13 y 16 de noviembre de 2018 en la ETSII (Sevilla).",
+  "description_html": "<p>50 años de la Ingeniería del Software</p><p>12, 13 y 16 de noviembre de 2018 en la ETSII (Sevilla)</p><h3>Actividades fuera de horario (13 de noviembre)</h3><p><b>Actividades fuera de horario:</b></p><ul>\n<li><b>Software Room</b>: de 8:30 a 19:00 en el Aula F0.84. Descanso a las 14:30 hasta las 15:30. <b>El plazo de inscripción se ha cerrado.</b></li>\n<li><b>Torneo de programación TOURNAMETSII</b>: de 17:30 hasta 19:30 en la Sala de estudios. <b>El plazo de inscripción se ha cerrado.</b></li>\n<li><b>Gymkhana</b>: desde 12:40 hasta que finalicen todos los grupos. La duración será 30 minutos apróximadamente.</li>\n<li><b>Trivia</b>: se desarrollará en uno de los stands de la ETSII. Consistirá en un test rápido de preguntas sobre la Ingeniería del Software, que variarán en dificultad para que todos tengan oportunidad de competir.</li>\n<li><b>Museo interactivo</b>: en la Sala de estudios. Se enseñará a los alumnos la historia de la Ingeniería del Software, el papel de la mujer dentro de ella, ordenadores con sistemas operativos antiguos y códigos fuentes de distintos programas.</li>\n</ul>",
+  "registration_url": null,
+  "sources": [
+   "https://institucional.us.es/innosoft/programa/"
+  ],
+  "confidence": "high",
+  "notes": "Header tagline and dates line of the institutional site as captured on 20190621 (the site still showed the 2018 edition). Programme tables give the per-day schedule; venue is the footer address."
+ },
+ {
+  "year": 2019,
+  "number": 7,
+  "roman": "VII",
+  "name": "InnoSoft Days 2019",
+  "starts_on": "2019-11-04",
+  "ends_on": "2019-11-06",
+  "venue": "ETSII, Universidad de Sevilla (Av. Reina Mercedes, Sevilla)",
+  "summary": "La Web cumple 30 años. 4, 5 y 6 de noviembre de 2019 en la ETSII (Sevilla). Las jornadas hacen hincapié en el 30 aniversario de la Web.",
+  "description_html": "<p>Desde el curso 2013/2014, los <strong>alumnos de cuarto</strong> <strong>de Ingeniería Informática – Ingeniería del Software</strong> de la Escuela Técnica Superior de Ingeniería Informática (Universidad de Sevilla) organizan unas jornadas sobre innovación tecnológica y emprendimiento.</p>\n<p>Este año las jornadas se celebrarán los días <strong>4</strong><strong>, 5</strong><strong> y 6 de noviembre de 2019</strong>, y harán hincapié en el <strong>30 aniversario de la Web</strong>. Habrá talleres, debates, conferencias, escape rooms, concursos de programación… Puedes inscribirte a todas estas actividades en el apartado «Inscripción» del menú superior. ¡No te los pierdas!</p><p><a href=\"https://www.youtube.com/watch?v=JW3Hh1wqd_U\">Vídeo de presentación (YouTube)</a></p><figure><img src=\"https://i.imgur.com/IaHdCku.png\" alt=\"Cartel InnoSoft Days 2019\"/><figcaption>Cartel</figcaption></figure>",
+  "registration_url": null,
+  "sources": [
+   "https://institucional.us.es/innosoft/"
+  ],
+  "confidence": "high",
+  "notes": "Home page of the institutional site captured 20201104, still showing the 2019 edition (welcome text 'InnoSoft Days 2019', tagline, dates line, poster on imgur, YouTube video). The 'INSCRIPCIONES' menu link (institucional.us.es/innosoft/inscipciones/) is not kept as registration_url (dead, 404 in 2024)."
+ },
+ {
+  "year": 2020,
+  "number": 8,
+  "roman": "VIII",
+  "name": "InnoSoft Days 2020",
+  "starts_on": "2020-11-24",
+  "ends_on": "2020-11-27",
+  "venue": "Online (Twitch, https://www.twitch.tv/innosoftdays)",
+  "summary": "¡Ok Google, apúntame a Innosoft! 24, 26 y 27 de noviembre 2020.",
+  "description_html": "<p>¡Ok Google, apúntame a Innosoft!</p><p>24, 26 y 27 de noviembre 2020</p>",
+  "registration_url": null,
+  "sources": [
+   "https://institucional.us.es/innosoft/events/hacia-una-inteligencia-artificial-regenerativa-y-redistributiva/"
+  ],
+  "confidence": "medium",
+  "notes": "Only the header (tagline + dates line) of an event page captured 20201127 documents the edition; the keynote ran on 'Twitch Innosoft', hence online. The footer still lists the ETSII address as 'Localización'."
+ },
+ {
+  "year": 2021,
+  "number": 9,
+  "roman": "IX",
+  "name": "InnoSoft Days 2021",
+  "starts_on": "2021-11-08",
+  "ends_on": "2021-11-17",
+  "venue": "ETSII, Universidad de Sevilla (Av. Reina Mercedes, Sevilla)",
+  "summary": "¡Ponencias sobre ciberseguridad! 8, 10, 15 y 17 de noviembre 2021.",
+  "description_html": "<p>¡Ponencias sobre ciberseguridad!</p><p>8, 10, 15 y 17 de noviembre 2021</p>",
+  "registration_url": null,
+  "sources": [
+   "https://institucional.us.es/innosoft/programa-ix-edicion/",
+   "https://institucional.us.es/innosoft/programa-ix-edicion/?event-day=20211115"
+  ],
+  "confidence": "high",
+  "notes": "Tagline and dates line of the IX-edition header; the MEC calendar lists the programme per day (8, 10, 15, 17 Nov 2021). Days 15 and 17 come from the later ?event-day capture (corrected programme), days 8 and 10 from the 2021-11-07 capture. Speaker names live on /ponentes-ix-edicion/, not captured."
+ }
+]

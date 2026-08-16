@@ -1,0 +1,195 @@
+[
+ {
+  "name": "Antonio Vallecillo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/v-edicion/"
+ },
+ {
+  "name": "Enrique Fernández Borja",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/v-edicion/"
+ },
+ {
+  "name": "Sara Galisteo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/?method=ical&id=2512"
+ },
+ {
+  "name": "Fernando Pacheco Ibáñez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/vii-edicion/"
+ },
+ {
+  "name": "Nicolás Afonso Alonso",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/viii-edicion/"
+ },
+ {
+  "name": "Pablo García Sánchez",
+  "affiliation": "Oficina de Software Libre (Universidad de Sevilla)",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/x-edicion/"
+ },
+ {
+  "name": "Andreas Zeller",
+  "affiliation": "CISPA Helmholtz Center for Information Security / Universidad de Saarland",
+  "position": "Profesor e investigador",
+  "bio_html": "<p><b>Andreas Zeller</b> es profesor en el <b>Centro Helmholtz CISPA para la Seguridad de la Información</b> y en la <b>Universidad de Saarland</b> (Alemania), donde lidera un grupo de investigación de referencia mundial en <b>ingeniería de software y pruebas automatizadas</b>. <br/><br/> Su trabajo pionero en depuración automatizada, minería de repositorios de software, generación de especificaciones y pruebas de seguridad ha tenido un gran impacto tanto en la academia como en la industria, siendo reconocido con numerosos premios internacionales. <br/><br/> Zeller es miembro distinguido de la <b>ACM (ACM Fellow)</b>, ha recibido el <b>Premio a la Investigación Sobresaliente de ACM SIGSOFT</b> y cuenta con <b>dos becas ERC (European Research Council Grants)</b>, una de las financiaciones más competitivas en Europa para investigadores individuales. <br/><br/> Actualmente, su equipo desarrolla proyectos de vanguardia en el ámbito de las pruebas de software, entre los que participa José Antonio Zamudo, antiguo alumno de nuestra escuela y actual doctorando bajo la dirección de Andreas Zeller. <br/><br/></p>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más información sobre Zeller",
+    "url": "https://andreas-zeller.info/"
+   },
+   {
+    "label": "Charla Jueves 6",
+    "url": "https://www.doctoradoinformatica.us.es/language-based-software-testing/"
+   },
+   {
+    "label": "Charla Viernes 7",
+    "url": "https://www.doctoradoinformatica.us.es/winning-two-erc-grants-in-a-row-insights-and-experiences/"
+   }
+  ],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Jorge Martos",
+  "affiliation": "Indra",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "José Carlos Moral Cuevas",
+  "affiliation": "NTT Data",
+  "position": "Experto en seguridad",
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Manuel Carranza",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Mario Jiménez Calderón",
+  "affiliation": "CaixaBank Tech",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Pablo Dávila Herrero",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Pablo Reina Jiménez",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Docente e investigador",
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Pedro Almagro Blanco",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesor",
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Rebeca Sarai González Guerra",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ }
+]

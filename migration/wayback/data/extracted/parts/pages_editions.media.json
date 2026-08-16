@@ -1,0 +1,5323 @@
+[
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/horario-1024x1024.jpg",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Horario de las jornadas X edición",
+  "used_by": [
+   "https://www.innosoftdays.com/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/cartelInsta.jpg",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Cartel de las jornadas X edición",
+  "used_by": [
+   "https://www.innosoftdays.com/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/10/IMG_0386.png",
+  "kind": "logo",
+  "edition_year": 2022,
+  "caption": "Logotipo InnoSoft Days (barra lateral de la portada 2022)",
+  "used_by": [
+   "https://www.innosoftdays.com/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2023/10/Cartel-XI.png",
+  "kind": "poster",
+  "edition_year": 2023,
+  "caption": "Cartel de las jornadas XI edición",
+  "used_by": [
+   "https://www.innosoftdays.com/",
+   "https://www.innosoftdays.com/xi-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2024/10/Flyerpara-impresion-en-pequeno-1.webp",
+  "kind": "poster",
+  "edition_year": 2024,
+  "caption": "Flyer de las jornadas XII edición (2024)",
+  "used_by": [
+   "https://www.innosoftdays.com/",
+   "https://www.innosoftdays.com/en/innosoft-days-english/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2024/10/cartelMentoria2.webp",
+  "kind": "poster",
+  "edition_year": 2024,
+  "caption": "Cartel de las mentorías, XII edición (2024)",
+  "used_by": [
+   "https://www.innosoftdays.com/",
+   "https://www.innosoftdays.com/en/innosoft-days-english/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2024/10/Torneos-Videojuegos-InnoSoft.webp",
+  "kind": "poster",
+  "edition_year": 2024,
+  "caption": "Cartel de los torneos de videojuegos, XII edición (2024)",
+  "used_by": [
+   "https://www.innosoftdays.com/",
+   "https://www.innosoftdays.com/en/innosoft-days-english/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2024/10/Charla-sostenibilidad-Anabel-Carmona.webp",
+  "kind": "poster",
+  "edition_year": 2024,
+  "caption": "Cartel de la charla de sostenibilidad de Anabel Carmona (2024)",
+  "used_by": [
+   "https://www.innosoftdays.com/",
+   "https://www.innosoftdays.com/en/innosoft-days-english/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2024/10/cartel7.webp",
+  "kind": "poster",
+  "edition_year": 2024,
+  "caption": "Cartel de actividades XII edición (2024), 7",
+  "used_by": [
+   "https://www.innosoftdays.com/",
+   "https://www.innosoftdays.com/en/innosoft-days-english/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2024/10/cartel6-816x1024.webp",
+  "kind": "poster",
+  "edition_year": 2024,
+  "caption": "Cartel de actividades XII edición (2024), 6",
+  "used_by": [
+   "https://www.innosoftdays.com/",
+   "https://www.innosoftdays.com/en/innosoft-days-english/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/cartel-minecraft.jpg",
+  "kind": "poster",
+  "edition_year": 2024,
+  "caption": "Cartel del torneo de Minecraft, XII edición (2024)",
+  "used_by": [
+   "https://www.innosoftdays.com/",
+   "https://www.innosoftdays.com/en/innosoft-days-english/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/etsii.jpg",
+  "kind": "other",
+  "edition_year": 2025,
+  "caption": "Imagen de la portada 2025 (etsii)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/inicio/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/innosoft.jpg",
+  "kind": "other",
+  "edition_year": 2025,
+  "caption": "Imagen de la portada 2025 (innosoft)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/inicio/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/interiorEtsii.jpg",
+  "kind": "other",
+  "edition_year": 2025,
+  "caption": "Imagen de la portada 2025 (interiorEtsii)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/inicio/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2018/10/Logo-antiguo.png",
+  "kind": "logo",
+  "edition_year": 2017,
+  "caption": "Logotipo de las jornadas, V edición (2017)",
+  "used_by": [
+   "https://www.innosoftdays.com/v-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/10/V-edicion-cartel-scaled.jpg",
+  "kind": "poster",
+  "edition_year": 2017,
+  "caption": "Cartel de la V edición (2017)",
+  "used_by": [
+   "https://www.innosoftdays.com/v-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2018/10/logo_2_blanco-300x300.png",
+  "kind": "logo",
+  "edition_year": 2018,
+  "caption": "Logotipo de las jornadas, VI edición (2018)",
+  "used_by": [
+   "https://www.innosoftdays.com/vi-edicion/",
+   "https://www.innosoftdays.com/vii-edicion/",
+   "https://www.innosoftdays.com/viii-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/cartel2020.jpeg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Cartel de la VIII edición (2020)",
+  "used_by": [
+   "https://www.innosoftdays.com/viii-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/Cartel-v1-1.png",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Cartel de la VIII edición (2020)",
+  "used_by": [
+   "https://www.innosoftdays.com/viii-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/Martes_24-Innosoft-2020-min.png",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Programa diario de la VIII edición (2020), Martes",
+  "used_by": [
+   "https://www.innosoftdays.com/viii-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/jueves_26-min.png",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Programa diario de la VIII edición (2020), jueves",
+  "used_by": [
+   "https://www.innosoftdays.com/viii-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/viernes_26-min.png",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Programa diario de la VIII edición (2020), viernes",
+  "used_by": [
+   "https://www.innosoftdays.com/viii-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2021/10/En04V6cW4AAbG_8-1.jpg",
+  "kind": "photo",
+  "edition_year": 2020,
+  "caption": "Fotos de la VIII edición (2020), 1",
+  "used_by": [
+   "https://www.innosoftdays.com/viii-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2021/10/En2qN0iXYAIq_6X-1.jpg",
+  "kind": "photo",
+  "edition_year": 2020,
+  "caption": "Fotos de la VIII edición (2020), 2",
+  "used_by": [
+   "https://www.innosoftdays.com/viii-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2021/10/En2IUHAXcAIYxjH-3.jpg",
+  "kind": "photo",
+  "edition_year": 2020,
+  "caption": "Fotos de la VIII edición (2020), 3",
+  "used_by": [
+   "https://www.innosoftdays.com/viii-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2021/10/En0zEkMXUAE3xwA.jpg",
+  "kind": "photo",
+  "edition_year": 2020,
+  "caption": "Fotos de la VIII edición (2020), 4",
+  "used_by": [
+   "https://www.innosoftdays.com/viii-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2021/10/cartelfinal-scaled.jpg",
+  "kind": "poster",
+  "edition_year": 2021,
+  "caption": "El cartel de la novena edición (IX edición, 2021)",
+  "used_by": [
+   "https://www.innosoftdays.com/ix-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/logo-innosoft.jpg",
+  "kind": "logo",
+  "edition_year": 2021,
+  "caption": "Logotipo de las jornadas, IX edición (2021)",
+  "used_by": [
+   "https://www.innosoftdays.com/ix-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2021/11/tripticocara21-1024x724.jpg",
+  "kind": "poster",
+  "edition_year": 2021,
+  "caption": "El programa de las jornadas (IX edición, 2021)",
+  "used_by": [
+   "https://www.innosoftdays.com/ix-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2018/10/encuentro_musical-scaled.jpg",
+  "kind": "poster",
+  "edition_year": 2021,
+  "caption": "Cartel del encuentro musical, IX edición (2021)",
+  "used_by": [
+   "https://www.innosoftdays.com/ix-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2018/10/CartelProgramacionCompetitiva-scaled.jpg",
+  "kind": "poster",
+  "edition_year": 2021,
+  "caption": "Cartel del concurso de programación competitiva, IX edición (2021)",
+  "used_by": [
+   "https://www.innosoftdays.com/ix-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2018/10/Cartel-Rocket-League-1-scaled.jpg",
+  "kind": "poster",
+  "edition_year": 2021,
+  "caption": "Cartel del torneo de Rocket League, IX edición (2021)",
+  "used_by": [
+   "https://www.innosoftdays.com/ix-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2023/10/logo_innosoft_x.png",
+  "kind": "logo",
+  "edition_year": 2022,
+  "caption": "Logotipo de las jornadas, X edición (2022)",
+  "used_by": [
+   "https://www.innosoftdays.com/x-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2023/10/ping-u-1.png",
+  "kind": "other",
+  "edition_year": 2022,
+  "caption": "Mascota Ping-U de la X edición (2022)",
+  "used_by": [
+   "https://www.innosoftdays.com/x-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2023/10/innosoft10-video.mp4",
+  "kind": "other",
+  "edition_year": 2022,
+  "caption": "Vídeo de presentación de la X edición (2022)",
+  "used_by": [
+   "https://www.innosoftdays.com/x-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2023/10/innosoft10_horario.jpg",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "El cartel con el programa de las jornadas (X edición, 2022)",
+  "used_by": [
+   "https://www.innosoftdays.com/x-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2024/10/logo_innosoft_x.webp",
+  "kind": "logo",
+  "edition_year": 2023,
+  "caption": "Logotipo de las jornadas, XI edición (2023)",
+  "used_by": [
+   "https://www.innosoftdays.com/xi-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2023/09/Synthia.png",
+  "kind": "other",
+  "edition_year": 2023,
+  "caption": "Mascota Synthia de la XI edición (2023)",
+  "used_by": [
+   "https://www.innosoftdays.com/xi-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2023/09/Presentacion-InnosoftOjos-arreglados.mp4",
+  "kind": "other",
+  "edition_year": 2023,
+  "caption": "Vídeo de presentación de la XI edición (2023)",
+  "used_by": [
+   "https://www.innosoftdays.com/xi-edicion/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/Apertura-724x1024.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Ceremonia de apertura",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/4-724x1024.png",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Manuel Carranza - Visión Artificial y Conducción Autónoma",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/Taller-sobre-el-uso-de-la-IA-en-ciberseguridad-724x1024.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: NTT Data - El uso de IA en la Ciberseguridad",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/11-1-724x1024.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Torneo - RogueLikes",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/3-1-724x1024.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: eSports - Smash",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/51-e1761932576471.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Escape Room - El Enigma de Grace",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/19-724x1024.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Pablo Reina - Predicción de Series Temporales",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/11-724x1024.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Pedro Almagro - Aprendizaje Automático Relacional",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/15-724x1024.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Pablo Reina - Introducción a la IA en Imágenes",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/111-724x1024.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Game Jam",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/17-724x1024.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Indra - IA: Del Impacto Empresarial al Gobierno Responsable",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/21-724x1024.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Comité de Igualdad - Diversidad, Igualdad y Respeto",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/23.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Gincana - Desigualdades Sociales",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/9-1.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: eSports - Pokemon",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/7.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Pablo Dávila - Protocolo MCP",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/5-1.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: eSports - Minecraft",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/13.png",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Andreas Zeller - Nuevas formas de testar Software con IA",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/131.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: El Desafío Sostenible",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/111.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Game Jam",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/28.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: CaixaBank Tech - QA en el mundo financiero",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/5.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Una Charla con Rebeca",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/12-1.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Torneo - RogueLikes",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/25.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: Ceremonia de cierre",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/7-1.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: eSports: TFT",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/10/1.jpg",
+  "kind": "poster",
+  "edition_year": 2025,
+  "caption": "Cartel: eSports: LOL (cuartos Bo1)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/cronograma/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04297-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04862-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04863-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04864-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04865-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04866-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04868-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04870-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04871-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04872-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04873-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04874-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04903-1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04904-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04905-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04915-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04918-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04920-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04921-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04923-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04924-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04927-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04928-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04929-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04953-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04954-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04233-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04234-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04236-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04237-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04238-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04239-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04243-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04269-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04270-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04274-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04290-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04292-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04298-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04299-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04235-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04240-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04241-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04262-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04275-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04276-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04277-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04278-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04288-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04291-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04294-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04295-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04296-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04304-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04305-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04306-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04307-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04310-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "InnoSoft Days 2025 (galería general)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04231-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04229-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04228-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04227-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04225-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1959-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1960-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1963-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1965-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1966-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04224-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1958-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1957-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1956-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1955-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1954-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1949-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1948-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1947-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1946-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1943-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1942-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1941-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/IMG_1937-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Apertura (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04244-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "NTT Data (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04245-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "NTT Data (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04246-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "NTT Data (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04287-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "NTT Data (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04286-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "NTT Data (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04285-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "NTT Data (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04284-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "NTT Data (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04283-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "NTT Data (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04248-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "NTT Data (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04249-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "NTT Data (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04263-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Torneo RogueLikes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04264-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Torneo RogueLikes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04265-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Torneo RogueLikes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04266-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Torneo RogueLikes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04267-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Torneo RogueLikes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04268-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Torneo RogueLikes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04308-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Torneo RogueLikes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04250-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Smash (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04251-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Smash (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04252-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Smash (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04253-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Smash (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04254-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Smash (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04255-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Smash (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04256-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Smash (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04257-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Smash (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04258-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Smash (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04309-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Smash (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04271-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Escape Room – El Enigma de Grace (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04272-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Escape Room – El Enigma de Grace (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04273-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Escape Room – El Enigma de Grace (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04955-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Escape Room – El Enigma de Grace (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04956-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Escape Room – El Enigma de Grace (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04957-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Escape Room – El Enigma de Grace (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04958-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Escape Room – El Enigma de Grace (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04279-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Talleres – Predicción de Series temporales & Aprendizaje Automático Relacional (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04280-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Talleres – Predicción de Series temporales & Aprendizaje Automático Relacional (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04281-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Talleres – Predicción de Series temporales & Aprendizaje Automático Relacional (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04282-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Talleres – Predicción de Series temporales & Aprendizaje Automático Relacional (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04300-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Talleres – Predicción de Series temporales & Aprendizaje Automático Relacional (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04303-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Talleres – Predicción de Series temporales & Aprendizaje Automático Relacional (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04876-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Reina – Introducción a la IA en Imágenes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04877-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Reina – Introducción a la IA en Imágenes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04878-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Reina – Introducción a la IA en Imágenes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04879-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Reina – Introducción a la IA en Imágenes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04880-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Reina – Introducción a la IA en Imágenes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04881-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Reina – Introducción a la IA en Imágenes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04882-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Reina – Introducción a la IA en Imágenes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04883-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Reina – Introducción a la IA en Imágenes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageExs9WV-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Reina – Introducción a la IA en Imágenes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageSlNa5o-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Reina – Introducción a la IA en Imágenes (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04903-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Game Jam (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04931-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Game Jam (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04932-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Game Jam (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04933-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Game Jam (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04934-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Game Jam (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04935-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Game Jam (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04936-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Game Jam (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04937-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Game Jam (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04938-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Game Jam (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04939-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Game Jam (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04940-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Game Jam (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04959-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Indra – IA: Del Impacto Empresarial al Gobierno Responsable (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04960-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Indra – IA: Del Impacto Empresarial al Gobierno Responsable (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04961-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Indra – IA: Del Impacto Empresarial al Gobierno Responsable (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04962-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Indra – IA: Del Impacto Empresarial al Gobierno Responsable (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04963-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Indra – IA: Del Impacto Empresarial al Gobierno Responsable (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04964-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Indra – IA: Del Impacto Empresarial al Gobierno Responsable (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04965-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Indra – IA: Del Impacto Empresarial al Gobierno Responsable (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04966-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Indra – IA: Del Impacto Empresarial al Gobierno Responsable (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04967-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Indra – IA: Del Impacto Empresarial al Gobierno Responsable (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04945-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Comité de Igualdad – Diversidad, Igualdad y Respeto (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04946-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Comité de Igualdad – Diversidad, Igualdad y Respeto (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04947-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Comité de Igualdad – Diversidad, Igualdad y Respeto (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04948-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Comité de Igualdad – Diversidad, Igualdad y Respeto (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04949-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Comité de Igualdad – Diversidad, Igualdad y Respeto (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04950-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Comité de Igualdad – Diversidad, Igualdad y Respeto (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04951-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Comité de Igualdad – Diversidad, Igualdad y Respeto (Martes 4 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/",
+   "https://www.innosoftdays.com/photos/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Pokemon-1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Pokemon (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Pokemon-3-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Pokemon (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Pokemon-5-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Pokemon (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Pokemon-7-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Pokemon (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-8-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-9-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-16-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-17-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-18-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-2-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-4-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-6-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-7-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-10-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-12-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-13-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-19-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-20-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-21-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-1-1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-3-1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-5-1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-11-1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-14-1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/MCP-15-1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Pablo Dávila – Protocolo MCP (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Minecraft-2-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Minecraft (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Minecraft-4-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Minecraft (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Minecraft-6-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Minecraft (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/e-Sport-Minecraft-8-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "eSports – Minecraft (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageHuR3Wx-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage0YpG9v-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage2mkRZ1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage8cMAK5-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage8jX1Dj-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageAawjCO-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageADma1E-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageepme2q-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageGMXBkQ-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageK51A5b-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagemZuAXF-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagepbW7Ak-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagepRo91y-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage85eTqp-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagelZS5bc-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageXtGt9w-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagetsIQKi-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageVFCdi4-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageTFBBtM-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageWxxusy-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageYj4sIP-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagez6gdF4-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagezbgokc-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage2XNKcq-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage021sQr-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage185TLl-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageCWxX31-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageFh9NUT-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageFlYT01-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageisxZTp-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageLvCMaZ-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageN0GJyT-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageNeVoXs-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagenl6nY5-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagenQn0x3-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageOUhclD-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageUxcKj0-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageV8Y5uS-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageweBBp5-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageXd6o1o-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagexewVBo-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagexlOvat-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageXyQYcp-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageyQQhX7-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage7u9Un2-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImage8CsonA-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagebfC9BH-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageemY5d6-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageFxyaIy-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageKJ1tBm-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageLgeHop-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageOaq5Nh-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageQ7H4Ah-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageQcwhZN-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageqMvHOr-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagesz5AWg-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagewWYg31-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageWXOTu7-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageydji2i-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Zeller-2-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Zeller-3-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Zeller-5-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Andreas Zeller – Nuevas formas de testar Software con IA (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Reto-Sostenible-1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "El Desafío Sostenible (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Reto-Sostenible-6-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "El Desafío Sostenible (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Reto-Sostenible-7-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "El Desafío Sostenible (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Reto-Sostenible-8-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "El Desafío Sostenible (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-15.59.39-2000x1000.png",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "El Desafío Sostenible (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-15.59.49-2000x1000.png",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "El Desafío Sostenible (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-15.59.57-2000x1000.png",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "El Desafío Sostenible (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-16.00.05-2000x1000.png",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "El Desafío Sostenible (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-2-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-5-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-6-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-7-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-8-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-9-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-13-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-16-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-17-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-11-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-19-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-21-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-23-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-25-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-26-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-27-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-29-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageeaVZPQ-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageELoSWs-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageFfTh7Y-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageIcK6Z0-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImagekL8fHH-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-3-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-4-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-10-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-12-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-14-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-15-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-18-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-20-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-24-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/CaixaBank-28-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageQLnnkX-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageqxGf12-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/tempImageDeAOC8-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "CaixaBank Tech – QA en el mundo financiero (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04988-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04989-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04990-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04991-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04992-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04993-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04994-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04995-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04996-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04997-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04998-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC04999-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05000-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05001-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05002-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05003-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05004-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05005-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Una Charla con Rebeca (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05013-1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05016-1-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05017-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05018-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05019-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05020-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05022-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05023-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05025-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05027-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05029-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05030-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05031-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05032-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05034-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05037-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05039-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05041-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05042-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05043-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05046-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05047-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05049-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05051-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05054-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05056-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05057-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05058-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05059-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05061-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05062-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05063-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05065-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05066-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05067-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05071-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05073-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05074-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05075-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05077-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05078-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05079-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05080-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05082-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05083-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05085-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05086-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05087-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05088-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05089-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05092-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05094-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05095-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05099-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05100-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05101-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05102-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05105-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05106-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05107-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05109-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05111-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05112-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05115-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05116-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05119-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05120-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05121-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05122-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05123-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05124-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05125-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05126-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05127-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05128-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05130-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05131-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05133-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05134-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05135-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05136-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05137-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05138-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05139-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05140-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05143-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05144-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05145-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05146-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05147-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05148-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05149-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05150-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05151-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05152-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05153-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05154-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05155-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05156-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05157-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05158-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05159-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05160-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05161-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05162-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2025/11/DSC05163-scaled-2000x1000.jpg",
+  "kind": "photo",
+  "edition_year": 2025,
+  "caption": "Ceremonia de Cierre (Jueves 6 de noviembre de 2025)",
+  "used_by": [
+   "https://www.innosoftdays.com/es/fotos/",
+   "https://www.innosoftdays.com/fotos-2/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/Chromium-1.png",
+  "kind": "other",
+  "edition_year": 2022,
+  "caption": "Adivina el logo, imagen de la pregunta 1",
+  "used_by": [
+   "https://www.innosoftdays.com/adivina-el-logo/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/GIMP.png",
+  "kind": "other",
+  "edition_year": 2022,
+  "caption": "Adivina el logo, imagen de la pregunta 2",
+  "used_by": [
+   "https://www.innosoftdays.com/adivina-el-logo/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/OpenOffice.png",
+  "kind": "other",
+  "edition_year": 2022,
+  "caption": "Adivina el logo, imagen de la pregunta 3",
+  "used_by": [
+   "https://www.innosoftdays.com/adivina-el-logo/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/Audacity-1.png",
+  "kind": "other",
+  "edition_year": 2022,
+  "caption": "Adivina el logo, imagen de la pregunta 4",
+  "used_by": [
+   "https://www.innosoftdays.com/adivina-el-logo/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/NetBeans.png",
+  "kind": "other",
+  "edition_year": 2022,
+  "caption": "Adivina el logo, imagen de la pregunta 5",
+  "used_by": [
+   "https://www.innosoftdays.com/adivina-el-logo/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-7.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Carlos Pérez",
+  "used_by": [
+   "https://www.innosoftdays.com/carlos-perez/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2-6.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Carlos Pérez",
+  "used_by": [
+   "https://www.innosoftdays.com/carlos-perez/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-18.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia de la Sra. Clara Isabel Grima Ruiz",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sr-clara-isabel-grima-ruiz/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2-18.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia de la Sra. Clara Isabel Grima Ruiz",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sr-clara-isabel-grima-ruiz/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-20.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia de la Sra. María del Carmen Romero Ternero",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sra-maria-del-carmen-romero-ternero/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2-20.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia de la Sra. María del Carmen Romero Ternero",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sra-maria-del-carmen-romero-ternero/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-1.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia de la Sra. María Teresa Gómez López",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sra-maria-teresa-gomez-lopez/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia de la Sra. María Teresa Gómez López",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sra-maria-teresa-gomez-lopez/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/ACCENTURE.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia de los Srs. Rafael Poveda Santos y José Carlos Gómez",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-los-srs-rafael-poveda-santos-y-jose-carlos-gomez/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/deloitte.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Antonio Castillo",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-antonio-castillo/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-17.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Fernando Fernández Mancera",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-fernando-fernandez-mancera/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2-17.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Fernando Fernández Mancera",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-fernando-fernandez-mancera/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/3-5.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Fernando Fernández Mancera",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-fernando-fernandez-mancera/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-15.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Frank \"Azhrei\" Edwars",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-frank-azhrei-edwars/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2-15.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Frank \"Azhrei\" Edwars",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-frank-azhrei-edwars/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-14.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Israel Blancas Álvares",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-israel-blancas-alvares/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2-13.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Israel Blancas Álvares",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-israel-blancas-alvares/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/3-3.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Israel Blancas Álvares",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-israel-blancas-alvares/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-16.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Jesús Alcaide Marín",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-jesus-alcaide-marin/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2-16.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Jesús Alcaide Marín",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-jesus-alcaide-marin/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-22.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Sancho Lerena",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2-22.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Sancho Lerena",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/3-7.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Sancho Lerena",
+  "used_by": [
+   "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-8.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia de la Sra. María José Escalona",
+  "used_by": [
+   "https://www.innosoftdays.com/maria-jose-escalona/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2-7.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia de la Sra. María José Escalona",
+  "used_by": [
+   "https://www.innosoftdays.com/maria-jose-escalona/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-10.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Daniel García",
+  "used_by": [
+   "https://www.innosoftdays.com/prise/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2-9.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Daniel García",
+  "used_by": [
+   "https://www.innosoftdays.com/prise/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-11.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Israel Blancas Álvarez",
+  "used_by": [
+   "https://www.innosoftdays.com/red-hat/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2-10.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Israel Blancas Álvarez",
+  "used_by": [
+   "https://www.innosoftdays.com/red-hat/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/3-2.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Israel Blancas Álvarez",
+  "used_by": [
+   "https://www.innosoftdays.com/red-hat/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/1-12.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Javier Haro",
+  "used_by": [
+   "https://www.innosoftdays.com/tragsatec/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2022/11/2-11.png",
+  "kind": "poster",
+  "edition_year": 2022,
+  "caption": "Información sobre la ponencia del Sr. Javier Haro",
+  "used_by": [
+   "https://www.innosoftdays.com/tragsatec/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2023/10/ajedrez.jpg",
+  "kind": "poster",
+  "edition_year": 2023,
+  "caption": "Adjunto 'ajedrez' (página de adjunto de WordPress)",
+  "used_by": [
+   "https://www.innosoftdays.com/ajedrez/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2023/10/brawlhalla.jpg",
+  "kind": "poster",
+  "edition_year": 2023,
+  "caption": "Adjunto 'brawlhalla' (página de adjunto de WordPress)",
+  "used_by": [
+   "https://www.innosoftdays.com/brawlhalla/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/gymkana.png",
+  "kind": "poster",
+  "edition_year": 2024,
+  "caption": "Adjunto 'gymkana' (página de adjunto de WordPress)",
+  "used_by": [
+   "https://www.innosoftdays.com/gymkana/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2023/10/gymkhana.jpg",
+  "kind": "poster",
+  "edition_year": 2023,
+  "caption": "Adjunto 'gymkhana' (página de adjunto de WordPress)",
+  "used_by": [
+   "https://www.innosoftdays.com/gymkhana/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2023/10/libnamic.png",
+  "kind": "logo",
+  "edition_year": 2023,
+  "caption": "Adjunto 'libnamic' (página de adjunto de WordPress)",
+  "used_by": [
+   "https://www.innosoftdays.com/libnamic/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2021/10/Manuel-Jesús-Flores-Montaño.png",
+  "kind": "other",
+  "edition_year": 2021,
+  "caption": "Adjunto 'Manuel-Jesús-Flores-Montaño' (página de adjunto de WordPress)",
+  "used_by": [
+   "https://www.innosoftdays.com/manuel-jesus-flores-montano/"
+  ]
+ },
+ {
+  "url": "https://www.innosoftdays.com/wp-content/uploads/2020/11/Torneo.jpeg",
+  "kind": "poster",
+  "edition_year": 2020,
+  "caption": "Adjunto 'Torneo' (página de adjunto de WordPress)",
+  "used_by": [
+   "https://www.innosoftdays.com/torneo/"
+  ]
+ }
+]

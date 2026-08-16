@@ -69,3 +69,10 @@ splent.manifest.json
 # must deploy with git and docker alone, no CLI installed. product:build
 # regenerates both; when a rebuild changes them, commit the diff.
 !.env.deploy.example
+
+# Wayback recovery: raw captures are re-downloadable from the index; only the index and the extracted JSON are versioned.
+migration/wayback/data/raw/
+migration/wayback/data/*.log
+
+# Flask instance folder (protected uploads, generated demo/test files)
+src/instance/

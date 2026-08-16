@@ -25,17 +25,28 @@ core = [
 cli_version = "1.21.1"
 features = [
     "splent_io/splent_feature_redis@v1.5.7",
-    "splent_io/splent_feature_public@v1.7.3",
+    "splent_io/splent_feature_public",
     "splent_io/splent_feature_session_redis@v1.1.2",
     "splent_io/splent_feature_settings@v0.3.1",
     "splent_io/splent_feature_admin@v1.4.0",
     "splent_io/splent_feature_nginx@v1.2.0",
-    "splent_io/splent_feature_skin_arcade@v0.2.2",
-    "splent_io/splent_feature_about@v0.2.2",
-    "splent_io/splent_feature_theme@v0.11.0",
-    "splent_io/splent_feature_media@v0.8.0",
-    "splent_io/splent_feature_auth@v1.12.0",
-    "splent_io/splent_feature_events@v0.3.0",
+    "splent_io/splent_feature_skin_arcade",
+    "splent_io/splent_feature_about",
+    "splent_io/splent_feature_theme",
+    "splent_io/splent_feature_media",
+    "splent_io/splent_feature_auth",
+    "splent_io/splent_feature_events",
+    "splent_io/splent_feature_partners",
+    "splent_io/splent_feature_team",
+    "splent_io/splent_feature_legal",
+    "splent_io/splent_feature_contact@v0.2.1",
+    "splent_io/splent_feature_mail@v1.4.3",
+    "splent_io/splent_feature_cloudflare@v0.1.5",
+    "splent_io/splent_feature_map",
+    "splent_io/splent_feature_editions",
+    "splent_io/splent_feature_post",
+    "splent_io/splent_feature_edition_staff",
+    "splent_io/splent_feature_survey",
 ]
 features_dev = []
 features_prod = []
@@ -55,13 +66,9 @@ hooks = [
     "layout.scripts",
 ]
 
-# Where the SPL model itself comes from. The name above is not enough
-# to download anything, so the DOI travels with the product and any
-# clone of this repository can resolve the model from UVLHub alone.
 [tool.splent.spl_model]
 mirror = "uvlhub.io"
 doi = "10.5281/zenodo.21954373"
-# Same line, every version. Used to report that a newer model exists.
 concept_doi = ""
 version = "4"
 file = "cms_spl.uvl"
@@ -71,8 +78,17 @@ AUTH_LOGIN_LAYOUT = "public_base.html"
 AUTH_NAV_LOGIN = false
 AUTH_FOOTER_LOGIN = true
 MEDIA_NAV_LABEL = "Fotos"
-EVENTS_NAV_LABEL = "Eventos"
+MEDIA_HOME_COUNT = 6
+EVENTS_NAV_LABEL = "Programa"
+EDITIONS_NAV_LABEL = "Ediciones"
+POST_NAV_LABEL = "Noticias"
+POST_INDEX_PATH = "/noticias"
+POST_HOME_COUNT = 3
 ABOUT_NAV_LABEL = "Quiénes somos"
+MAP_QUERY = "Escuela Técnica Superior de Ingeniería Informática, Av. de la Reina Mercedes, s/n, 41012 Sevilla"
+MAP_ADDRESS = "Escuela Técnica Superior de Ingeniería Informática. Av. Reina Mercedes s/n, 41012 Sevilla"
+BABEL_DEFAULT_LOCALE = "es"
+BABEL_SUPPORTED_LOCALES = "es,en"
 
 [tool.setuptools.package-dir]
 "" = "src"

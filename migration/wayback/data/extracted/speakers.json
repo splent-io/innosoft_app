@@ -1,0 +1,2094 @@
+[
+ {
+  "name": "Adrián Ramírez",
+  "affiliation": "Dolbuck S.L.",
+  "position": "CEO",
+  "bio_html": "<p>Esta conferencia será llevada a cabo por la empresa Dolbuck S.L., una consultora con sede en España, creada en el año 2007 con el objetivo de proteger empresas mediante un conjunto de soluciones ajustada a la realidad de cada negocio. En esta conferencia, Dolbuck S.L. nos hablará principalmente sobre ciberseguridad y sobre los distintos frameworks que existen actualmente. Si la ciberseguridad es un tema que te interesa, no te la puedes perder.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/07/hablemos-ciberseguridad-hablemos-frameworkd-ciberseguridad-dolbuck-s-l/"
+ },
+ {
+  "name": "Agda Carvalho",
+  "affiliation": "Brasil",
+  "position": null,
+  "bio_html": "<p>La tercera trataba sobre los Sesgos y la Traducción automática mediante IA, por Helena Hernández Acuaviva y Agda Carvalho (Desde Brasil). Una de las razones de esta mezcla entre España y Brasil es tratar de tener un encuentro intercultural para ver cómo aparecían problemas para comunicarse entre personas de diferentes partes del mundo y además trataba los sesgos que existen en la tecnología y que anteponen el género masculino en las traducciones y dificultan el día a día a las mujeres.</p><p>Toma de inspiración “HUMAINT”, una de las propuestas del proyecto Aster, tratando la relación entre máquinas y humanos.</p><p>Se crean dos imágenes que reproducen tanto sonidos como gestos mediante IA, una en portugués y otra en español, viendo con variaciones distintas como el humor como las máquinas son forzadas a nuestra imagen y semejanza. Como se puede ver al final al reproducir ambas imágenes se produce un ‘palimpsesto’ por las palabras que son difíciles de entender. A partir de esto se desarrolla cómo la IA no tiene tanto como reto el replicar la inteligencia individual, sino como esta influye en la inteligencia social, es decir como la sociedad ahora avanza en base a algoritmos.</p><p>Por último  se nos contó cómo esta obra formó parte de la exposición de Aster tanto en Sevilla como en Linz, Austria, y que actualmente se encuentra en la galería virtual de XENOpaisagens, en Brasilia.</p><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4332-1024x683.jpg\"/></figure>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4332-1024x683.jpg",
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/21/tecnologia-y-arte/"
+ },
+ {
+  "name": "Alba Ferri",
+  "affiliation": "Sysdig",
+  "position": "Product Marketing Manager",
+  "bio_html": "<p>Alba Ferri, ingeniera técnica de telecomunicaciones vendrá a hablarnos sobre el cloud-native. Actualmente trabaja en Sysdig Secure, más concretamente en la parte de la plataforma de inteligencia de contenedores que proporciona seguridad y compliance en todas las fases del ciclo de vida de los contenedores y la nube.</p><p>La computación en la nube ha dejado de considerarse una moda pasajera en el mundo del software, para muchas empresas ha pasado a convertirse en algo primordial que hace posible abrir nuevas vías de negocio y aumentar la competitividad. Cloud native se centra en el desarrollo de aplicaciones en forma de microservicios independientes que no se ejecutan en una ubicación fija, sino en plataformas dinámicas basadas en contenedores. Concretamente, nuestra invitada vendrá a contarnos como es la seguridad que existe en dichos contenedores. Sin duda será una charla apasionante, ¡no te la pierdas!</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/seguridad-cloud-native-alba-ferri/"
+ },
+ {
+  "name": "Alberto Asuero",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Alberto Castro Ortiz",
+  "affiliation": "OnRetrieval",
+  "position": "Responsable técnico del área forense",
+  "bio_html": "<p>Alberto Castro Ortiz de la empresa OnRetrieval, empresa española certificada y especializada en Ciberseguridad, Informática forense y Recuperación de datos nos enseñará a identificar los diferentes dispositivos electrónicos con datos, así como su preservación y cadena de custodia. Dentro de OnRetrieval, Alberto Castro es experto en adquisición de evidencias digitales, reconstrucción virtualizada de sistemas Raid y recuperación de memorias NandFlash. Alberto Castro compartirá con nosotros su conocimientos sobre la gama más fiable de equipos informáticos con múltiples funcionalidades y herramientas de investigación forense, para la adquisición, decodificación, indexado y análisis forense de evidencias digitales.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/identificacion-preservacion-evidencias-digitales-alberto-castro/"
+ },
+ {
+  "name": "Alberto Fernández Valiente",
+  "affiliation": null,
+  "position": "Ingeniero Técnico en Informática de Sistemas (Universidad de Sevilla)",
+  "bio_html": "<p>Alberto Fernández, Ingeniero Técnico en Informática de Sistemas por la Universidad de Sevilla, nos dará una charla sobre lo que conlleva graduarse en la universidad. Alberto Fernández es un Ingeniero Técnico en Sistemas por la Universidad de Sevilla, el cual estuvo en la misma situación que nosotros y puede compartir sus vivencias. Con más de 15 años de experiencia, puede ilustrarnos la realidad que se encontró al acabar el grado, realidad a la que nos enfrentaremos todos próximamente.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/07/lo-nadie-me-conto-la-universidad/"
+ },
+ {
+  "name": "Alberto Olmo",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesor (proyecto de investigación VOLUM)",
+  "bio_html": "<p>Profesores de la facultad que vienen a hablar sobre su proyecto de investigación llamado VOLUM.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/pablo-perez-y-alberto-olmo.png",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/volum-pablo-perez-y-alberto-olmo/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/"
+ },
+ {
+  "name": "Alberto Perea",
+  "affiliation": null,
+  "position": "estudiantes",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/ponencia_musica.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/informacion-sobre-la-ponencia-de-produccion-y-composicion-musical-con-inteligencia-artificial/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/"
+ },
+ {
+  "name": "Alejandro Fdez Montes",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Web",
+    "url": "https://personal.us.es/afdez/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/limiting-global-warning-by-improving-data-centre-software/"
+ },
+ {
+  "name": "Alejandro Hall",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-deep-learning/"
+ },
+ {
+  "name": "Amador Durán",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Ana Aparicio",
+  "affiliation": "atSistemas",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Ana Domínguez Pérez",
+  "affiliation": "Copyright Clearance Center",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-sra-ana-dominguez-perez-sra-carmen-andrade-perez-sra-beatriz-diaz-fernandez/"
+ },
+ {
+  "name": "Ana Rosa González Diáñez",
+  "affiliation": null,
+  "position": "diseñadora UX/UI, y doctoranda de la US",
+  "bio_html": "<p>La última charla que tuvo lugar trataba sobre el uso de la IA en la UI (interfaz de usuario) y UX (experiencia de usuario), de parte de Ana Rosa González Diáñez. </p><p>El principal punto a tratar es como la IA pese a aparentarlo, no reemplaza el carácter humano sino que hace exactamente lo que se le pide, y eso no tiene por qué ser lo que la persona quiera.</p><p>Se explica quién es Lauren, una asistente virtual humana, que está encerrada en una habitación y desde ahí mediante cámaras da a la persona en cuestión un trato similar al que le daría un asistente como Alexa.</p><p>De este caso podemos ver cómo a los asistentes virtuales se les da acceso a prácticamente todo sobre nosotros, destruyendo nuestra privacidad de principio a fin. Después vemos cómo se compone el proceso del diseño UX/UI, con aspectos como el análisis de usuario (para clasificarlo), la personalización (que vemos en casos como Spotify o Netflix) y la accesibilidad, que es una parte vital en cualquier proyecto.</p><p>Al final de la presentación se ve como aunque es necesaria la presencia de una persona en este diseño, la IA ha demostrado ser una herramienta más que eficiente en este aspecto, y por tanto su uso es necesario.</p><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4375-1024x683.jpg\"/></figure>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4375-1024x683.jpg",
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/21/tecnologia-y-arte/"
+ },
+ {
+  "name": "Anabel Carmona Gutiérrez",
+  "affiliation": "Maxeon Solar Technologies",
+  "position": null,
+  "bio_html": "<p>Trabaja en Maxeon Solar Technologies(<a href=\"https://maxeon.com/\">https://maxeon.com/</a>) una empresa internacional especializada en el diseño y fabricación de paneles fotovoltáicos.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/anabel_carmona-01.jpeg",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/sol-y-ciberseguridad-anabel-carmona-gutierrez/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/eventos/sol-y-ciberseguridad-anabel-carmona-gutierrez/"
+ },
+ {
+  "name": "Andreas Zeller",
+  "affiliation": "CISPA Helmholtz Center for Information Security / Universidad de Saarland",
+  "position": "Profesor e investigador",
+  "bio_html": "<p><b>Andreas Zeller</b> es profesor en el <b>Centro Helmholtz CISPA para la Seguridad de la Información</b> y en la <b>Universidad de Saarland</b> (Alemania), donde lidera un grupo de investigación de referencia mundial en <b>ingeniería de software y pruebas automatizadas</b>. <br/><br/> Su trabajo pionero en depuración automatizada, minería de repositorios de software, generación de especificaciones y pruebas de seguridad ha tenido un gran impacto tanto en la academia como en la industria, siendo reconocido con numerosos premios internacionales. <br/><br/> Zeller es miembro distinguido de la <b>ACM (ACM Fellow)</b>, ha recibido el <b>Premio a la Investigación Sobresaliente de ACM SIGSOFT</b> y cuenta con <b>dos becas ERC (European Research Council Grants)</b>, una de las financiaciones más competitivas en Europa para investigadores individuales. <br/><br/> Actualmente, su equipo desarrolla proyectos de vanguardia en el ámbito de las pruebas de software, entre los que participa José Antonio Zamudo, antiguo alumno de nuestra escuela y actual doctorando bajo la dirección de Andreas Zeller. <br/><br/></p>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más información sobre Zeller",
+    "url": "https://andreas-zeller.info/"
+   },
+   {
+    "label": "Charla Jueves 6",
+    "url": "https://www.doctoradoinformatica.us.es/language-based-software-testing/"
+   },
+   {
+    "label": "Charla Viernes 7",
+    "url": "https://www.doctoradoinformatica.us.es/winning-two-erc-grants-in-a-row-insights-and-experiences/"
+   }
+  ],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Andrés Marchante Tirado",
+  "affiliation": "Dell",
+  "position": "Ingeniero Senior de Sistemas",
+  "bio_html": "<p>Este próxomo Lunes vamos a poder contar con Andrés Marchante Tirado, Ingeniéro Senior de Sistema para Dell. Andrés, que cuenta con una gran experiencia en materias de diseño, implantación y explotación de infraestructuras de sistemas TI y sistemas de telecomunicaciones de banda ancha. A día de hoy está enfocado en el soporte tecnológico en materia de redes y virtualización de red para clientes empresariales. Su charla, aunque enfocada en la seguridad en la nube, estará planteada desde el prisma de una organización que tiene la intención de desarrollar sus arquitecturas IT sobre este tipo de plataformas. Andrés nos hablará de las arquitecturas,  medidas de seguridad y estrategias de continuidad de negocio implementadas en los entornos de Cloud bajo los modelos público, privado e híbrido y la importancia de diseñar estrategias de seguridad en el despliegue de servicios en modelo Cloud Computing.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/14/seguridad-los-servicios-la-nube-andres-marchante-tirado/"
+ },
+ {
+  "name": "Andrés Pérez Domínguez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/taller-iniciacion-scraping/"
+ },
+ {
+  "name": "Ángel Jesús Varela Vaca",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesor de Ingeniería Informática, doctor en Ingeniería Informática y del Software",
+  "bio_html": "<p>Ángel Jesús Varela Vaca, doctor en ingeniería informática y del software titulado por la Universidad de Sevilla dará el lunes una ponencia sobre ciberseguridad. Ángel Jesús está especializado en seguridad de la información y gestión de procesos empresariales. Además, Tiene experiencia en diversos proyectos de desarrollo y es autor de varios trabajos de investigación a nivel internacional, entre los que se encuentran temas de ciberseguridad.</p><p>La ciberseguridad es un ámbito en el que, al ser tan amplio, puede parecer difícil hacerse un hueco. Con esta ponencia se pretende ayudar a los estudiantes que quieran continuar o comenzar su formación en este tema. Si te gusta la ciberseguridad y quieres formarte en este tema, no te pierdas esta conferencia.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/14/ciberseguridad-esperan-los-alumnos-donde-estudiar-lo-esperan-angel-jesus-varela-vaca/"
+ },
+ {
+  "name": "Ángel de Miguel Meana",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/introduccion-a-reactjs/"
+ },
+ {
+  "name": "Ángeles Sánchez",
+  "affiliation": "Accenture",
+  "position": "Cazadora de talentos",
+  "bio_html": "<p>Cazadora de talentos en Accenture; presentó el programa de prácticas Dixcover (8 de noviembre de 2022).</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/11/09/accenture-y-el-uso-de-software-libre-para-el-desarrollo-y-venta-de-servicios-asociados/"
+ },
+ {
+  "name": "Antoni Cobos Domínguez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/introduccion-al-hacking-1/"
+ },
+ {
+  "name": "Antonio Castillo",
+  "affiliation": "Deloitte",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/deloitte.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-antonio-castillo/"
+ },
+ {
+  "name": "Antonio J. Domínguez",
+  "affiliation": null,
+  "position": "exalumno e investigador de inteligencia artificial",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1-2.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-superando-barreras-de-escalado-en-las-large-lenguage-models-llm/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/"
+ },
+ {
+  "name": "Antonio Jesús García Nieto",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/antonio-jesus-garcia-nieto/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/iniciacion-a-la-clasificacion-de-imagenes-usando-redes-convolucionales/"
+ },
+ {
+  "name": "Antonio Vallecillo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/v-edicion/"
+ },
+ {
+  "name": "Beatriz Díaz Fernández",
+  "affiliation": "Copyright Clearance Center",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-sra-ana-dominguez-perez-sra-carmen-andrade-perez-sra-beatriz-diaz-fernandez/"
+ },
+ {
+  "name": "Benito Galán Algora",
+  "affiliation": "Viafirma",
+  "position": "Departamento de desarrollo",
+  "bio_html": "<p>Jesús López ofrecerá, junto con su compañero Benito Galán Algora, una ponencia sobre la firma e identidad digital, tratando los siguientes puntos principales:</p><p>•\teIDAS: Reglamento de identificación digital en Europa<br/> •\tFormatos de firma digital XAdES, CAdES, PAdES<br/> •\tParadigma de la Identidad Digital Centralizada</p><p>Jesús López pertenece al departamento de desarrollo de la empresa ViaFirma, donde ofrecen soluciones relacionadas con la firma electrónica. La empresa pretende automatizar y optimizar procesos de firma complejos  difícilmente realizables mediante las fórmulas tradicionales en papel. De esta forma, permiten realizar firmas de contratos desde cualquier dispositivo y  lugar.</p><p>Ente las soluciones que incorpora la empresa, se encuentran: Firmas biométricas, certificados digitales, firmas en la nube alojadas en servidores robustos, firmas electrónicas desatendidas que no requieren intervenciones de los usuarios, así como códigos de un solo uso (OTP SMS y OTP Email).</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/16/firma-digital-e-identidad-digital-jesus-lopez/"
+ },
+ {
+  "name": "Benito Peña Sánchez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/building-mobileweb-applications-and-deployment-on-cloud/"
+ },
+ {
+  "name": "Carlos Guillermo Müller Cejas",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesor de la ETSII",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3750-1024x683.jpg\"/></figure><p>Finalmente, Carlos nos dio su visión como profesor de la facultad. Él realizó un doble grado de software y empresariales, comentando que es fundamental tener conocimiento de temas empresariales en su vida, ya que todo suma y tiene conciencia de distintos temas que otros ingenieros de software no tienen, dándole cierta ventaja. Comenzó su trayectoria trabajando muchos años para “TPV TACTICS”, realizando el software para “EL CORTE INGLÉS” y se dio cuenta que su vocación era el mundo académico, ya que en el mundo empresarial, había mucha “fachada”, actuando las personas por intereses. Entonces, decidió cambiar para ser profesor.</p><p>Tras esto contó ciertos consejos sobre por qué en la etapa académica vemos que hay distintas asignaturas que pensamos que no nos sirven, pero explica que se trata de obtener muchos mecanismos para desarrollar la parte de resolver problemas. “La carrera universitaria te amuebla la cabeza a nivel lógico” —comentó.</p><p>“Ir trabajando, aprendiendo y desarrollándonos para ir metiendo todo en nuestra mochilita” —recalcó Müller. Aunque somos reticentes al cambio, siempre hay que estar buscando otras opciones laborales y, si encuentras algo mejor, lo comentas amablemente a la empresa en la que estés y si no te ofrecen algo parecido, pues te cambias. Comenta que siempre cada cambio va a ser a mejor y vas a aprender más. Finalizó comentando que es muy importante irse bien de las empresas porque de esa forma nunca se van a cerrar esas puertas a poder volver algún día.</p><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3796-1024x683.jpg\"/></figure>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3750-1024x683.jpg",
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/explorando-el-futuro-laboral-de-los-nuevos-ingenierso-de-software-parte-1/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/20/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-1/"
+ },
+ {
+  "name": "Carlos Luis Parra Calderón",
+  "affiliation": "Hospital Universitario Virgen del Rocío",
+  "position": "jefe de Sección de Innovación Tecnológica en el Hospital Universitario Virgen del Rocío",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1-6.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-transformando-la-salud-con-inteligencia-artificial/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/"
+ },
+ {
+  "name": "Carlos Pérez Fernández",
+  "affiliation": "CoverManager",
+  "position": "Emprendedor, software de gestión de reservas para restaurantes",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3843-1024x683.jpg\"/></figure><p>Carlos Pérez también nos contó su historia, en 2008 se encontraba buscando donde realizar las prácticas y las acabó haciendo una startup pequeña donde en dos años fue como si hiciera un master en comercio electrónico. Posteriormente trabajó en una empresa que hacía proyectos para clientes, pero aquello no le gustó.</p><p>Participó en un Hackaton que tenía como premio 1000€ para fundar su primera startup con una oficina donde trabajar. La startup era un portal de descuento y se dio cuenta de que los clientes querían optimizar sus restaurantes y no tanto un portal de descuentos, por eso decidió fundar una empresa y empezaron a hacer software de gestión de reservas. Decidieron probar con restaurantes grandes para venderles su software. Cuenta como Dani García fue el primer estrella michelín que apostó por su software y fueron creciendo gracias al boca a oreja. Empezaron en octubre de 2015 y han ido creciendo por distintos países.</p><p>Carlos en su ponencia contó como a lo largo de los años se han tenido que ir reinventado y comenta como solo tuvieron que hacer la inversión inicial para crear la empresa y ya nunca más han tenido que hacer inversiones en la misma.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3843-1024x683.jpg",
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/informacion-sobre-la-ponencia-del-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+   }
+  ],
+  "edition_years": [
+   2022,
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/20/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+ },
+ {
+  "name": "Carlos Rodríguez Hernández",
+  "affiliation": "Bitnami",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Carlos Sanchís Pedregosa",
+  "affiliation": null,
+  "position": "Emprendedor, spin-off de la Universidad de Sevilla",
+  "bio_html": "<p>Empresa que se encarga como crear una starup.</p><p>La empresa fue creada desde dentro de la Universidad de Sevilla, pero ahora es independiente. También llamado Spin-off.</p><p><br/>Es una plataforma que ayuda a las empresas para valuar cual es su cultura corporativa y sus valores. Gracias a ello se podrá realizar una mejor selección de personal a la hora de contratarlos, y si el futuro trabajador podrá encajar en esta. También sirve para saber si tienes en tu empresa a una persona con talento o si la vas a contratar, esto permite poner las medidas necesarias para que se quede o para saber si está a gusto en la empresa. (Retención del talento)</p><p>Como todas estas percepciones son subjetivas lo que ha implementado es una aplicación que aplica un método más científico. ) la empresa es pasar esto a un método científico.</p><p>Carlos en una entrevista describe su plataforma esencialmente como: “Ayuda a reducir los errores de contratación”.</p><p>Ver la mentalidad de la empresa y también la mentalidad del trabajador para saber si ese trabajador está motivado y dando el mayor rendimiento.</p><p>Utilizan IA para identificar las personalidades.</p><p>Buscan la motivación del personal.</p><p>Consideran que en una empresa alguien está motivo puede llegar a ser mejor que alguien que no lo está, pero tenga muchos conocimientos ya que los conocimientos se pueden adquirir, pero la motivación es más difícil de adquirir.</p><p>Como funciona la plataforma la empresa jerarquiza una serie de parámetros (lealtad, competitividad trabajo en equipo, en función de los valores de la empresa ) (este cuestionario lo puede hacer una persona o varias de la empresa para tener una opinión más amplia) y después se le hace uno al candidato y realizan uno “match ” y te sale la probabilidad de que ese posible futuro trabajador sea compatible con la empresa. Comportamiento ético del candidato. Y así se puede obtener el comportamiento del individuo.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/carlos_panchis_pedregosa-01.jpeg",
+  "links": [],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/eventos/conectando-personas-y-empresas-a-traves-de-valores-carlos-sanchis-pedregosa/"
+ },
+ {
+  "name": "Carmen Andrade Pérez",
+  "affiliation": "Copyright Clearance Center",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-sra-ana-dominguez-perez-sra-carmen-andrade-perez-sra-beatriz-diaz-fernandez/"
+ },
+ {
+  "name": "Clara Isabel Grima Ruiz",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesora",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-18.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-18.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018,
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sr-clara-isabel-grima-ruiz/"
+ },
+ {
+  "name": "Coral Calero Muñoz",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/green-computing/"
+ },
+ {
+  "name": "Daniel Escribano Ales",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/como-luchar-contra-google/"
+ },
+ {
+  "name": "Daniel García",
+  "affiliation": "PRiSE",
+  "position": "Director tecnológico",
+  "bio_html": "<p>Daniel García nos ofrecerá una conferencia en el ámbito de la ciberseguridad, en la que hablará sobre la identidad digital y sobre un posible futuro en el que no sea necesario el uso de contraseñas.</p><p>Nuestro ponente, trabajó durante 5 años como “Middleware Engineer”, siendo responsable del servicio de los certificados digitales de “RedIRIS”, una red española para la interconexión de los Rrecursos informáticos de universidades y centros de investigación. Actualmente, trabaja como director tecnológico en la iniciativa empresarial “PRiSE” (donde lleva más de 12 años), en la que se ofrecen todo tipo de soluciones relacionadas con la identidad digital, la privacidad y la protección de los datos.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021,
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/futuro-sin-contrasenas-daniel-garcia/"
+ },
+ {
+  "name": "Daniel García Moreno",
+  "affiliation": "OpenSUSE",
+  "position": null,
+  "bio_html": "<p>Antiguo miembro de Wadobo, startup de soluciones con tecnologías de código abierto. Ponencia sobre OpenSUSE en la X edición.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/11/13/resumen-opensuse/"
+ },
+ {
+  "name": "David Barranco Alfonso",
+  "affiliation": "Bitnami",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "David Benavides",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Coordinador y profesor de teoría de EGC (Evolución y Gestión de la Configuración)",
+  "bio_html": "",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/10/24-10-23-10-768x512.jpg",
+  "links": [],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/2024/10/27/fotos-del-seminario-floss-25-10-2024/"
+ },
+ {
+  "name": "David Borrego",
+  "affiliation": "atSistemas",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "David Brincau Cano",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/programacion-competitiva/"
+ },
+ {
+  "name": "David López Carrascal",
+  "affiliation": "Sevilla FC",
+  "position": "Head of Software Development",
+  "bio_html": "<p>Analistas del Sevilla que viene a hablar sobre cómo se clasifican en los partidos a los jugadores con IA.   </p><p>David López Carrascal: Head of Software Development en el Sevilla FC.  </p><p>Ingeniero de software apasionado por crear soluciones escalables y centradas en el usuario o el negocio. He liderado equipos de tecnología y desarrollo de software. Orgulloso egresado de la ETSI, Universidad de Sevilla, impulsando la innovación en el ámbito deportivo</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/david-y-Juan.png",
+  "links": [],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/eventos/david-lopez-carrascal-y-juan-antonio-cabeza-sousa/"
+ },
+ {
+  "name": "David Sánchez",
+  "affiliation": "Sputnik Ciberseguridad",
+  "position": "CEO",
+  "bio_html": "<p>En esta charla veremos una introducción al pentesting. El pentesting, abreviatura que se forma<br/> al juntar las palabras “penetration” y “testing”, es una práctica que consiste en atacar desde<br/> distintos entornos y/o sistemas para así encontrar posibles fallos y evitar futuros ataques<br/> maliciosos.</p><p>Es hoy en día una de las prácticas más demandadas ya que permite saber a las empresas el<br/> nivel de seguridad de sus sistemas y los peligros a los que se expone. Esto la convierte en una<br/> de las profesiones más demandadas dentro del mundo de la Seguridad Informática, y, por<br/> tanto, una de las profesiones más solicitadas del momento. Por esto último también tiene<br/> reclama mucho en las escuelas donde se imparte esta especialización. Precisamente el<br/> ponente de esta charla, David Sánchez, es profesor en el máster de ciberseguridad de la<br/> escuela EIP Madrid y la Universidad Europea Miguel de Cervantes.</p><p>Por estos motivos estamos muy agradecidos de que David Sánchez aceptara venir a dar una<br/> charla a las jornadas InnoSoft. David es CEO de Sputnik Ciberseguridad, una empresa<br/> especializada en auditoría y consultoría de seguridad informática, así como de peritaje<br/> informático y judicial. Además de todo esto tiene planes de formación.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/07/mayor-quiero-pentester-david-sanchez/"
+ },
+ {
+  "name": "Diego Fernández Barrera",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Elena de la Osa",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/especial-ninos-linea-del-tiempo-se-ha-desarrollado-la-web-2-2/"
+ },
+ {
+  "name": "Emilio Pérez",
+  "affiliation": "Abatic",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Enrique Fernández Borja",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/v-edicion/"
+ },
+ {
+  "name": "Esperanza Caro",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-proyecto-smart-cities-del-ayuntamiento-sevilla/"
+ },
+ {
+  "name": "Eva Esquivel Peter Cutino",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/taller-integracion-animaciones-unity/"
+ },
+ {
+  "name": "Federico Castanedo Sotela",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/fcastanedo/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/como-hacer-los-equipos-de-data-science-10-veces-mas-productivo/"
+ },
+ {
+  "name": "Fernando La Chica",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Web",
+    "url": "https://flachica.github.io/fernandolachica/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/odoo-erp-con-alma-de-framework/"
+ },
+ {
+  "name": "Fernando Fernández Mancera",
+  "affiliation": "Red Hat",
+  "position": "Senior Software Engineer",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-17.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-17.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/3-5.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-fernando-fernandez-mancera/"
+ },
+ {
+  "name": "Fernando Pacheco Ibáñez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/vii-edicion/"
+ },
+ {
+  "name": "Fernando Soler Toscano",
+  "affiliation": null,
+  "position": "profesor de lógica en las facultades de filosofía y derecho",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/Slide1.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-retos-sociales-y-eticos-de-la-ia/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/"
+ },
+ {
+  "name": "Francisco José Ramírez López",
+  "affiliation": "Deloitte",
+  "position": "Consultor de seguridad senior",
+  "bio_html": "<p>Francisco Ramírez nos ofrecerá una conferencia sobre los fundamentos de la ciberseguridad, y sobre cómo podemos empezar a abordar tareas profesionales en el mundo del hacking ético, empezando desde cero.</p><p>Nuestro ponente es consultor de seguridad senior en la empresa “Deloitte”, con más de 6 años de experiencia en el sector de la ciberseguridad enfocado a las auditorías de aplicaciones móviles, ATM´s, sistema de pagos o TVP. Actualmente se encuentra preparando su tesis doctoral con mención industrial en materias de Ciberseguridad en dispositivos inteligentes e industriales.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/14/ciberseguridad-hacking-etico-francisco-ramirez/"
+ },
+ {
+  "name": "Francisco Pérez Fernández",
+  "affiliation": "NTT DATA",
+  "position": "Ingeniero informático especializado en seguridad informática",
+  "bio_html": "<p>En el último día de los Innosoft Days tenemos esta conferencia presentada por Francisco Pérez Fernández, ingeniero informático especializado en proyectos de seguridad informática, desarrollo de aplicaciones móviles multiplataforma y soluciones cloud. Francisco es, además, un apasionado del software libre y el emprendimiento, con amplios conocimientos en seguridad informática y gestión ágil de proyectos. Esto unido a su interés por el IoT, SmartCities y BigData es una receta que garantizará el éxito de su charla y nos hará aprender muchísimo.<br/> En la charla se hablará de las distintas áreas que existen hoy en día en el mundo de la ciberseguridad, los perfiles que se están demandandi y los distintos caminos a seguir para llegar a uno de estos roles. Al final de la charla se hará un simulacro de entrevista de trabajo para poder acceder a este interesante mundo profesional.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/16/becario-ciberseguridad-no-morir-intento-francisco-perez-fernandez/"
+ },
+ {
+  "name": "Francisco Valencia",
+  "affiliation": "Secure&IT",
+  "position": "CEO",
+  "bio_html": "<p>En esta charla Francisco Valencia, CEO en Secure&amp;it nos va a hablar sobre los retos y las necesidades en el mundo de la ciberseguridad.</p><p>Ingeniero Consultor en Telecomunicaciones y Seguridad y MBA. Francisco Valencia comenzó trabajando en Operadoras de Telecomunicaciones (Grupo Auna), pasando por áreas de Tecnología en Redes de Datos, Ingeniería Preventa y por último Dirección de Grandes Proyectos, como es el caso del Grupo Santander.</p><p>Posteriormente pasó a dirigir el Departamento de Consultoría de Seguridad y Telecomunicaciones en Informática El Corte Inglés, donde se especializó en redes corporativas y en seguridad informática. De allí pasó a colaborar en el Desarrollo de Negocio en una iniciativa del Grupo Teldat centrada en los Centros de Proceso de Datos.</p><p>Después de una temporada trabajando como Consultor Independiente, decidió crear Secure&amp;IT, empresa especializada en Ciberseguridad y Cumplimiento normativo. Desde esta nueva perspectiva, realizó consultorías y auditorías técnicas de ciberseguridad, imparte formación, realiza funciones de preventa y dirección de proyectos, etc…</p><p>Dada su gran trayectoria profesional, vendrá a contarnos los retos y las necesidades que le han ido surgiendo a lo largo de los años de vida profesional en el ámbito de la ciberseguridad. Sin duda alguna, será una charla muy enriquecedora, puesto que nos hablará desde su propia experiencia personal.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/ciberseguridad-retos-necesidades-francisco-valencia/"
+ },
+ {
+  "name": "Frank \"Azhrei\" Edwars",
+  "affiliation": "MapTool",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-15.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-15.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-frank-azhrei-edwars/"
+ },
+ {
+  "name": "Frank «Azhrei» Edwars",
+  "affiliation": "MapTool",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-del-sr-frank-azhrei-edwards/"
+ },
+ {
+  "name": "Gonzalo Fernández de la Torre",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/gonzalo-fernndez-de-la-torre-157291126/?originalSubdomain=es"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/trading-algoritmico-con-criptomonedas/"
+ },
+ {
+  "name": "Guillermo Martín",
+  "affiliation": null,
+  "position": "estudiantes",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/ponencia_musica.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/informacion-sobre-la-ponencia-de-produccion-y-composicion-musical-con-inteligencia-artificial/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/"
+ },
+ {
+  "name": "Guillermo Rodríguez",
+  "affiliation": null,
+  "position": "artista y doctorando de la US",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1-5.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/"
+ },
+ {
+  "name": "Helena Hernández Acuaviva",
+  "affiliation": null,
+  "position": "Personal Investigador en Formación, docente y doctoranda de la US",
+  "bio_html": "<p>La tercera trataba sobre los Sesgos y la Traducción automática mediante IA, por Helena Hernández Acuaviva y Agda Carvalho (Desde Brasil). Una de las razones de esta mezcla entre España y Brasil es tratar de tener un encuentro intercultural para ver cómo aparecían problemas para comunicarse entre personas de diferentes partes del mundo y además trataba los sesgos que existen en la tecnología y que anteponen el género masculino en las traducciones y dificultan el día a día a las mujeres.</p><p>Toma de inspiración “HUMAINT”, una de las propuestas del proyecto Aster, tratando la relación entre máquinas y humanos.</p><p>Se crean dos imágenes que reproducen tanto sonidos como gestos mediante IA, una en portugués y otra en español, viendo con variaciones distintas como el humor como las máquinas son forzadas a nuestra imagen y semejanza. Como se puede ver al final al reproducir ambas imágenes se produce un ‘palimpsesto’ por las palabras que son difíciles de entender. A partir de esto se desarrolla cómo la IA no tiene tanto como reto el replicar la inteligencia individual, sino como esta influye en la inteligencia social, es decir como la sociedad ahora avanza en base a algoritmos.</p><p>Por último  se nos contó cómo esta obra formó parte de la exposición de Aster tanto en Sevilla como en Linz, Austria, y que actualmente se encuentra en la galería virtual de XENOpaisagens, en Brasilia.</p><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4332-1024x683.jpg\"/></figure>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4332-1024x683.jpg",
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/21/tecnologia-y-arte/"
+ },
+ {
+  "name": "Ignasi Labastida i Juan",
+  "affiliation": "Creative Commons España / SPARC Europe",
+  "position": "Líder del proyecto Creative Commons España",
+  "bio_html": "<p>Ponencia sobre Ciencia Abierta. Ph. D en Física por la Universidad de Barcelona, Líder del Proyecto Creative Commons España, presidente de la Junta de SPARC Europa.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/ignasi_labastida_i_juan-01.jpg.png",
+  "links": [],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/eventos/ignasi-labastida-i-juan/"
+ },
+ {
+  "name": "Inmaculada Alcón Piñero",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Inmaculada Rodríguez Vizcaína",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Irene M Morgado",
+  "affiliation": null,
+  "position": "Experta en perfiles informáticos",
+  "bio_html": "<p>Experta en perfiles informáticos la cual viene a dar a una charla sobre cómo enfrentarte a una entrevista: “¿Qué deberías preguntar en tu próximo proceso a quien te está entrevistando?</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/irene_morgadao-04.jpeg",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/irene-m-morgado/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/"
+ },
+ {
+  "name": "Irene Ugolini Sánchez-Barroso",
+  "affiliation": null,
+  "position": "doctoranda de la US",
+  "bio_html": "<p>Para la siguiente charla el tema eran los cómics, más concretamente cómo se desarrolló a lo largo de la historia y cómo de importante es este hoy en día, de la mano de Irene Ugolini Sánchez-Barroso.</p><p>Primero se explicó que es en sí un cómic, para después ver cómo se originó este movimiento, siendo al principio un tipo de crítica en EEUU o una versión de arte más barata en Japón. A raíz de esto empezó a surgir lo que conocemos como webcómic, es decir, cómics en internet y cómo esto empezó a popularizarse y vemos como tanto profesionales del campo como aficionados comienzan a trabajar en ello. Comenzó en páginas como DeviantArt o SubCultura que aunque ya no sean lo que una vez fueron sirvieron de base para que otras como Webtoon tengan la importancia que hoy tienen.</p><p>Webtoon es una página dónde podemos ver “manhwas”, o cómic coreano que hoy en día son el principal exponente de esto habiendo llegado a un punto en el que es algo incluso monetizable en las plataformas. Se explica cómo en estas plataformas se te desbloquean cada cierto tiempo un capítulo pero si el lector quiere se le desbloquea el siguiente mediante micropagos. Esto es producto de la importancia del consumo digital en smartphones y la “snack culture” es decir, el consumo de producto de poca duración, lo que favorece tanto este formato de capítulos como el formato de imágenes en vertical.</p><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4353-1024x683.jpg\"/></figure>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4353-1024x683.jpg",
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/21/tecnologia-y-arte/"
+ },
+ {
+  "name": "Isabel Arrans Vega",
+  "affiliation": "Light Software",
+  "position": "Desarrolladora de videojuegos; Premio Nacional al mejor TFG (SCRUM RPG)",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3714-1024x683.jpg\"/></figure><p>Ellos son los ganadores del Premio Nacional al mejor TFG gracias al videojuego que crearon para finalizar sus carreras de software en nuestra facultad llamado “SCRUM RPG”. Nos comentan que deseaban realizar un proyecto tomando lo aprendido en las distintas asignaturas y vieron la oportunidad de realizar un videojuego de RPG como herramienta para conocer la metodología SCRUM. Para ello, el juego tiene distintas fases que simulan los procesos de esta metodología como pueden ser la preparación que simula el “Sprint Planning” o las misiones secundarias que simulan el “Sprint Retrospective”.</p><p>Hicieron hincapié en explicar cómo tratar el TFG, ya que comentan que es el primer paso para nuestro futuro profesional. “Debe ser el primer paso de tu currículum” —comentaba Matthew. En concreto, a Isabel, su proyecto le ayudó a encontrar trabajo como desarrolladora de videojuegos en una empresa como es “LIGHT SOFTWARE” y tiene proyectos personales como “NOVATUNO”.  Por otro lado, Matthew encontró en su proyecto una iniciativa innovadora que le llevó a su deseo por trabajar fuera del país y realizar un máster, comentando que, para trabajar fuera de España, es realmente lo que marca las diferencias y abre distintas posibilidades.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3714-1024x683.jpg",
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/20/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-1/"
+ },
+ {
+  "name": "Isabel Cayrasso Buzón",
+  "affiliation": "GeseRisk",
+  "position": "analista de ciberseguridad en GeseRisk",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Ciberseguridad.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/taller-ciberseguridad-con-isabel-cayrasso/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/"
+ },
+ {
+  "name": "Israel Blancas Álvarez",
+  "affiliation": "Red Hat",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-14.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-13.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/3-3.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-israel-blancas-alvares/"
+ },
+ {
+  "name": "Javier Aguadero García",
+  "affiliation": "Bitnami",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Javier Haro",
+  "affiliation": "Tragsatec",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-12.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-11.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/tragsatec/"
+ },
+ {
+  "name": "Javier María de Domingo Morales",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "<p>Charla de emprendimiento</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/javier_maria_de_domingo_morales-01.jpeg",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/emprendimiento-javier-maria-de-domingo-morales/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/eventos/emprendimiento-javier-maria-de-domingo-morales/"
+ },
+ {
+  "name": "Jesús Alcaide Marín",
+  "affiliation": "NTT DATA",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-16.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-16.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-jesus-alcaide-marin/"
+ },
+ {
+  "name": "Jesús Bermejo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Jesús Bocanegra",
+  "affiliation": "Libnamic",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/libnamic_insta.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/libnamic/"
+ },
+ {
+  "name": "Jesús Lagares Galán",
+  "affiliation": null,
+  "position": "Ingeniero informático",
+  "bio_html": "<p>Ingeniero informático, confirmado como ponente de la X edición.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/10/27/se-confirman-los-ponentes-principales-de-la-primera-charla-innosoft/"
+ },
+ {
+  "name": "Jesús López",
+  "affiliation": "Viafirma",
+  "position": "Departamento de desarrollo",
+  "bio_html": "<p>Jesús López ofrecerá, junto con su compañero Benito Galán Algora, una ponencia sobre la firma e identidad digital, tratando los siguientes puntos principales:</p><p>•\teIDAS: Reglamento de identificación digital en Europa<br/> •\tFormatos de firma digital XAdES, CAdES, PAdES<br/> •\tParadigma de la Identidad Digital Centralizada</p><p>Jesús López pertenece al departamento de desarrollo de la empresa ViaFirma, donde ofrecen soluciones relacionadas con la firma electrónica. La empresa pretende automatizar y optimizar procesos de firma complejos  difícilmente realizables mediante las fórmulas tradicionales en papel. De esta forma, permiten realizar firmas de contratos desde cualquier dispositivo y  lugar.</p><p>Ente las soluciones que incorpora la empresa, se encuentran: Firmas biométricas, certificados digitales, firmas en la nube alojadas en servidores robustos, firmas electrónicas desatendidas que no requieren intervenciones de los usuarios, así como códigos de un solo uso (OTP SMS y OTP Email).</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/16/firma-digital-e-identidad-digital-jesus-lopez/"
+ },
+ {
+  "name": "Jesús Manuel Sánchez Alanís",
+  "affiliation": "BeOneSec",
+  "position": "Estudiante de Ingeniería de Tecnologías Informáticas (Universidad de Sevilla)",
+  "bio_html": "<p>Paula Garrido Lerma y Jesús Manuel Sánchez Alanís nos vendrán a hablar sobre el pentesting y algunas herramientas para ello. Además de darnos una introducción a OWASP.</p><p>En esta ocasión contaremos con dos estudiantes de 4º de Tecnología Informática de la Universidad de Sevilla y que además trabajan en BeOneSec, empresa de ciberseguridad. Nos vendrán a hablar sobre algunas herramientas para atacar diferentes entornos con la finalidad de encontrar algunos fallos o vulnerabilidades y corregirlos. También nos harán una introducción de OWASP, un proyecto de código abierto dedicado a determinar y combatir las causas que hacen que un software no sea seguro. ¿Te lo vas a perder?</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/introduccion-owasp-herramientas-pentesting-paula-garrido-lerma-jesus-manuel-sanchez-alanis/"
+ },
+ {
+  "name": "Jesús Utrera",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Joaquín Salguero",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Jorge Coronado",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-osint-que-sabe-internet-sobre-ti/"
+ },
+ {
+  "name": "Jorge Martos",
+  "affiliation": "Indra",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "José Antonio Pérez",
+  "affiliation": null,
+  "position": "Psicólogo especialista en gestión de emociones",
+  "bio_html": "<p>Psicólogo especialista en gestión de emociones.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/jose_antonio_perez_ojeda.jpeg",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/jose-antonio-perez/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/"
+ },
+ {
+  "name": "José Carlos Gómez",
+  "affiliation": "Accenture",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/ACCENTURE.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-los-srs-rafael-poveda-santos-y-jose-carlos-gomez/"
+ },
+ {
+  "name": "José Carlos Moral Cuevas",
+  "affiliation": "NTT Data",
+  "position": "Experto en seguridad",
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "José Eulalio Bernáldez Torres",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-de-videojuegos/"
+ },
+ {
+  "name": "Jose Fuentes Castillo",
+  "affiliation": "Bitnami",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "José Ignacio Morales Conde",
+  "affiliation": null,
+  "position": "empresarios en el ámbito de software",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3864-1024x683.jpg\"/></figure><p>José Ignacio Morales es un economista con un enfoque ingenieril, que durante su ponencia nos transmitió que es lo necesario como ingenieros para poder emprender. Destacó la importancia de saber vender y adaptarse a las demandas del mercado, por lo que no podemos enamorarnos de nuestro producto pues es el mercado el que manda. También discutió la necesidad de equilibrar la pasión de emprender con la necesidad de ganar dinero.</p><p>Animó al público a plantearse: “¿Qué es lo que buscan los empleadores?, ¿Qué es lo que busca el mercado?, ¿Qué se aprende emprendiendo?” Y continuó comentando todas las habilidades que se desarrollan emprendiendo como liderazgo, trabajo en equipo, comunicación, resolución de problemas, flexibilidad o gestión del tiempo.</p><p>Por último, comentó como en todos los trabajos se desarrollan una serie de “HardSkills” y “SoftSkills” y como cada vez los reclutadores prestan más y más atención a estas Skills a la hora de contratar a alguien. Terminó resaltando que tenemos que buscar personas de referencia con las que generar un vínculo para que nos aporten una visión objetiva y que no debemos acomodarnos ni dejar de aprender. Finalmente nos animó a considerar emprender mirando el riesgo.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3864-1024x683.jpg",
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/informacion-sobre-la-ponencia-del-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/20/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+ },
+ {
+  "name": "José Luis Fontenla",
+  "affiliation": "Rewoox",
+  "position": "CTO",
+  "bio_html": "<p>Rewoox, empresa especializada en soluciones de realidad aumentada (AR) y realidad virtual (VR) enfocadas en la transformación digital.</p><p>Jose es CTO en la empresa y María la Directora de Innovación.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/Screenshot_20241103_210108.png",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/jose-luis-fontenla-y-maria-mendoza/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/eventos/jose-luis-fontenla-y-maria-mendoza/"
+ },
+ {
+  "name": "José Luis Sevillano",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "José María García",
+  "affiliation": null,
+  "position": "estudiantes",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/ponencia_musica.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/informacion-sobre-la-ponencia-de-produccion-y-composicion-musical-con-inteligencia-artificial/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/"
+ },
+ {
+  "name": "Jose María González Vázquez",
+  "affiliation": "Insinno",
+  "position": "fundador y gerente de Insinno España",
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-el-uso-de-chat-gpt-para-datos-estructurados-con-insinno/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/"
+ },
+ {
+  "name": "José Martínez García",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "<p>José Martínez García nos dará unas nociones básicas sobre computación cuántica así como ofrecernos un contexto actual de lo que la computación cuántica. La computación cuántica es un tema de conversación muy recurrente en la actualidad, se trata de es un paradigma de computación distinto al de la informática clásica o computación clásica. Se basa en el uso de cúbits, un sistema cuántico con dos estados propios y que puede ser manipulado arbitrariamente. Nuestro ponente José Martínez García nos dará información sobre el tema y nos explicará sus aplicaciones y usos.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/introduccion-la-computacion-cuantica-jose-martinez-garcia/"
+ },
+ {
+  "name": "José Segovia",
+  "affiliation": "Abatic",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Juan Antonio Álvarez",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Subdirector de investigación, transferencia y emprendimiento",
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/20/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+ },
+ {
+  "name": "Juan Antonio Cabeza Sousa",
+  "affiliation": "Sevilla FC",
+  "position": "Analista",
+  "bio_html": "<p>Analistas del Sevilla que viene a hablar sobre cómo se clasifican en los partidos a los jugadores con IA.   </p><p>David López Carrascal: Head of Software Development en el Sevilla FC.  </p><p>Ingeniero de software apasionado por crear soluciones escalables y centradas en el usuario o el negocio. He liderado equipos de tecnología y desarrollo de software. Orgulloso egresado de la ETSI, Universidad de Sevilla, impulsando la innovación en el ámbito deportivo</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/david-y-Juan.png",
+  "links": [],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/eventos/david-lopez-carrascal-y-juan-antonio-cabeza-sousa/"
+ },
+ {
+  "name": "Juan Ariza Toledano",
+  "affiliation": "Bitnami",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018,
+   2019
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Leila Pontiga Gaytán",
+  "affiliation": null,
+  "position": "Artista y Animadora 2D en Talky",
+  "bio_html": "<p>La cuarta charla trataba del aprendizaje de idiomas con la IA a través de conceptos cómo el Edutainment, de parte de Leila Pontiga. </p><p>La ponente comienza explicándonos como ha evolucionado el papel de los artistas y su importancia en los videojuegos; desde la creación de iconos 2D simples a el fotorrealismo que es común hoy en día.</p><p>Tras esto nos comentó que eran el “Edutainment” y el “Edtech” que consisten respectivamente en educar mediante el entretenimiento y mediante el uso de tecnología. Si ponemos ambos a trabajar juntos obtenemos lo que llamamos videojuegos educativos.</p><p>Nos describe cómo de importante es el arte en estos videojuegos, ya que si esta bien trabajado ayuda a entender mejor los conceptos, aumenta la motivación y lo más importante es adaptable, ya que se puede adecuar a cualesquiera que sean las necesidades del estudiante, desde personas con algo de más dificultades para la tarea que sea hasta la neurodivergencia.</p><p>Luego tras ver algunos ejemplos conocidos de esto como los videojuegos del Profesor Layton o Brain Training, y pasó a Talky, que trataba el tema de la presentación, el aprendizaje de idiomas. </p><p>Talky se basa en la inmersión del jugador para que a este le resulte cómodo aprender y como novedad emplea la IA para que esto se adapte a cada usuario en particular, detectando los puntos fuertes y débiles de cada uno y pudiendo así explotarlos correctamente.</p><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4340-1024x683.jpg\"/></figure>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4340-1024x683.jpg",
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/21/tecnologia-y-arte/"
+ },
+ {
+  "name": "Luis Pablo del Árbol Pérez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Manuel Carranza",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Manuel Jesús Flores Montaño",
+  "affiliation": "Universidad Pablo de Olavide",
+  "position": "Técnico de administración de sistemas informáticos, estudiante de Ingeniería Informática, Microsoft Student Ambassador",
+  "bio_html": "<p>Manuel Jesús Flores Montaño, técnico de administración de sistemas informáticos, vendrá el lunes 15 a hablarnos sobre ciberseguridad. Manuel Jesús lleva especializado en el mundo de la ciberseguridad desde 2014 y actualmente estudia ingeniería informática en la universidad Pablo de Olavide. Además, pertenece al programa de Microsoft Students Ambassador especializado en cloud computing.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2021/10/Manuel-Jesús-Flores-Montaño.png",
+  "links": [],
+  "edition_years": [
+   2021,
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/14/comienzo-la-ciberseguridad-donde-empiezo-manuel-jesus-flores-montano/"
+ },
+ {
+  "name": "María Arias de Reyna",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/privacidad-autodefensa-internet/"
+ },
+ {
+  "name": "María del Carmen García Peral",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "María del Carmen Romero Ternero",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Directora de la ETSII",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-20.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-20.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017,
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sra-maria-del-carmen-romero-ternero/"
+ },
+ {
+  "name": "María José Escalona Cuaresma",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Catedrática, Departamento de Lenguajes y Sistemas Informáticos",
+  "bio_html": "<p>En esta charla María José Escalona, catedrática en el departamento de Lenguajes y Sistemas Informáticos de la Universidad de Sevilla, nos va a hablar sobre el futuro que nos espera a todos los estudiantes que estamos a punto de acabar nuestros estudios.</p><p>María José Escalona es catedrática en el departamento de Lenguajes y Sistemas Informáticos de la Universidad de Sevilla donde imparte clase desde el año 2000. Es además la directora del grupo de investigación “Engineering and Science for Software System TIC021”. Su investigación se enmarca en la ingeniería del software y principalmente en todo aquello que tiene que ver con la inclusión del usuario en la definición, desarrollo y validación del software incluyendo campos como la ingeniería de requisitos, el design thinking, el testing temprano o la calidad del software. En su trayectoria destaca, además, su relación con las empresas. Antes de entrar en la universidad trabajó como freelance durante varios años y a través de su grupo ha colaborado con un gran número de empresas en proyectos de transferencia, teniendo una gran relación con el tejido empresarial. Este perfil y el hecho de haber tenido cargos de gestión relacionados con el tema, como la Subdirección de relaciones internacionales y empresariales de la ETSII, hacen que tenga un gran interés por todo lo que tiene que ver con las relaciones universidad-empresa.</p><p>Vendrá a hablarnos sobre las distintas opciones que tenemos los jóvenes estudiantes una vez que finalizan nuestros estudios, en una charla que promete ser muy entretenida y enriquecedora. ¡No puedes perdértela!</p>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/mjescalona/"
+   }
+  ],
+  "edition_years": [
+   2020,
+   2021,
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/16/ahora-estoy-acabando-la-carrera-maria-jose-escalona/"
+ },
+ {
+  "name": "María Mendoza",
+  "affiliation": "Rewoox",
+  "position": "Directora de Innovación",
+  "bio_html": "<p>Rewoox, empresa especializada en soluciones de realidad aumentada (AR) y realidad virtual (VR) enfocadas en la transformación digital.</p><p>Jose es CTO en la empresa y María la Directora de Innovación.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/Screenshot_20241103_210108.png",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/jose-luis-fontenla-y-maria-mendoza/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/eventos/jose-luis-fontenla-y-maria-mendoza/"
+ },
+ {
+  "name": "María Teresa Gómez López",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesora",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-1.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sra-maria-teresa-gomez-lopez/"
+ },
+ {
+  "name": "Mario Jiménez Calderón",
+  "affiliation": "CaixaBank Tech",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Matthew Bwye Lera",
+  "affiliation": null,
+  "position": "Premio Nacional al mejor TFG (SCRUM RPG)",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3714-1024x683.jpg\"/></figure><p>Ellos son los ganadores del Premio Nacional al mejor TFG gracias al videojuego que crearon para finalizar sus carreras de software en nuestra facultad llamado “SCRUM RPG”. Nos comentan que deseaban realizar un proyecto tomando lo aprendido en las distintas asignaturas y vieron la oportunidad de realizar un videojuego de RPG como herramienta para conocer la metodología SCRUM. Para ello, el juego tiene distintas fases que simulan los procesos de esta metodología como pueden ser la preparación que simula el “Sprint Planning” o las misiones secundarias que simulan el “Sprint Retrospective”.</p><p>Hicieron hincapié en explicar cómo tratar el TFG, ya que comentan que es el primer paso para nuestro futuro profesional. “Debe ser el primer paso de tu currículum” —comentaba Matthew. En concreto, a Isabel, su proyecto le ayudó a encontrar trabajo como desarrolladora de videojuegos en una empresa como es “LIGHT SOFTWARE” y tiene proyectos personales como “NOVATUNO”.  Por otro lado, Matthew encontró en su proyecto una iniciativa innovadora que le llevó a su deseo por trabajar fuera del país y realizar un máster, comentando que, para trabajar fuera de España, es realmente lo que marca las diferencias y abre distintas posibilidades.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3714-1024x683.jpg",
+  "links": [],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/20/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-1/"
+ },
+ {
+  "name": "Mayte Gómez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Web",
+    "url": "http://www.idea.us.es/staff/maria-teresa-gomez-phd/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/procesos-inteligentes-en-la-industria-4-0/"
+ },
+ {
+  "name": "Miguel Ángel Cabrera",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/miguel-ángel-cabrera-miñagorri-67a013162"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/las-soluciones-de-machine-learning/"
+ },
+ {
+  "name": "Mónica Romero Nájera",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Mª Iluminada Baturone Castillo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/identidades-y-el-uso-de-la-biometria-en-esas-identidades/"
+ },
+ {
+  "name": "Nicolás Afonso Alonso",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/viii-edicion/"
+ },
+ {
+  "name": "Olga Albillos Castillo",
+  "affiliation": null,
+  "position": "estudiante de doctorado en el grupo de investigación TIC247",
+  "bio_html": "<p>La segunda presentación venía de la mano de Olga Albillo, que nos venía a hablar sobre instalaciones interactivas mediante dispositivos electrónicos. Pese a tratarse de temas electrónicos y tecnológicos ninguna de estas instalaciones estaba enfocada en lo digital, sino que se le daba un enfoque material al arte. </p><p>La primera que vimos se titulaba “Arobes”, creada por Anicka Yi, que trataba sobre la construcción de unos hongos y elementos de ecosistemas marinos que trataban de crear una sensación de inmersión en aquellos que se encuentren en la exposición. Los elementos detectaban el calor de su entorno y reaccionan en consecuencia mediante aprendizaje propio de estos.</p><p>Después nos comentó el proyecto “La computadora que quería ser incomputable” de Mónica Rikic. Esta obra trataba el concepto de la empatía con los no humanos, tomando como base esa computadora que no quería ser una computadora y de hecho solía dar respuestas ariscas a las personas simulando ese carácter agresivo propio del inconformismo y la impotencia. Esto se hace para hacer a las personas reflexionar sobre los huevos estados de la IA y sobre si estas, con la debida consciencia, realmente quieren ser el objeto para el que fueron creadas. De hecho esta computadora tenía un botón de reinicio que la computadora incitaba a pulsar por las personas, comenzando de nuevo el proceso.</p><p>Por último vimos el proyecto de título “Nada” creado por Olga, la ponente, y Guille Rodríguez. Este proyecto nace a raíz de Aster, visto antes, y trata sobre la necesidad de inculcar creatividad en las IAs, así como la barrera moral de hacerlas tan similares a los humanos que además de que obtengan la parte buena, puedan tener también la mala como la ansiedad; se centra en tratar si esto sería justo o si debemos tener en cuenta a las IAs ya a un nivel más humano que como ratas de laboratorio.</p><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4321-1024x683.jpg\"/></figure>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4321-1024x683.jpg",
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/21/tecnologia-y-arte/"
+ },
+ {
+  "name": "Pablo Borondo García",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/emprendimiento-software/"
+ },
+ {
+  "name": "Pablo Cala",
+  "affiliation": "MCCM Innovations",
+  "position": "empresarios en el ámbito de software",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3829-1024x683.jpg\"/></figure><p>Pablo Cala, fundador de MCCM Innovations, nos comentó como comenzó su carrera en una pequeña consultora en Madrid donde trabajo por unos años. Posteriormente trabajó en una empresa en Inglaterra y pasó de un puesto técnico a puesto de gestión lo que comenta que fue muy traumático para él, por lo que decidió dejarlo y montó una empresa allí en Inglaterra que era más barato. En su empresa con un desarrollador Junior salido de la universidad de Sevilla, trabajaba automatizando procesos. Poco a poco fueron obteniendo más clientes y consiguió convencer a su amigo de la infancia Álvaro Arcos para que participase en la empresa.</p><p>Destacó la importancia de valores como la mentalidad flexible, la responsabilidad y el trabajo en equipo en su empresa. Argumentando que con gente que comparta estos valores todo es más fácil.</p><p>También nos comentó algunos casos de uso en la automatización de procesos que había tenido éxito en su empresa como pueden ser la automatización de tareas como la creación de plantillas para el sistema de la documentación de proyectos, reconocimiento y extracción del DNI o un “chatbot” desarrollado con RASA.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3829-1024x683.jpg",
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/informacion-sobre-la-ponencia-del-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/20/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+ },
+ {
+  "name": "Pablo Dávila Herrero",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Pablo García Sánchez",
+  "affiliation": "Oficina de Software Libre (Universidad de Sevilla)",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/x-edicion/"
+ },
+ {
+  "name": "Pablo Pérez",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesor (proyecto de investigación VOLUM)",
+  "bio_html": "<p>Profesores de la facultad que vienen a hablar sobre su proyecto de investigación llamado VOLUM.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/pablo-perez-y-alberto-olmo.png",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/volum-pablo-perez-y-alberto-olmo/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/"
+ },
+ {
+  "name": "Pablo Pino",
+  "affiliation": null,
+  "position": "Exalumno de la ETSII, creador de los CTF de 2023",
+  "bio_html": "<p>Exalumno de la ETSII y creador de los CTF del año 2023 en las jornadas. </p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/event/charla-ciberseguridad-pablo-pino/"
+ },
+ {
+  "name": "Pablo Reina Jiménez",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Docente e investigador",
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Patricia Bornes Rodríguez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-proyeccion-de-hologramas-sobre-tejido-semitransparente-concierto-de-vocaloid/"
+ },
+ {
+  "name": "Paula Garrido Lerma",
+  "affiliation": "BeOneSec",
+  "position": "Estudiante de Ingeniería de Tecnologías Informáticas (Universidad de Sevilla)",
+  "bio_html": "<p>Paula Garrido Lerma y Jesús Manuel Sánchez Alanís nos vendrán a hablar sobre el pentesting y algunas herramientas para ello. Además de darnos una introducción a OWASP.</p><p>En esta ocasión contaremos con dos estudiantes de 4º de Tecnología Informática de la Universidad de Sevilla y que además trabajan en BeOneSec, empresa de ciberseguridad. Nos vendrán a hablar sobre algunas herramientas para atacar diferentes entornos con la finalidad de encontrar algunos fallos o vulnerabilidades y corregirlos. También nos harán una introducción de OWASP, un proyecto de código abierto dedicado a determinar y combatir las causas que hacen que un software no sea seguro. ¿Te lo vas a perder?</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/introduccion-owasp-herramientas-pentesting-paula-garrido-lerma-jesus-manuel-sanchez-alanis/"
+ },
+ {
+  "name": "Pedro Almagro Blanco",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesor",
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Pedro Grau",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/conferencia-drones-lo-que-se-puede-hacer-ahora-mismo-con-ellos-y-tendencias-futuras/"
+ },
+ {
+  "name": "Pedro J. Molina",
+  "affiliation": "METADEV",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/events/charla-metadev-deloitte/"
+ },
+ {
+  "name": "Pepe Riquelme",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/josé-cristóbal-riquelme-santos-532ba416/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/aportaciones-ivestigacion-y-transferencia-en-ciencia-de-datos/"
+ },
+ {
+  "name": "Rafael Corchuelo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Web",
+    "url": "https://investigacion.us.es/sisius/sis_showpub.php?idpers=3263"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/introduccion-a-la-computacion-cuantica/"
+ },
+ {
+  "name": "Rafael Fresno",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Rafael M Guitart",
+  "affiliation": null,
+  "position": "Profesor, ex director de la reserva científica de Doñana",
+  "bio_html": "<p>Profesor que viene a concienciar sobre la sostenibilidad de Doñana.   Rafa viene a hablarnos de su vida profesional como informático. Trabajó en Doñana, donde participó en proyectos como el ICTS-Doñana</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/rafael_j_martin_guitart-1.jpeg",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/rafael-m-guitart/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/"
+ },
+ {
+  "name": "Rafael Martínez Gasca",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Catedrático de Universidad, doctor en Informática",
+  "bio_html": "<p>En esta charla Rafael Martínez, catedrático de universidad, nos va a hablar sobre el concepto de la inseguridad en el mundo de la ciberseguridad.</p><p>Rafael Martínez Gasca es Doctor en Informática y Catedrático de Universidad, lleva ejerciendo la docencia universitaria desde hace 30 años y especialmente en temas de ciberseguridad. Ha dirigido 4 tesis doctorales relacionadas con el tópico de la Ciberseguridad y también ha dirigido diferentes proyectos de I+D en dicha temática financiados tanto por instituciones públicas como privadas.</p><p>Vendrá a hablarnos sobre las inseguridades emergentes en el mundo de la ciberseguridad, en una charla que promete ser muy entretenida y enriquecedora. ¡No puedes perdértela!</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/16/identificacion-ciber-inseguridades-rafael-martinez/"
+ },
+ {
+  "name": "Rafael Poveda Santos",
+  "affiliation": "Accenture",
+  "position": "Consultor senior",
+  "bio_html": "<p>Consultor senior de Accenture, anteriormente en WordPress Foundation y Drupal Association. Ponencia sobre el uso de software libre en Accenture (8 de noviembre de 2022).</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018,
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/11/09/accenture-y-el-uso-de-software-libre-para-el-desarrollo-y-venta-de-servicios-asociados/"
+ },
+ {
+  "name": "Ramón Salado",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Raquel Campuzano Godoy",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2019
+  ],
+  "source_url": "https://www.innosoftdays.com/events/lecciones-he-aprendido-escribiendo-documentacion-tecnica/"
+ },
+ {
+  "name": "Raúl Castilla",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/events/taller-sistemas-operativos-de-los-robots-librerias-software-y-herramientas-de-ayuda-para-construir-una-aplicacion-robot/"
+ },
+ {
+  "name": "Raúl López García",
+  "affiliation": "NTT Data",
+  "position": "Digital Transformation Executive",
+  "bio_html": "<p>Digital Transformation Executive en NTT Data que viene a dar una charla sobre la vida laboral. Su actividad consistirá en una sesión de preguntas y respuestas en la que aprende gracias a su experiencia de más de 15 años en el sector tecnológico. </p><p>En esta sesión tendremos la oportunidad de resolver dudas de la mano de Raúl, una persona con gran trayectoria en el sector, que a día de hoy se encarga de liderar equipos y operar con clientes. </p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/raul_lopez_garcia-01.jpeg",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/raul-lopez-garcia/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/eventos/raul-lopez-garcia/"
+ },
+ {
+  "name": "Raúl Yeguas",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Rebeca Sarai González Guerra",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2025
+  ],
+  "source_url": "https://www.innosoftdays.com/es/eventos/"
+ },
+ {
+  "name": "Ricardo Arjona Antolin",
+  "affiliation": "EC2CE",
+  "position": "Ingeniero informático y empresario",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-la-ia-motor-de-la-transformacion-laboral/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/"
+ },
+ {
+  "name": "Rocío Berenguel Gallardo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018
+  ],
+  "source_url": "https://institucional.us.es/innosoft/programa/"
+ },
+ {
+  "name": "Rocío García Robles",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesora, doctora en Bellas Artes (proyecto ASTER)",
+  "bio_html": "<p>Nuestra primera ponente era la Dra Rocío García Robles, profesora de la Universidad de Sevilla  y doctorada en bellas artes. Nos explicó todo acerca del proyecto ASTER, que fue premiado. Primero se centró en la organización del proyecto, tanto quién lo componía (en este caso una mezcla de profesores de la US e investigadores) como las preguntas sobre las que se construían las bases de la investigación del proyecto. Tras esto trató la distribución del proyecto, poniendo mayor énfasis en el hackatón, que favorecía un encuentro creativo tanto presencial como online y a raíz del que se creó una comunidad informática que elaboraría las obras de “SciArt” para la exposición.</p><p>Una vez explicado todo acerca de organización y distribución nos contó su experiencia durante este proyecto, viendo las distintas propuestas, como se manejan y cómo llegaron a crear la obra final que fue el proyecto en sí. Se nos dio un ejemplo de esas propuestas del proyecto, titulada “Rigor Plástico” que se basaba en crear una instalación “viva” en base a ciertos gusanos utilizaban como alimento el porexpan del que se había construido una figura humana y con eso e intervenciones químicas germinaban plantas comestibles como lechugas. Por último se vio los distintos impactos que tuvo este proyecto como la elaboración de TFGs, TFMs y hasta tesis doctorales.</p><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4309-1024x683.jpg\"/></figure>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_4309-1024x683.jpg",
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/21/tecnologia-y-arte/"
+ },
+ {
+  "name": "Rubén Ruíz",
+  "affiliation": "Accenture",
+  "position": "Mánager de desarrollo empresarial",
+  "bio_html": "<p>Mánager de desarrollo empresarial en Accenture; habló sobre SAP y su escaparate Spartacus (8 de noviembre de 2022).</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/11/09/accenture-y-el-uso-de-software-libre-para-el-desarrollo-y-venta-de-servicios-asociados/"
+ },
+ {
+  "name": "Sancho Lerena",
+  "affiliation": "Ártica (Pandora FMS)",
+  "position": "CEO y fundador",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-22.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-22.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/3-7.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr/"
+ },
+ {
+  "name": "Sara Galisteo",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2017
+  ],
+  "source_url": "https://www.innosoftdays.com/?method=ical&id=2512"
+ },
+ {
+  "name": "Sergio Medina",
+  "affiliation": "Avenade",
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/ciberseguridad-luchando-contra-el-lado-oscuro-de-la-fuerza/"
+ },
+ {
+  "name": "Soraya Peceño Capilla",
+  "affiliation": null,
+  "position": "Ingeniera informática con más de 15 años de experiencia (Sadiel, Ayesa, Admiral Tech)",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3726-1024x683.jpg\"/></figure><p>Soraya estudió Ingeniería Informática y cuenta con más de 15 años de experiencia en el mundo laboral que quiere compartir. Estuvo trabajando en puestos como programadora web en “Sadiel”, Analista Programadora en “Ayesa”, Scrum Máster y Team Leader en “Admiral Tech” y cuenta cómo ha ido en continuo cambio en todos esos años. Llega a un punto en el que trabajaba hasta 12 h diarias y decidió dar un cambio, pasando a la docencia que comenta que es una parte muy bonita y que disfruta más, aunque cobra bastante menos.</p><p>Tras esto pasó a explicar las distintas opciones al terminar la carrera como pueden ser trabajar en ciberseguridad, sistemas, gestión, desarrollador (frontend o backend), testing, auditorías, analistas de datos, extracción de datos, hardware, inteligencia artificial o empleado público.</p><p>A la hora de comenzar a buscar empleos, comentó algunos consejos. Temas como el nivel de inglés para el teletrabajo, tener preparado nuestra página de “github” con nuestros proyectos de la universidad, no preocuparnos por las “softskills” ya que se desarrollan en las entrevistas, tener claro qué buscan sobre nosotros preguntándolo y, sobre todo, no hacer parecer algo que no somos y ser sinceros en cuanto a lo que ofrecemos.</p><p>En cuanto a los primeros días del trabajo, comentó que tuviésemos claro quién es cada persona en la empresa y qué hace cada uno/a apuntándolo, incluso, pararnos a entender las reglas de las empresas, preguntar, ser avispados, investigar si tenemos bloqueos y con mucha paciencia se lograrán los objetivos.</p><p>Para finalizar la entrevista, nos quiso hacer mucho énfasis en el “CONTINUOUS IMPROVEMENT”, comentando que nunca hay una decisión perfecta: “Siempre tengo que tomar lo que creo que es lo mejor, lo analizo y pienso hacia dónde tengo que ir. Tras un tiempo, reflexiono si es lo correcto o no y tomo decisiones. La vida son momentos y hay que ir dando pequeños saltos hasta saber hacia dónde quieres ir” —Finalizó Soraya.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2023/11/IMG_3726-1024x683.jpg",
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/explorando-el-futuro-laboral-de-los-nuevos-ingenierso-de-software-parte-1/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/2023/11/20/explorando-el-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-1/"
+ },
+ {
+  "name": "Verónica Dahl",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Web",
+    "url": "https://www.cs.sfu.ca/~veronica/"
+   }
+  ],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://institucional.us.es/innosoft/events/hacia-una-inteligencia-artificial-regenerativa-y-redistributiva/"
+ },
+ {
+  "name": "Vicente Herrera",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/events/ciberseguridad-containers-kubernetes/"
+ },
+ {
+  "name": "Yoana Dimitrova",
+  "affiliation": null,
+  "position": "Presidenta Innosoft 2020",
+  "bio_html": "",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2020
+  ],
+  "source_url": "https://www.innosoftdays.com/events/acto-de-clausura/"
+ }
+]

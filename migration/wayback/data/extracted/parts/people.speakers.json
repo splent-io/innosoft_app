@@ -1,0 +1,775 @@
+[
+ {
+  "name": "Carlos Pérez",
+  "affiliation": "CoverManager",
+  "position": "empresarios en el ámbito de software",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-7.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-6.png\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/informacion-sobre-la-ponencia-del-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+   }
+  ],
+  "edition_years": [
+   2022,
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/carlos-perez/",
+  "source_timestamp": "20250209141353"
+ },
+ {
+  "name": "Jose Luis Fontenla",
+  "affiliation": "Rewoox",
+  "position": "CTO",
+  "bio_html": "<p>Rewoox, empresa especializada en soluciones de realidad aumentada (AR) y realidad virtual (VR) enfocadas en la transformación digital. Jose es CTO en la empresa y María la Directora de Innovación.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/Screenshot_20241103_210108.png",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/jose-luis-fontenla-y-maria-mendoza/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/",
+  "source_timestamp": "20241210210955"
+ },
+ {
+  "name": "María Mendoza",
+  "affiliation": "Rewoox",
+  "position": "Directora de Innovación",
+  "bio_html": "<p>Rewoox, empresa especializada en soluciones de realidad aumentada (AR) y realidad virtual (VR) enfocadas en la transformación digital. Jose es CTO en la empresa y María la Directora de Innovación.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/Screenshot_20241103_210108.png",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/jose-luis-fontenla-y-maria-mendoza/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/",
+  "source_timestamp": "20241210210955"
+ },
+ {
+  "name": "Irene M Morgado",
+  "affiliation": null,
+  "position": "Experta en perfiles informáticos",
+  "bio_html": "<p>Experta en perfiles informáticos la cual viene a dar a una charla sobre cómo enfrentarte a una entrevista: “¿Qué deberías preguntar en tu próximo proceso a quien te está entrevistando?</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/irene_morgadao-04.jpeg",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/irene-m-morgado/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/",
+  "source_timestamp": "20241210210955"
+ },
+ {
+  "name": "Anabel Carmona Gutiérrez",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/anabel_carmona-01.jpeg",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/sol-y-ciberseguridad-anabel-carmona-gutierrez/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/",
+  "source_timestamp": "20241210210955"
+ },
+ {
+  "name": "Javier María de Domingo Morales",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/javier_maria_de_domingo_morales-01.jpeg",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/emprendimiento-javier-maria-de-domingo-morales/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/",
+  "source_timestamp": "20241210210955"
+ },
+ {
+  "name": "Pablo Pérez",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesor (proyecto de investigación VOLUM)",
+  "bio_html": "<p>Profesores de la facultad que vienen a hablar sobre su proyecto de investigación llamado VOLUM.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/pablo-perez-y-alberto-olmo.png",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/volum-pablo-perez-y-alberto-olmo/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/",
+  "source_timestamp": "20241210210955"
+ },
+ {
+  "name": "Alberto Olmo",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesor (proyecto de investigación VOLUM)",
+  "bio_html": "<p>Profesores de la facultad que vienen a hablar sobre su proyecto de investigación llamado VOLUM.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/pablo-perez-y-alberto-olmo.png",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/volum-pablo-perez-y-alberto-olmo/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/",
+  "source_timestamp": "20241210210955"
+ },
+ {
+  "name": "Jose Antonio Pérez",
+  "affiliation": null,
+  "position": "Psicólogo especialista en gestión de emociones",
+  "bio_html": "<p>Psicólogo especialista en gestión de emociones.</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/jose_antonio_perez_ojeda.jpeg",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/jose-antonio-perez/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/",
+  "source_timestamp": "20241210210955"
+ },
+ {
+  "name": "Rafael M Guitart",
+  "affiliation": null,
+  "position": "Profesor, informático (ICTS-Doñana)",
+  "bio_html": "<p>Profesor que viene a concienciar sobre la sostenibilidad de Doñana.   Rafa viene a hablarnos de su vida profesional como informático. Trabajó en Doñana, donde participó en proyectos como el ICTS-Doñana</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/rafael_j_martin_guitart-1.jpeg",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/rafael-m-guitart/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/",
+  "source_timestamp": "20241210210955"
+ },
+ {
+  "name": "Raul López García",
+  "affiliation": "NTT Data",
+  "position": "Digital Transformation Executive",
+  "bio_html": "<p>Digital Transformation Executive en NTT Data que viene a dar una charla sobre la vida laboral. Su actividad consistirá en una sesión de preguntas y respuestas en la que aprende</p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2024/11/raul_lopez_garcia-01.jpeg",
+  "links": [
+   {
+    "label": "Evento",
+    "url": "https://www.innosoftdays.com/eventos/raul-lopez-garcia/"
+   }
+  ],
+  "edition_years": [
+   2024
+  ],
+  "source_url": "https://www.innosoftdays.com/etn_category/ponente/",
+  "source_timestamp": "20241210210955"
+ },
+ {
+  "name": "Clara Isabel Grima Ruiz",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-18.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-18.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018,
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sr-clara-isabel-grima-ruiz/",
+  "source_timestamp": "20250214040407"
+ },
+ {
+  "name": "María del Carmen Romero Ternero",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-20.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-20.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sra-maria-del-carmen-romero-ternero/",
+  "source_timestamp": "20250121053019"
+ },
+ {
+  "name": "María Teresa Gómez López",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-1.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sra-maria-teresa-gomez-lopez/",
+  "source_timestamp": "20241108160035"
+ },
+ {
+  "name": "Rafael Poveda Santos",
+  "affiliation": "Accenture",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/ACCENTURE.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2018,
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-los-srs-rafael-poveda-santos-y-jose-carlos-gomez/",
+  "source_timestamp": "20241108145935"
+ },
+ {
+  "name": "José Carlos Gómez",
+  "affiliation": "Accenture",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/ACCENTURE.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-los-srs-rafael-poveda-santos-y-jose-carlos-gomez/",
+  "source_timestamp": "20241108145935"
+ },
+ {
+  "name": "Antonio Castillo",
+  "affiliation": "Deloitte",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/deloitte.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-antonio-castillo/",
+  "source_timestamp": "20250213183911"
+ },
+ {
+  "name": "Fernando Fernández Mancera",
+  "affiliation": "Red Hat",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-17.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-17.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/3-5.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-fernando-fernandez-mancera/",
+  "source_timestamp": "20250209141151"
+ },
+ {
+  "name": "Frank \"Azhrei\" Edwars",
+  "affiliation": "MapTool",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-15.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-15.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-frank-azhrei-edwars/",
+  "source_timestamp": "20250214154440"
+ },
+ {
+  "name": "Israel Blancas Álvarez",
+  "affiliation": "Red Hat",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-14.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-13.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/3-3.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-israel-blancas-alvares/",
+  "source_timestamp": "20250122210858"
+ },
+ {
+  "name": "Jesús Alcaide Marín",
+  "affiliation": "NTT DATA",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-16.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-16.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-jesus-alcaide-marin/",
+  "source_timestamp": "20250214150448"
+ },
+ {
+  "name": "Sancho Lerena",
+  "affiliation": "Ártica (Pandora FMS)",
+  "position": "CEO y fundador",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-22.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-22.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/3-7.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr/",
+  "source_timestamp": "20250209135703"
+ },
+ {
+  "name": "Jesús Bocanegra",
+  "affiliation": "Libnamic",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/libnamic_insta.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/libnamic/",
+  "source_timestamp": "20241110163656"
+ },
+ {
+  "name": "Manuel Jesús Flores Montaño",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "<p><a href=\"https://www.innosoftdays.com/wp-content/uploads/2021/10/Manuel-Jesús-Flores-Montaño.png\"><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2021/10/Manuel-Jesús-Flores-Montaño-286x300.png\"/></a></p>",
+  "photo_url": "https://www.innosoftdays.com/wp-content/uploads/2021/10/Manuel-Jesús-Flores-Montaño.png",
+  "links": [],
+  "edition_years": [
+   2021,
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/manuel-jesus-flores-montano/",
+  "source_timestamp": "20250520124523"
+ },
+ {
+  "name": "María José Escalona",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-8.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-7.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2020,
+   2021,
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/maria-jose-escalona/",
+  "source_timestamp": "20250213202427"
+ },
+ {
+  "name": "José María García",
+  "affiliation": null,
+  "position": "estudiantes",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/ponencia_musica.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/informacion-sobre-la-ponencia-de-produccion-y-composicion-musical-con-inteligencia-artificial/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Alberto Perea",
+  "affiliation": null,
+  "position": "estudiantes",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/ponencia_musica.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/informacion-sobre-la-ponencia-de-produccion-y-composicion-musical-con-inteligencia-artificial/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Guillermo Martín",
+  "affiliation": null,
+  "position": "estudiantes",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/ponencia_musica.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/informacion-sobre-la-ponencia-de-produccion-y-composicion-musical-con-inteligencia-artificial/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Soraya Peceño",
+  "affiliation": null,
+  "position": "Ingeniera con 15 años de experiencia",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Futuro-laboral-1.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/explorando-el-futuro-laboral-de-los-nuevos-ingenierso-de-software-parte-1/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Carlos Müller",
+  "affiliation": null,
+  "position": "Profesor de la ETSII",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Futuro-laboral-1.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/explorando-el-futuro-laboral-de-los-nuevos-ingenierso-de-software-parte-1/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Pablo Cala",
+  "affiliation": null,
+  "position": "empresarios en el ámbito de software",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/ponencia_parte2.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/informacion-sobre-la-ponencia-del-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "José Ignacio Morales",
+  "affiliation": null,
+  "position": "empresarios en el ámbito de software",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/ponencia_parte2.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/informacion-sobre-la-ponencia-del-futuro-profesional-de-los-nuevos-ingenieros-de-software-parte-2/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Isabel Cayrasso",
+  "affiliation": null,
+  "position": "analista de ciberseguridad en GeseRisk",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Ciberseguridad.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/30/taller-ciberseguridad-con-isabel-cayrasso/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Rocío García Robles",
+  "affiliation": null,
+  "position": "IP1 y promotora del proyecto ASTER",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1-5.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Olga Albillos Castillo",
+  "affiliation": null,
+  "position": "estudiante de doctorado en el grupo de investigación TIC247",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1-5.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Helena Hernández Acuaviva",
+  "affiliation": null,
+  "position": "Personal Investigador en Formación, docente y doctoranda de la US",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1-5.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Leila Pontiga Gaytán",
+  "affiliation": null,
+  "position": "Artista y Animadora 2D en Talky",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1-5.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Irene Ugolini Sánchez-Barroso",
+  "affiliation": null,
+  "position": "doctoranda de la US",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1-5.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Ana Rosa González Diánez",
+  "affiliation": null,
+  "position": "diseñadora UX/UI, y doctoranda de la US",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1-5.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Guillermo Rodríguez",
+  "affiliation": null,
+  "position": "artista y doctorando de la US",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1-5.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-tecnologia-y-arte/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Ricardo Arjona Antolin",
+  "affiliation": null,
+  "position": "Ingeniero informático y empresario",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-la-ia-motor-de-la-transformacion-laboral/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Jose María González Vázquez",
+  "affiliation": null,
+  "position": "fundador y gerente de Insinno España",
+  "bio_html": "",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-el-uso-de-chat-gpt-para-datos-estructurados-con-insinno/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Fernando Soler Toscano",
+  "affiliation": null,
+  "position": "profesor de lógica en las facultades de filosofía y derecho",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/11/Slide1.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-retos-sociales-y-eticos-de-la-ia/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Carlos Luis Parra Calderón",
+  "affiliation": null,
+  "position": "jefe de Sección de Innovación Tecnológica en el Hospital Universitario Virgen del Rocío",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1-6.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-transformando-la-salud-con-inteligencia-artificial/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Antonio J. Domínguez",
+  "affiliation": null,
+  "position": "exalumno e investigador de inteligencia artificial",
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2023/10/Slide1-2.jpg\"/></figure>",
+  "photo_url": null,
+  "links": [
+   {
+    "label": "Más info",
+    "url": "https://www.innosoftdays.com/2023/10/31/informacion-de-la-charla-superando-barreras-de-escalado-en-las-large-lenguage-models-llm/"
+   }
+  ],
+  "edition_years": [
+   2023
+  ],
+  "source_url": "https://www.innosoftdays.com/ponentes-xi-edicion/",
+  "source_timestamp": "20240913023826"
+ },
+ {
+  "name": "Daniel García",
+  "affiliation": "PRiSE",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-10.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-9.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021,
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/prise/",
+  "source_timestamp": "20250122214109"
+ },
+ {
+  "name": "Javier Haro",
+  "affiliation": "Tragsatec",
+  "position": null,
+  "bio_html": "<figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/1-12.png\"/></figure><figure><img alt=\"\" src=\"https://www.innosoftdays.com/wp-content/uploads/2022/11/2-11.png\"/></figure>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/tragsatec/",
+  "source_timestamp": "20241110155521"
+ }
+]

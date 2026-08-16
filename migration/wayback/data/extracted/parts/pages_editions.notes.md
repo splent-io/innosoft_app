@@ -1,0 +1,646 @@
+# pages_editions
+
+Site pages (kind=page in the manifest, plus /es/eventos and /en/events from the event-index kind) that describe the event itself: every version of the home page, the roman-numeral edition archive pages (/v-edicion/ .. /xi-edicion/ and /programa-x-edicion/), the 2025 Blocksy/Elementor site (home, about, schedule, events listing, photo galleries, questionnaire), the Astra site's informative pages (how to get there, online access 2020, satisfaction surveys 2021, sustainability and equality pages, TDAH, online games, 2022 talk poster pages), the Twenty Twenty-Five attachment pages, The Events Calendar category listings and the MEC iCal exports served under `?method=ical&id=N`.
+
+## Coverage
+
+- Captures in scope: 374 (200 used or covered by an identical/later version, 174 skipped with a reason below).
+- Editions: 9; events: 55; speakers: 15; pages: 37; media: 526.
+- The latest capture of each URL is used; every other capture of the same URL is hashed on its entry-content text and reported as 'same content' or 'older/different version'. Where different versions describe different editions (home page, /como-llegar) each version is extracted with its own year.
+- Cross-family rule: events and speakers already extracted by another family are not repeated here. Other families read at run time: events_eventos_etn, events_mec, institucional, people, posts_2018_2020, posts_2021, posts_2022, posts_2023_2024. An event matches when it has the same title (loose key ignoring 'Conferencia –' / 'Taller –' prefixes, or the same word set) on the same date, or the same event URL / slug; a speaker matches by name (same_person). 159 calendar slots and 16 speakers were left to the other families (lists below).
+
+## Per year
+
+- 2017: editions 1, events 6, speakers 3, media 2
+- 2018: editions 1, media 1
+- 2019: editions 1, events 1, speakers 1
+- 2020: editions 1, events 2, speakers 1, pages 1, media 10
+- 2021: editions 1, events 1, pages 1, media 7
+- 2022: editions 1, events 13, speakers 1, pages 15, media 44
+- 2023: editions 1, events 2, pages 6, media 8
+- 2024: editions 1, events 2, pages 10, media 8
+- 2025: editions 1, events 28, speakers 9, pages 4, media 446
+
+## Editions
+
+- 2017 (V): 2017-11-06 to 2017-11-09, venue: Escuela Técnica Superior de Ingeniería Informática (ETSII), Universidad de Sevilla, confidence high. Retrospective edition page /v-edicion/ (capture 20240616204926): 'días 6 y 9 de noviembre de 2017'; embedded MEC calendar with 19 programme slots rendered as the 'Programa' list of the description. Venue inferred from the programme rooms (Aula A1.16, Lab B1.36, Salón de Grados...) of the ETSII.
+- 2018 (VI): 2018-11-12 to 2018-11-16, venue: Escuela Técnica Superior de Ingeniería Informática (ETSII), Universidad de Sevilla, confidence high. Retrospective edition page /vi-edicion/ (capture 20240616222207): 'días 12, 13 y 16 de noviembre de 2018'; embedded MEC calendar with 23 programme slots rendered as the 'Programa' list of the description.
+- 2019 (VII): 2019-11-04 to 2019-11-06, venue: Escuela Técnica Superior de Ingeniería Informática (ETSII), Universidad de Sevilla, confidence high. Retrospective edition page /vii-edicion/ (capture 20250213201028): 'días 4, 5 y 6 de noviembre de 2019'; embedded MEC calendar with 18 programme slots rendered as the 'Programa' list of the description. Venue inferred from the programme rooms (Aula A1.16, Lab B1.36, Salón de Grados...) of the ETSII.
+- 2020 (VIII): 2020-11-24 to 2020-11-27, venue: Online (retransmisión por Twitch, twitch.tv/innosoftdays), confidence high. Retrospective edition page /viii-edicion/ (capture 20250121054256): 'días 24, 26 y 27 de noviembre de 2020'; embedded MEC calendar with 22 programme slots rendered as the 'Programa' list of the description. Every programme slot of the page is located at 'Twitch Innosoft'. /acceso-online-innosoft-days/ describes the Twitch access of the fully online 2020 edition.
+- 2021 (IX): 2021-11-08 to 2021-11-17, venue: Escuela Técnica Superior de Ingeniería Informática, Sevilla, confidence high. Retrospective edition page /ix-edicion/ (capture 20250121061459): 'días 8, 10, 15 y 17 de noviembre de 2021'; no calendar, the programme is the triptych image. Venue from the MEC events of 2021 (institucional family / iCal exports). Dates are the four days listed on /encuestas-de-satisfaccion/ (8, 10, 15, 17 November 2021; 26 activities with a survey link); venue from the MEC iCal exports of the 2021 events (LOCATION: Escuela Técnica Superior de Ingeniería Informática, Sevilla).
+- 2022 (X): 2022-11-08 to 2022-11-11, venue: Escuela Técnica Superior de Ingeniería Informática (ETSII), Universidad de Sevilla, confidence high. Home page copy of 2022 (capture 20221107115814). Theme stated on the home page: Software Libre. Retrospective edition page /x-edicion/ (capture 20250209133132): 'días 8, 9, 10 y 11 de noviembre de 2022', theme 'software libre'; embedded MEC calendar with 31 programme slots rendered as the 'Programa' list of the description. /programa-x-edicion/ (MEC monthly calendar of November 2022, 30 slots) cross-checked against the X programme.
+- 2023 (XI): 2023-11-06 to 2023-11-09, venue: Escuela Técnica Superior de Ingeniería Informática (ETSII), Universidad de Sevilla, confidence high. Home page copy of 2023 (capture 20240809143005, identical versions 20240321100838, 20240616205552, 20240725181223). Theme stated on the home page: Inteligencia artificial. Retrospective edition page /xi-edicion/ (capture 20250121054207): 'del 6 al 9 de noviembre de 2023', theme 'inteligencia artificial'; embedded MEC calendar with 25 programme slots rendered as the 'Programa' list of the description.
+- 2024 (XII): 2024-11-05 to 2024-11-08, venue: Escuela Técnica Superior de Ingeniería Informática (ETSII), Campus de Reina Mercedes (Av. Reina Mercedes s/n), Sevilla, confidence high. Home page copy of 2024 (capture 20250227205106, identical versions 20241113004804, 20250207232006, 20250214040609). Theme stated on the home page: Sostenibilidad. English home /en/innosoft-days-english/ confirms 5 to 8 November 2024, theme sustainability. Registration: the XII site had an Eventin ticket store (/en/tickets-store/, 'Event Attendance ... download the ticket at the end of the purchase') per activity.
+- 2025 (XIII): 2025-11-04 to 2025-11-06, venue: Escuela Técnica Superior de Ingeniería Informática (ETSII), Universidad de Sevilla, Av. Reina Mercedes s/n, 41012 Sevilla, confidence high. Dates and venue from /es/inicio ("Días 4-6 de noviembre, ETSII Universidad de Sevilla"); the schedule adds online eSports on Monday 3 November.
+
+## What was extracted from where
+
+- `/` versions: 2022-10-23 x2 placeholder (skipped), 2022-11-07 = X edition copy (8, 10 and 11 November 2022, ETSII, software libre, timetable and poster images), 2024-03-21 (gzip) / 2024-06-16 / 2024-07-25 / 2024-08-09 = XI copy (6, 8 and 9 November 2023, IA, poster Cartel-XI, presentation video), 2024-11-13 / 2025-02-07 / 2025-02-14 / 2025-02-27 (gzip) = XII copy (5 to 8 November 2024, sostenibilidad, seven activity posters), 2025-04-21 .. 2025-11-01 = interim placeholder (skipped).
+- Edition archive pages: `/v-edicion/` (2017: '6 y 9 de noviembre de 2017', old logo, V poster, MEC daily calendar with 19 slots), `/vi-edicion/` (2018: '12, 13 y 16 de noviembre', 23 slots), `/vii-edicion/` (2019: '4, 5 y 6 de noviembre', 18 slots), `/viii-edicion/` (2020: '24, 26 y 27 de noviembre de 2020', posters of the three days, MEC monthly calendar with 22 slots on Twitch, four photos), `/ix-edicion/` (2021: '8, 10, 15 y 17 de noviembre de 2021', poster cartelfinal, logo, triptych programme, three activity posters), `/x-edicion/` (2022: '8, 9, 10 y 11 de noviembre de 2022', software libre, mascot Ping-U, video, Facebook post, timetable poster innosoft10_horario, 31 slots), `/xi-edicion/` (2023: 'del 6 al 9 de noviembre de 2023', IA, mascot Synthia, Cartel-XI, video, 25 slots). Each page -> edition (dates, summary, description_html = page copy + the calendar rendered as a 'Programa' list with day/time/room/link) + media (logos, posters, mascots, photos, videos). The calendar slots that no other family extracted become events (see 'Events added from the calendars'); the rest are listed as covered. `/programa-x-edicion/` (gzip capture, MEC monthly calendar of the X programme, 30 slots) is cross-checked the same way.
+- `/es/inicio` (4 identical versions) = XIII home (4-6 November 2025, ETSII) -> edition 2025 description; the English XIII home only survives under `?method=ical&id=...` URLs (MEC gone, WordPress served the front page, canonical https://www.innosoftdays.com/) -> pages (about, url = canonical, source_url = the iCal URL).
+- `/about-us`, `/es/sobre-nosotros` -> pages (about, 2025). `/es/cronograma` (+ `/schedule` EN cross-check) -> 2025 events with day, time, room and poster; `/es/eventos` adds descriptions, links, Andreas Zeller's bio and the speakers named inside the company talks (José Carlos Moral Cuevas / NTT Data, Jorge Martos / Indra, Mario Jiménez Calderón / CaixaBank Tech, Rebeca Sarai González Guerra); `/es/fotos` (latest of 3 versions, superset of `/fotos-2` and `/photos`) -> media photos grouped by activity; `/es/cuestionario` -> pages (other).
+- `/como-llegar` 2024-09 version says 'Las XI jornadas' (2023) and 2024-12 'Las XII jornadas' (2024): both extracted; `/en/find-us` (12th edition) -> 2024.
+- `/acceso-online-innosoft-days` -> 2020 page + online venue of the 2020 edition (dates come from `/viii-edicion/`). `/encuestas-de-satisfaccion` -> 2021 page (26 activities with a survey link) + edition dates (8, 10, 15, 17 November 2021).
+- Sustainability / equality: `/que-hacemos-xi`, `/en/what-do-we-do-sustainability-xii` (2023 text), `/noticias-de-sostenibilidad`, `/en/sustainability-news`, `/buscadores-sostenibles`, `/en/sustainable-search-engines`, `/igualdad-xi`, `/noticias-de-igualdad` -> pages. Post embeds inside them are turned into plain links.
+- `/tdah`, `/tdah/tdah-servicios`, `/tdah/tdah-recursos-tecnologicos`, `/tdah/tdah-becas-y-ayudas` -> pages (other, 2024).
+- Games (crosswords incl. `/en/hardware-crossword`, `/haz-tu-wordle-diario`, `/juego-ahorcado`, `/adivina-el-logo`, `/innosoft-ctf`) -> events (kind other, modality online, year = first publication from the Yoast graph, link = page URL). Crossword pages hold only a morepuzzles.com iframe (kept, emptied of its escaped fallback text). `/adivina-el-logo` is a Quiz and Survey Master form: the five questions (image + options) are rendered as an ordered list; the Wordle event spans its first and last published word as full datetimes.
+- 2022 'Información sobre la ponencia ...' pages (15 URLs incl. `/carlos-perez`, `/maria-jose-escalona`, `/prise`, `/red-hat`, `/tragsatec`): image-only posters -> pages (other, 2022) + poster media. The speaker names of the titles are all carried by the people family (with affiliations), so they are not repeated in speakers.json here (list below). The Sancho Lerena posters are the only ones the archive holds as files (uploads/2022/11/1-22.png, 2-22.png); their text (CEO y fundador de Ártica / Pandora FMS, 8 November 2022 09:30-10:30 online, talk abstract) was transcribed by hand into that page.
+- Twenty Twenty-Five attachment pages (`/ajedrez`, `/brawlhalla`, `/torneo`, `/gymkana`, `/gymkhana`, `/libnamic`, `/manuel-jesus-flores-montano`) -> media only (one image each, year from the upload path).
+- The Events Calendar category / tag listings (`/events/categoria/*`, `/events/etiqueta/*`, 2024): the JSON-LD block plus the rendered articles (month grid tooltips, list and mobile views: title, date, times, description) of each view are read and matched against the other families. Every event is a single event capture already extracted by events_eventos_etn (the TEC umbrella `mentoria-2` = /event/mentoria/ and the Eventin mentoring shifts, `yincana-coles` = /eventos/yincana-coles/) except 'Final Torneo CS2' (6 Nov 2024 13:30-14:30, played online and streamed), which events_eventos_etn only has as the undated listing stub 'Torneo CS2 (Final)': it is emitted here with its date (only event from these listings).
+- `?method=ical&id=N`: 45 MEC iCal exports (2017 to 2024). MEC writes the local time with a fake 'Z' (iCal 2510 165000Z = 16:50 on the MEC page, 2734 083000Z = 08:30 in the 2021 calendar), so DTSTART/DTEND are read as naive Europe/Madrid without conversion. Exports whose event page was captured, or whose event another family already extracted (Prometheus/Grafana talk and drone raffle 2018 = institucional, Pablo Pino 2024 = events_eventos_etn), are listed as skipped; the remaining ones (2017 Scratch and Docker workshops, 2020 opening) become events here and are enriched with the room of the archive calendar. The remaining iCal URL captures are the interim placeholder or the 2025 English home.
+- Media URLs: the full-size upload when the archive captured it, else the sized variant the page used when that one was captured (2022/11/horario-1024x1024.jpg, 2024/10/cartel6-816x1024.webp), else the full-size URL; the <img> sources inside description_html/content_html point at the same URL.
+
+## Events added from the calendars (no other family has them)
+
+- 2017 2017-11-06T12:45:00 to 2017-11-06T14:20:00: 'Taller – Hybreed, framework profesional de desarrollo híbrido de apps.' (workshop, room Lab B1.36, speaker None, company atSistemas, link https://www.innosoftdays.com/events/taller-hybreed-framework-profesional-de-desarrollo-hibrido-de-apps/) from https://www.innosoftdays.com/v-edicion/
+- 2017 2017-11-09T10:40:00 to 2017-11-09T11:20:00: 'Conferencia – Realidad Virtual' (talk, room Aula A1.16, speaker None, company Moon Flower Technologies, link https://www.innosoftdays.com/events/conferencia-realidad-virtual/) from https://www.innosoftdays.com/v-edicion/
+- 2017 2017-11-09T15:30:00 to 2017-11-09T16:50:00: 'Conferencia – La Ingeniería del Software y su profesión: «¿Somos ingenieros realmente? ¿Qué visión tiene actualmente la sociedad de nosotros? ¿Cómo nos vemos a nosotros mismos? ¿Qué competencias deberíamos tener?».' (talk, room Salón de Grados, speaker Antonio Vallecillo, company None, link https://www.innosoftdays.com/events/conferencia-la-ingenieria-del-software-y-su-profesion-somos-ingenieros-realmente-que-vision-tiene-actualmente-la-sociedad-de-nosotros-como-nos-vemos-a-nosotros-mismos/) from https://www.innosoftdays.com/v-edicion/
+- 2017 2017-11-09T17:00:00 to 2017-11-09T17:50:00: 'Conferencia – Computación cuántica y su impacto en la actualidad.' (talk, room Aula A1.16, speaker Enrique Fernández Borja, company None, link https://www.innosoftdays.com/events/conferencia-computacion-cuantica-y-su-impacto-en-la-actualidad/) from https://www.innosoftdays.com/v-edicion/
+- 2019 2019-11-05T12:30:00 to 2019-11-05T14:30:00: 'ANGULAR UNIVERSAL – OPTIMIZACIÓN SEO DE APLICACIONES WEB ANGULAR' (talk, room None, speaker Fernando Pacheco Ibáñez, company None, link https://www.innosoftdays.com/events/angular-universal-optimizacion-seo-aplicaciones-web-angular/) from https://www.innosoftdays.com/vii-edicion/
+- 2020 2020-11-24T19:00:00 to 2020-11-24T20:00:00: 'Behaviour Driven Development and Chaos Engineering' (talk, room None, speaker Nicolás Afonso Alonso, company None, link https://www.innosoftdays.com/events/behaviour-driven-development-and-chaos-engineering/) from https://www.innosoftdays.com/viii-edicion/
+- 2022 2022-11-08T16:30:00 to 2022-11-08T17:30:00: 'Charla de Oficina de Software Libre' (talk, room None, speaker Pablo García Sánchez, company Oficina de Software Libre (Universidad de Sevilla), link https://www.innosoftdays.com/events/charla-del-sr-pablo-garcia-sanchez/) from https://www.innosoftdays.com/x-edicion/
+- 2022 2022-11-10T11:30:00 to 2022-11-10T12:30:00: 'Ajedrez' (competition, room None, speaker None, company None, link https://www.innosoftdays.com/events/ajedrez/) from https://www.innosoftdays.com/x-edicion/
+- 2023 2023-11-09T18:30:00 to 2023-11-09T19:30:00: 'Charla de clausura de las jornadas' (ceremony, room None, speaker None, company None, link https://www.innosoftdays.com/events/charla-de-clausura-de-las-jornadas/) from https://www.innosoftdays.com/xi-edicion/
+
+## Calendar / iCal slots left to other families
+
+- 2017 2017-11-06 08:30 'Conferencia – Proyecto de Smart Cities del Ayuntamiento de Sevilla.' (/v-edicion/) -> events_mec: Conferencia – Proyecto de Smart Cities del Ayuntamiento de Sevilla.
+- 2017 2017-11-06 09:30 'Conferencia – Gestión de la seguridad dentro de las organizaciones. Normativa de seguridad de la Universidad de Sevilla.' (/v-edicion/) -> events_mec: Conferencia – Gestión de la seguridad dentro de las organizaciones. Normativa de seguridad de la Universidad de Sevilla.
+- 2017 2017-11-06 12:45 'Conferencia – Impresión 3D de órganos y la creación de algoritmos para dichas impresiones.' (/v-edicion/) -> events_mec: Conferencia – Impresión 3D de órganos y la creación de algoritmos para dichas impresiones.
+- 2017 2017-11-06 12:45 'Taller – Sistemas operativos de los robots: librerías, software y herramientas de ayuda para construir una aplicación robot.' (/v-edicion/) -> events_mec: Taller – Sistemas operativos de los robots: librerías, software y herramientas de ayuda para construir una aplicación robot.
+- 2017 2017-11-06 13:40 'Conferencia – Deep learning.' (/v-edicion/) -> events_mec: Conferencia – Deep learning.
+- 2017 2017-11-06 15:30 'Conferencia – El papel y la inclusión de la mujer en la tecnología.' (/v-edicion/) -> events_mec: Conferencia – El papel y la inclusión de la mujer en la tecnología.
+- 2017 2017-11-06 16:00 'Conferencia – Cómo nace y se desarrolla una start-up tecnológica. También hablarán sobre su aplicación de modelado 3D.' (/v-edicion/) -> events_mec: Conferencia – Cómo nace y se desarrolla una start-up tecnológica. También hablarán sobre su aplicación de modelado 3D.
+- 2017 2017-11-06 16:50 'Taller – Desarrollo Ágil de software, envuelve un enfoque para la toma de decisiones en los proyectos de software.' (/v-edicion/) -> events_mec: Taller – Desarrollo Ágil de software, envuelve un enfoque para la toma de decisiones en los proyectos de software.
+- 2017 2017-11-09 10:40 'Taller – How I Learned Code (Scratch)' (/v-edicion/) -> already extracted here from https://www.innosoftdays.com/?method=ical&id=2512
+- 2017 2017-11-09 11:30 'Conferencia – Proyección de hologramas sobre tejido semitransparente. Concierto de Vocaloid.' (/v-edicion/) -> events_mec: Conferencia – Proyección de hologramas sobre tejido semitransparente. Concierto de Vocaloid.
+- 2017 2017-11-09 15:30 'Taller – Docker: herramienta para automatizar el despliegue de aplicaciones dentro de contenedores de software.' (/v-edicion/) -> already extracted here from https://www.innosoftdays.com/?method=ical&id=2514
+- 2017 2017-11-09 16:15 'Conferencia – Machine learning: rama de la inteligencia artificial cuyo objetivo es desarrollar técnicas que permitan a las computadoras aprender.' (/v-edicion/) -> events_mec: Conferencia – Machine learning: rama de la inteligencia artificial cuyo objetivo es desarrollar técnicas que permitan a las computadoras aprender.
+- 2017 2017-11-09 17:30 'Conferencia – «Guifi.Net», una red de telecomunicaciones abierta, libre y neutral.' (/v-edicion/) -> events_mec: Conferencia – «Guifi.Net», una red de telecomunicaciones abierta, libre y neutral.
+- 2017 2017-11-09 18:00 'Conferencia – Drones, lo que se puede hacer ahora mismo con ellos y tendencias futuras.' (/v-edicion/) -> events_mec: Conferencia – Drones, lo que se puede hacer ahora mismo con ellos y tendencias futuras.
+- 2017 2017-11-09 18:40 'Conferencia – “OSINT. Qué sabe Internet sobre ti”.' (/v-edicion/) -> events_mec: Conferencia – “OSINT. Qué sabe Internet sobre ti”.
+- 2018 2018-11-12 19:30 'Conferencia – Los estudios de Ingeniería de Software: pasado presente y futuro' (/vi-edicion/) -> events_mec: Conferencia – Los estudios de Ingeniería de Software: pasado presente y futuro, institucional: Los estudios de Ingeniería de Software: pasado presente y futuro
+- 2018 2018-11-12 20:30 'Conferencia – La informática en el descubrimiento del escutoide' (/vi-edicion/) -> events_mec: Conferencia – La informática en el descubrimiento del escutoide, institucional: La informática en el descubrimiento del escutoide
+- 2018 2018-11-12 20:30 'Conferencia – Mujeres en ingeniería' (/vi-edicion/) -> events_mec: Conferencia – Mujeres en ingeniería, institucional: Mujeres en ingeniería
+- 2018 2018-11-13 08:40 'Proyección – Capítulo “Toda tu historia” de Black Mirror y tertulia' (/vi-edicion/) -> events_mec: Proyección – Capítulo “Toda tu historia” de Black Mirror y tertulia, institucional: Capítulo “Toda tu historia” de Black Mirror y tertulia
+- 2018 2018-11-13 08:40 'Testing de aplicaciones en Kubernetes' (/vi-edicion/) -> events_mec: Testing de aplicaciones en Kubernetes, institucional: Testing de aplicaciones en Kubernetes
+- 2018 2018-11-13 10:40 'Conferencia – Wide Wild West 2.0' (/vi-edicion/) -> events_mec: Conferencia – Wide Wild West 2.0, institucional: Wide Wild West 2.0
+- 2018 2018-11-13 10:40 'Conferencia – Frontend también es diseño' (/vi-edicion/) -> events_mec: Conferencia – Frontend también es diseño, institucional: Frontend también es diseño
+- 2018 2018-11-13 11:40 'Conferencia – Los Nuevos Retos en la Ingeniería de Software Aplicada' (/vi-edicion/) -> events_mec: Conferencia – Los Nuevos Retos en la Ingeniería de Software Aplicada, institucional: Los Nuevos Retos en la Ingeniería de Software Aplicada
+- 2018 2018-11-13 11:40 'Conferencia – 100B+ rows: manejando grandes cantidades de datos en el cliente' (/vi-edicion/) -> events_mec: Conferencia – 100B+ rows: manejando grandes cantidades de datos en el cliente, institucional: 100B+ rows: manejando grandes cantidades de datos en el cliente
+- 2018 2018-11-13 12:40 'Conferencia – Monitorizando aplicaciones en Kubernetes con Prometheus y Grafana' (/vi-edicion/) -> institucional: Monitorizando aplicaciones en Kubernetes con Prometheus y Grafana
+- 2018 2018-11-13 12:40 'Conferencia – Roadmap de oportunidades tecnológicas' (/vi-edicion/) -> events_mec: Conferencia – Roadmap de oportunidades tecnológicas, institucional: Roadmap de oportunidades tecnológicas
+- 2018 2018-11-13 13:50 'Conferencia – De b2/cafelog a WordPress' (/vi-edicion/) -> events_mec: Conferencia – De b2/cafelog a WordPress, institucional: De b2/cafelog a WordPress
+- 2018 2018-11-13 13:50 'Conferencia – OAS-Tools/Generator' (/vi-edicion/) -> events_mec: Conferencia – OAS-Tools/Generator, institucional: OAS-Tools/Generator
+- 2018 2018-11-13 15:50 'Conferencia Introducción a Singular / Sass' (/vi-edicion/) -> events_mec: Conferencia Introducción a Singular / Sass
+- 2018 2018-11-13 15:50 'Conferencia – Blockchain, qué es y cómo funciona' (/vi-edicion/) -> events_mec: Conferencia – Blockchain, qué es y cómo funciona, institucional: Blockchain, qué es y cómo funciona
+- 2018 2018-11-13 16:30 'Conferencia – PostgreSQL: la base de datos libre más potente del mercado' (/vi-edicion/) -> events_mec: Conferencia – PostgreSQL: la base de datos libre más potente del mercado, institucional: PostgreSQL: la base de datos libre más potente del mercado
+- 2018 2018-11-13 17:30 'Taller Clasificación de imágenes y detección de objetos con YOLO' (/vi-edicion/) -> events_mec: Taller Clasificación de imágenes y detección de objetos con YOLO, institucional: Clasificación de imágenes y detección de objetos con YOLO
+- 2018 2018-11-13 17:30 'Conferencia – ¿Por qué ellas no escogen carreras técnicas?' (/vi-edicion/) -> events_mec: Conferencia – ¿Por qué ellas no escogen carreras técnicas?, institucional: ¿Por qué ellas no escogen carreras técnicas?
+- 2018 2018-11-13 18:30 'Competición de ideas open source y modelos de negocio de Bitnami' (/vi-edicion/) -> events_mec: Competición de ideas open source y modelos de negocio de Bitnami, institucional: Competición de ideas open source y modelos de negocio de Bitnami, posts_2018_2020: Competición de ideas open source y modelos de negocio de Bitnami
+- 2018 2018-11-13 19:00 'Realización del sorteo del dron' (/vi-edicion/) -> institucional: Realización del sorteo del dron
+- 2018 2018-11-16 10:30 'Conferencia – Seguridad en entornos IoT' (/vi-edicion/) -> events_mec: Conferencia – Seguridad en entornos IoT, institucional: Seguridad en entornos IoT
+- 2018 2018-11-16 10:30 'Conferencia – Ingeniería informática: pasado, presente y futuro' (/vi-edicion/) -> events_mec: Conferencia – Ingeniería informática: pasado, presente y futuro, institucional: Ingeniería informática: pasado, presente y futuro
+- 2018 2018-11-16 11:20 'Mesa redonda: el impacto de la ingeniería del software en la industria local' (/vi-edicion/) -> events_mec: Mesa redonda: el impacto de la ingeniería del software en la industria local, institucional: Mesa redonda: el impacto de la ingeniería del software en la industria local
+- 2019 2019-11-04 08:30 'BIENVENIDO A INNOSOFTDAYS' (/vii-edicion/) -> events_mec: BIENVENIDO A INNOSOFTDAYS
+- 2019 2019-11-04 10:30 'ACTO DE APERTURA' (/vii-edicion/) -> events_mec: ACTO DE APERTURA
+- 2019 2019-11-04 12:30 'BUENAS PRÁCTICAS ESCRIBIENDO DOCKERFILES' (/vii-edicion/) -> events_mec: BUENAS PRÁCTICAS ESCRIBIENDO DOCKERFILES
+- 2019 2019-11-04 12:30 'CHARLA DE VIDEOJUEGOS' (/vii-edicion/) -> events_mec: CHARLA DE VIDEOJUEGOS
+- 2019 2019-11-04 15:30 'LECCIONES QUE HE APRENDIDO ESCRIBIENDO DOCUMENTACIÓN TÉCNICA' (/vii-edicion/) -> events_mec: LECCIONES QUE HE APRENDIDO ESCRIBIENDO DOCUMENTACIÓN TÉCNICA
+- 2019 2019-11-04 16:30 'GREEN COMPUTING' (/vii-edicion/) -> events_mec: GREEN COMPUTING
+- 2019 2019-11-04 17:30 'TALLER DE INICIACIÓN A SCRAPING' (/vii-edicion/) -> events_mec: TALLER DE INICIACIÓN A SCRAPING
+- 2019 2019-11-04 17:30 'PRIVACIDAD Y AUTODEFENSA EN INTERNET' (/vii-edicion/) -> events_mec: PRIVACIDAD Y AUTODEFENSA EN INTERNET
+- 2019 2019-11-04 18:30 'INTRODUCCIÓN A REACTJS' (/vii-edicion/) -> events_mec: INTRODUCCIÓN A REACTJS
+- 2019 2019-11-04 19:30 'EMPRENDIMIENTO SOFTWARE' (/vii-edicion/) -> events_mec: EMPRENDIMIENTO SOFTWARE
+- 2019 2019-11-04 20:30 'PROYECCIÓN DE DOCUMENTAL SOBRE EL APOLO XI Y MARGARET HAMILTON' (/vii-edicion/) -> events_mec: PROYECCIÓN DE DOCUMENTAL SOBRE EL APOLO XI Y MARGARET HAMILTON
+- 2019 2019-11-05 12:30 'BUILDING MOBILE/WEB APPLICATIONS AND DEPLOYMENT ON CLOUD' (/vii-edicion/) -> events_mec: BUILDING MOBILE/WEB APPLICATIONS AND DEPLOYMENT ON CLOUD
+- 2019 2019-11-06 09:00 'TALLER DE INTEGRACIÓN DE ANIMACIONES DE UNITY' (/vii-edicion/) -> events_mec: TALLER DE INTEGRACIÓN DE ANIMACIONES DE UNITY
+- 2019 2019-11-06 09:00 'CÓMO LUCHAR CONTRA GOOGLE' (/vii-edicion/) -> events_mec: CÓMO LUCHAR CONTRA GOOGLE
+- 2019 2019-11-06 11:30 'ESPECIAL NIÑOS – Línea del tiempo de cómo se ha desarrollado la web' (/vii-edicion/) -> events_mec: ESPECIAL NIÑOS – Línea del tiempo de cómo se ha desarrollado la web
+- 2019 2019-11-06 11:30 'ESPECIAL NIÑOS – Taller de Swift' (/vii-edicion/) -> events_mec: ESPECIAL NIÑOS – Taller de Swift
+- 2019 2019-11-06 11:30 'ESPECIAL NIÑOS – Charla dinámica sobre el Apolo XI' (/vii-edicion/) -> events_mec: ESPECIAL NIÑOS – Charla dinámica sobre el Apolo XI
+- 2020 2020-11-24 09:00 'Inauguración Innososft Days 2020' (/viii-edicion/) -> already extracted here from https://www.innosoftdays.com/?method=ical&id=2378
+- 2020 2020-11-24 09:30 'Experiencia Inteligente en Everis' (/viii-edicion/) -> posts_2018_2020: Experiencia inteligente en Everis
+- 2020 2020-11-24 10:40 'Universidad Empresarial: el binomio perfecto' (/viii-edicion/) -> events_mec: Universidad Empresarial: el binomio perfecto, posts_2018_2020: Universidad Empresarial: El binomio perfecto
+- 2020 2020-11-24 15:30 'Iniciación a la clasificación de imágenes usando redes convolucionales' (/viii-edicion/) -> events_mec: Iniciación a la clasificación de imágenes usando redes convolucionales
+- 2020 2020-11-24 15:30 'Taller Hackatón' (/viii-edicion/) -> events_mec: Taller Hackatón
+- 2020 2020-11-26 09:00 'Presentación del día' (/viii-edicion/) -> events_mec: Presentación del día, posts_2018_2020: Presentación del día
+- 2020 2020-11-26 09:30 '¿Quién es quién en una sociedad digital?' (/viii-edicion/) -> events_mec: ¿Quién es quién en una sociedad digital?, posts_2018_2020: ¿Quién es quién en una sociedad digital?
+- 2020 2020-11-26 10:40 'Limiting Global Warning by Improving Data-Centre Software' (/viii-edicion/) -> events_mec: Limiting Global Warning by Improving Data-Centre Software, posts_2018_2020: Limiting Global Warning by Improving Data-Centre Software
+- 2020 2020-11-26 11:50 'Aportaciones de investigación y Transferencia en ciencia de datos' (/viii-edicion/) -> events_mec: Aportaciones de investigación y Transferencia en ciencia de datos, posts_2018_2020: Aportaciones de Investigación y Transferencia en Ciencia de Datos
+- 2020 2020-11-26 13:30 'Procesos Inteligentes en la Industria 4.0' (/viii-edicion/) -> events_mec: Procesos Inteligentes en la Industria 4.0, posts_2018_2020: Procesos Inteligentes en la Industria 4.0
+- 2020 2020-11-26 15:30 'Introducción a la Computación Cuántica' (/viii-edicion/) -> events_mec: Introducción a la Computación Cuántica, posts_2018_2020: Introducción a la Computación Cuántica
+- 2020 2020-11-26 18:00 'Scape Room' (/viii-edicion/) -> events_mec: Scape Room, posts_2018_2020: Scape Room
+- 2020 2020-11-26 19:00 'Como hacer los equipos de Data Science 10 veces más productivo' (/viii-edicion/) -> events_mec: Como hacer los equipos de Data Science 10 veces más productivo
+- 2020 2020-11-27 09:00 'Presentación del día' (/viii-edicion/) -> posts_2018_2020: Presentación del día
+- 2020 2020-11-27 09:30 'Introducción a soluciones open-source de “Machine Learning”' (/viii-edicion/) -> events_mec: Introducción a soluciones open-source de “Machine Learning”, posts_2018_2020: Introducción a soluciones open-source de “Machine Learning”
+- 2020 2020-11-27 10:40 'Introducción a Spring Cloud Dataflow' (/viii-edicion/) -> posts_2018_2020: Introducción a Spring Cloud DataFlow
+- 2020 2020-11-27 11:50 'Odoo, ERP con alma de framework' (/viii-edicion/) -> events_mec: Odoo, ERP con alma de framework
+- 2020 2020-11-27 16:00 'Aprendizaje Automático con Swift' (/viii-edicion/) -> events_mec: Aprendizaje Automático con Swift, posts_2018_2020: Taller Aprendizaje automático con Swift
+- 2020 2020-11-27 18:00 'Trading algorítmico con criptomonedas' (/viii-edicion/) -> events_mec: Trading algorítmico con criptomonedas, posts_2018_2020: Trading algorítmico con criptomonedas
+- 2020 2020-11-27 20:30 'Hacia una Inteligencia Artificial Regenerativa y Redistributiva (keynote speech)' (/viii-edicion/) -> events_mec: Hacia una Inteligencia Artificial Regenerativa y Redistributiva (keynote speech), institucional: Hacia una Inteligencia Artificial Regenerativa y Redistributiva (keynote speech)
+- 2020 2020-11-27 21:40 'Acto de clausura' (/viii-edicion/) -> events_mec: Acto de clausura
+- 2022 2022-11-08 08:30 'Inauguración Innosoft Days 2022' (/x-edicion/) -> events_mec: Inauguración Innosoft Days 2022
+- 2022 2022-11-08 09:30 'Charla de Mesa Redonda' (/x-edicion/) -> events_mec: Charla de Mesa Redonda
+- 2022 2022-11-08 09:30 'Charla de Tragsatec' (/x-edicion/) -> events_mec: Charla de Tragsatec
+- 2022 2022-11-08 09:30 'Charla de Pandora' (/x-edicion/) -> events_mec: Charla de Pandora
+- 2022 2022-11-08 10:30 'Charla de PRiSE' (/x-edicion/) -> events_mec: Charla de PRiSE
+- 2022 2022-11-08 10:30 'Charla de la Sra. María Teresa Gómez López' (/x-edicion/) -> events_mec: Charla de la Sra. María Teresa Gómez López
+- 2022 2022-11-08 11:30 'Charla de NTT DATA' (/x-edicion/) -> events_mec: Charla de NTT DATA
+- 2022 2022-11-08 11:30 'Charla de Accenture' (/x-edicion/) -> events_mec: Charla de Accenture
+- 2022 2022-11-08 13:00 'Musica' (/x-edicion/) -> events_mec: Musica
+- 2022 2022-11-08 15:00 'Gymkhana 1' (/x-edicion/) -> events_mec: Gymkhana 1
+- 2022 2022-11-08 15:30 'Charla de Red Hat' (/x-edicion/) -> events_mec: Charla de Red Hat
+- 2022 2022-11-08 16:30 'Charla de CoverMananger' (/x-edicion/) -> events_mec: Charla de CoverMananger
+- 2022 2022-11-09 12:30 'Brawlhalla' (/x-edicion/) -> events_mec: Brawlhalla
+- 2022 2022-11-09 15:00 'Gymkhana 2' (/x-edicion/) -> events_mec: Gymkhana 2
+- 2022 2022-11-10  'Innosoft Days día 3' (/x-edicion/) -> events_mec: Innosoft Days día 3
+- 2022 2022-11-10 13:00 'Grupo' (/x-edicion/) -> events_mec: Grupo
+- 2022 2022-11-10 17:30 'Charla de MapTools Project Manager' (/x-edicion/) -> events_mec: Charla de MapTools Project Manager
+- 2022 2022-11-10 17:30 'Charla de SUSE' (/x-edicion/) -> events_mec: Charla de SUSE
+- 2022 2022-11-10 18:30 'Charla de la Sra. Clara Grima Ruiz' (/x-edicion/) -> events_mec: Charla de la Sra. Clara Grima Ruiz
+- 2022 2022-11-10 18:30 'Charla de Libnamic' (/x-edicion/) -> events_mec: Charla de Libnamic
+- 2022 2022-11-11  'Innosoft Days día 4' (/x-edicion/) -> events_mec: Innosoft Days día 4
+- 2022 2022-11-11 08:30 'Charla de Red Hat' (/x-edicion/) -> events_mec: Charla de Red Hat
+- 2022 2022-11-11 08:30 'Charla del Sr. Manuel Jesús Flores Montaño' (/x-edicion/) -> events_mec: Charla del Sr. Manuel Jesús Flores Montaño
+- 2022 2022-11-11 09:30 'Charla de METADEV' (/x-edicion/) -> events_mec: Charla de METADEV
+- 2022 2022-11-11 09:30 'Charla de Deloitte' (/x-edicion/) -> events_mec: Charla de Deloitte
+- 2022 2022-11-11 10:30 'Charla de la Sra. María José Escalona' (/x-edicion/) -> events_mec: Charla de la Sra. María José Escalona
+- 2022 2022-11-11 10:30 'Charla de Copyright Clearance Center' (/x-edicion/) -> events_mec: Charla de Copyright Clearance Center
+- 2022 2022-11-11 11:30 'Charla de cláusura' (/x-edicion/) -> events_mec: Charla de cláusura
+- 2022 2022-11-11 12:30 'Barrilada' (/x-edicion/) -> events_mec: Barrilada
+- 2023 2023-11-06 10:00 'Stand de sostenibilidad' (/xi-edicion/) -> events_mec: Stand de sostenibilidad
+- 2023 2023-11-06 10:30 'Stand de igualdad' (/xi-edicion/) -> events_mec: Stand de igualdad
+- 2023 2023-11-06 12:30 'Charla de apertura de las jornadas' (/xi-edicion/) -> events_mec: Charla de apertura de las jornadas, posts_2023_2024: Charla de apertura de las jornadas
+- 2023 2023-11-06 13:00 'Producción y composición musical con Inteligencia Artificial' (/xi-edicion/) -> events_mec: Producción y composición musical con Inteligencia Artificial
+- 2023 2023-11-06 15:30 'Explorando el futuro profesional de los nuevos Ingenieros de Software. Parte 1' (/xi-edicion/) -> events_mec: Explorando el futuro profesional de los nuevos Ingenieros de Software. Parte 1, posts_2023_2024: Explorando el futuro profesional de los nuevos Ingenieros de Software. Parte 1
+- 2023 2023-11-06 18:00 'Explorando el futuro profesional de los nuevos Ingenieros de Software. Parte 2' (/xi-edicion/) -> events_mec: Explorando el futuro profesional de los nuevos Ingenieros de Software. Parte 2, people: Explorando el futuro profesional de los nuevos Ingenieros de Software: Parte 2, posts_2023_2024: Explorando el futuro profesional de los nuevos Ingenieros de Software. Parte 2
+- 2023 2023-11-07 10:00 'Stand de sostenibilidad' (/xi-edicion/) -> events_mec: Stand de sostenibilidad
+- 2023 2023-11-07 10:30 'Gymkana' (/xi-edicion/) -> events_mec: Gymkana
+- 2023 2023-11-07 10:30 'Stand de igualdad' (/xi-edicion/) -> events_mec: Stand de igualdad
+- 2023 2023-11-07 17:30 'Torneo de Smash Bros' (/xi-edicion/) -> events_mec: Torneo de Smash Bros
+- 2023 2023-11-08 10:00 'Stand de sostenibilidad' (/xi-edicion/) -> events_mec: Stand de sostenibilidad
+- 2023 2023-11-08 10:30 'CTF prueba presencial' (/xi-edicion/) -> events_mec: CTF prueba presencial
+- 2023 2023-11-08 10:30 'Stand de igualdad' (/xi-edicion/) -> events_mec: Stand de igualdad
+- 2023 2023-11-08 12:30 'Taller de ciberseguridad' (/xi-edicion/) -> events_mec: Taller de ciberseguridad, people: Taller de ciberseguridad
+- 2023 2023-11-08 16:30 'CTF prueba presencial' (/xi-edicion/) -> events_mec: CTF prueba presencial
+- 2023 2023-11-08 17:30 'Torneo de ajedrez' (/xi-edicion/) -> events_mec: Torneo de ajedrez
+- 2023 2023-11-09 10:00 'Stand de sostenibilidad' (/xi-edicion/) -> events_mec: Stand de sostenibilidad
+- 2023 2023-11-09 10:30 'Stand de igualdad' (/xi-edicion/) -> events_mec: Stand de igualdad
+- 2023 2023-11-09 10:30 'Tecnología y arte' (/xi-edicion/) -> events_mec: Tecnología y arte, people: Tecnología y arte
+- 2023 2023-11-09 15:30 'La IA, motor de la transformación laboral' (/xi-edicion/) -> events_mec: La IA, motor de la transformación laboral, people: La IA, motor de la transformación laboral
+- 2023 2023-11-09 16:30 'El uso de chat GPT para datos estructurados con Insinno' (/xi-edicion/) -> events_mec: El uso de chat GPT para datos estructurados con Insinno, people: El uso de Chat GPT para datos estructurados con Insinno
+- 2023 2023-11-09 16:30 'Retos sociales y éticos de la IA' (/xi-edicion/) -> events_mec: Retos sociales y éticos de la IA, people: Retos sociales y éticos de la IA
+- 2023 2023-11-09 17:30 'Transformando la salud con inteligencia artificial' (/xi-edicion/) -> events_mec: Transformando la salud con inteligencia artificial, people: Transformando la salud con inteligencia artificial
+- 2023 2023-11-09 17:30 'Superando barreras de escalado en las Large Lenguage Models (LLM)' (/xi-edicion/) -> people: Superando barreras de escalado en las large lenguage models (LLM)
+- 2022 2022-11-08 08:30 'Inauguración Innosoft Days 2022' (/programa-x-edicion/) -> events_mec: Inauguración Innosoft Days 2022
+- 2022 2022-11-08 09:30 'Charla de Tragsatec' (/programa-x-edicion/) -> events_mec: Charla de Tragsatec
+- 2022 2022-11-08 09:30 'Charla de Mesa Redonda' (/programa-x-edicion/) -> events_mec: Charla de Mesa Redonda
+- 2022 2022-11-08 09:30 'Charla de Pandora' (/programa-x-edicion/) -> events_mec: Charla de Pandora
+- 2022 2022-11-08 10:30 'Charla de PRiSE' (/programa-x-edicion/) -> events_mec: Charla de PRiSE
+- 2022 2022-11-08 10:30 'Charla de la Sra. María Teresa Gómez López' (/programa-x-edicion/) -> events_mec: Charla de la Sra. María Teresa Gómez López
+- 2022 2022-11-08 11:30 'Charla de NTT DATA' (/programa-x-edicion/) -> events_mec: Charla de NTT DATA
+- 2022 2022-11-08 11:30 'Charla de Accenture' (/programa-x-edicion/) -> events_mec: Charla de Accenture
+- 2022 2022-11-08 13:00 'Musica' (/programa-x-edicion/) -> events_mec: Musica
+- 2022 2022-11-08 15:00 'Gymkhana 1' (/programa-x-edicion/) -> events_mec: Gymkhana 1
+- 2022 2022-11-08 15:30 'Charla de Red Hat' (/programa-x-edicion/) -> events_mec: Charla de Red Hat
+- 2022 2022-11-08 16:30 'Charla de CoverMananger' (/programa-x-edicion/) -> events_mec: Charla de CoverMananger
+- 2022 2022-11-09 12:30 'Brawlhalla' (/programa-x-edicion/) -> events_mec: Brawlhalla
+- 2022 2022-11-09 15:00 'Gymkhana 2' (/programa-x-edicion/) -> events_mec: Gymkhana 2
+- 2022 2022-11-10  'Innosoft Days día 3' (/programa-x-edicion/) -> events_mec: Innosoft Days día 3
+- 2022 2022-11-10 11:30 'Ajedrez' (/programa-x-edicion/) -> already extracted here from https://www.innosoftdays.com/x-edicion/
+- 2022 2022-11-10 13:00 'Grupo' (/programa-x-edicion/) -> events_mec: Grupo
+- 2022 2022-11-10 17:30 'Charla de SUSE' (/programa-x-edicion/) -> events_mec: Charla de SUSE
+- 2022 2022-11-10 17:30 'Charla de MapTools Project Manager' (/programa-x-edicion/) -> events_mec: Charla de MapTools Project Manager
+- 2022 2022-11-10 18:30 'Charla de la Sra. Clara Grima Ruiz' (/programa-x-edicion/) -> events_mec: Charla de la Sra. Clara Grima Ruiz
+- 2022 2022-11-10 18:30 'Charla de Libnamic' (/programa-x-edicion/) -> events_mec: Charla de Libnamic
+- 2022 2022-11-11  'Innosoft Days día 4' (/programa-x-edicion/) -> events_mec: Innosoft Days día 4
+- 2022 2022-11-11 08:30 'Charla del Sr. Manuel Jesús Flores Montaño' (/programa-x-edicion/) -> events_mec: Charla del Sr. Manuel Jesús Flores Montaño
+- 2022 2022-11-11 08:30 'Charla de Red Hat' (/programa-x-edicion/) -> events_mec: Charla de Red Hat
+- 2022 2022-11-11 09:30 'Charla de METADEV' (/programa-x-edicion/) -> events_mec: Charla de METADEV
+- 2022 2022-11-11 09:30 'Charla de Deloitte' (/programa-x-edicion/) -> events_mec: Charla de Deloitte
+- 2022 2022-11-11 10:30 'Charla de la Sra. María José Escalona' (/programa-x-edicion/) -> events_mec: Charla de la Sra. María José Escalona
+- 2022 2022-11-11 10:30 'Charla de Copyright Clearance Center' (/programa-x-edicion/) -> events_mec: Charla de Copyright Clearance Center
+- 2022 2022-11-11 11:30 'Charla de cláusura' (/programa-x-edicion/) -> events_mec: Charla de cláusura
+- 2022 2022-11-11 12:30 'Barrilada' (/programa-x-edicion/) -> events_mec: Barrilada
+
+## Speakers left to other families
+
+- Yoana Dimitrova (2020) -> events_mec: Yoana Dimitrova
+- Carlos Pérez (2022) -> events_mec: Carlos Pérez
+- Clara Isabel Grima Ruiz (2022) -> events_mec: Clara Grima
+- María del Carmen Romero Ternero (2022) -> people: María del Carmen Romero Ternero
+- María Teresa Gómez López (2022) -> events_mec: María Teresa Gómez López
+- Rafael Poveda Santos (2022) -> events_mec: Rafael Poveda
+- José Carlos Gómez (2022) -> events_mec: José Carlos Gómez
+- Antonio Castillo (2022) -> events_mec: Antonio Castillo
+- Fernando Fernández Mancera (2022) -> events_mec: Fernando Fernández Mancera
+- Frank "Azhrei" Edwars (2022) -> people: Frank "Azhrei" Edwars
+- Israel Blancas Álvarez (2022) -> people: Israel Blancas Álvarez
+- Jesús Alcaide Marín (2022) -> events_mec: Jesús Alcaide Marín
+- Sancho Lerena (2022) -> events_mec: Sancho Lerena
+- María José Escalona (2022) -> events_mec: Maria José Escalona
+- Daniel García (2022) -> events_mec: Daniel Garcia
+- Javier Haro (2022) -> events_mec: Javier Haro
+
+## Not extracted here (covered by other families)
+
+- institucional.us.es captures (home 2019, /programa/ 2018, /programa-ix-edicion/ 2021): institucional family.
+- Organisation pages `/organizacion-ix-edicion/`, `/organizacion-xi-edicion/`, `/organizacion-xii-edicion/`, `/en/xii-edition-organization/`: people family (organisers.json).
+- Eventin category listings `/etn_category/*`, empty `/etn_category-N/` and `/mec-category/*` archives: events_eventos_etn family. `/en/tickets-store/` only used as the 2024 registration_url.
+
+## Oddities
+
+- 2025 event 'CaixaBank Tech - QA en el mundo financiero': cronograma start 11:30 vs eventos 09:30 (cronograma kept)
+- /en/what-do-we-do-sustainability-xii/ is titled XII but its body is the XI (2023) text: '6 to 10 November', 'Sustainable Gymkana (7/11/2023)'; assigned edition_year 2023 like /que-hacemos-xi/.
+- /buscadores-sostenibles/ was published 2023-10-20 and edited 2024-10-29; assigned 2023 (first edition it served), its English twin /en/sustainable-search-engines/ (created 2024) to 2024.
+- https://www.innosoftdays.com/innosoft-ctf/: entry-content empty in the capture (20241108142405); event kept with title only
+- The 2022 home copy (7 Nov 2022) says '8, 10 y 11 de noviembre' (the days with talks) while `/x-edicion/` says '8, 9, 10 y 11' (9 November had the Brawlhalla tournament and gymkhana); starts_on/ends_on are 8 to 11 either way. Both copies are concatenated in the 2022 description_html (home first, archive after).
+- `/x-edicion/` calendar 'Charla de Oficina de Software Libre' (8 Nov 2022 16:30-17:30) links /events/charla-del-sr-pablo-garcia-sanchez/ (never captured): speaker taken from that slug. 'Ajedrez' (10 Nov 2022 11:30-12:30) is the chess tournament the posts_2022 family lists undated as 'Torneo de ajedrez'.
+- `/viii-edicion/` calendar 'Behaviour Driven Development and Chaos Engineering' (24 Nov 2020 19:00-20:00, Twitch) is the talk the posts_2018_2020 family lists date-only under its Spanish title 'Desarrollo Impulsado por la Ingeniería del Caos'; kept here because the titles differ (it adds the time).
+- The `/v-edicion/` calendar markup is malformed (unclosed divs nest the articles and misplace the JSON-LD scripts); titles, times and rooms are read per article and organizers matched by event name.
+- Three raw captures are gzip-compressed on disk (`/` 2024-03-21 and 2025-02-27, `/programa-x-edicion/` 2022-11-07); `read_html_any()` in common.py transparently gunzips them.
+- The 2025 photo URLs are the metaslider 2000x1000 crops (`...-scaled-2000x1000.jpg`); no 2025/11 upload was captured by the archive, so the importer will not find them locally.
+- 2025 timetable: `/es/cronograma` lists 'Escape Room - El Enigma de Grace' twice on Tuesday (9:30-12:30 and 15:30-17:30) and 'Game Jam' / 'Torneo - RogueLikes' on both days; kept as separate events. Andreas Zeller's second talk (Friday 7, doctorate programme) is only a link, not an InnoSoft slot.
+- The `/en/what-do-we-do-sustainability-xii/` and `/que-hacemos-xi/` texts describe the 2023 sustainability stand activities (gymkana 7/11/2023, punto limpio, huerto urbano, cuestionario, aviones de papel); the stand itself is a MEC event (iCal 5134, 2023-11-06) so no events were created from them.
+- The decorative cover background of `/x-edicion/` (uploads/2023/10/BannerEventBrite.png) is dropped from the description and not listed as media.
+
+## Captures used or covered
+
+- https://www.innosoftdays.com/ @20221107115814: home copy of edition X (2022) -> editions + poster media
+- https://www.innosoftdays.com/ @20240321100838: same content as 20240809143005 (edition 2023); covered
+- https://www.innosoftdays.com/ @20240616205552: same content as 20240809143005 (edition 2023); covered
+- https://www.innosoftdays.com/ @20240725181223: same content as 20240809143005 (edition 2023); covered
+- https://www.innosoftdays.com/ @20240809143005: home copy of edition XI (2023) -> editions + poster media
+- https://www.innosoftdays.com/ @20241113004804: same content as 20250227205106 (edition 2024); covered
+- https://www.innosoftdays.com/ @20250207232006: same content as 20250227205106 (edition 2024); covered
+- https://www.innosoftdays.com/ @20250214040609: same content as 20250227205106 (edition 2024); covered
+- https://www.innosoftdays.com/ @20250227205106: home copy of edition XII (2024) -> editions + poster media
+- https://www.innosoftdays.com/?method=ical&id=2238 @20260607222457: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2250 @20260311132300: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2290 @20251109034907: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2293 @20260607230311: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2298 @20260415064728: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2299 @20251210172834: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2364 @20251109031845: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2378 @20241210205548: MEC iCal export of an event with no captured event page -> events (local time, no UTC shift): Inauguración Innososft Days 2020 | 2020-11-24T09:00:00 | Twitch Innosoft | Yoana Dimitrova - Presidenta Innosoft 2020 | https://www.innosoftdays.com/events/inauguracion-innososft-days-2020/
+- https://www.innosoftdays.com/?method=ical&id=2378 @20251210172937: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2503 @20260311134850: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2504 @20251109042743: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2510 @20251109045316: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2512 @20241210220236: MEC iCal export of an event with no captured event page -> events (local time, no UTC shift): Taller – How I Learned Code (Scratch) | 2017-11-09T10:40:00 | Lab B1.36 | Sara Galisteo | https://www.innosoftdays.com/events/taller-how-i-learned-code-scratch/
+- https://www.innosoftdays.com/?method=ical&id=2514 @20241210220119: MEC iCal export of an event with no captured event page -> events (local time, no UTC shift): Taller – Docker: herramienta para automatizar el despliegue de aplicaciones dentro de contenedores de software. | 2017-11-09T15:30:00 | Aula A1.16 | atSistemas | https://www.innosoftdays.com/events/taller-docker-herramienta-para-automatizar-el-despliegue-de-aplicaciones-dentro-de-contenedores-de-software/
+- https://www.innosoftdays.com/?method=ical&id=2514 @20260415075220: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2516 @20260415075142: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2520 @20260311124323: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2575 @20251109033804: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=2785 @20260511024253: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=3128 @20251210164633: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=4035 @20251210175026: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=4059 @20260114020903: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=462559 @20260415064930: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=5119 @20260415063445: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=5130 @20260217182359: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/?method=ical&id=5133 @20260607233704: English 2025 home rendered under an iCal URL (canonical https://www.innosoftdays.com/) -> pages (about, en)
+- https://www.innosoftdays.com/?method=ical&id=5135 @20260217182243: English 2025 home rendered under an iCal URL, same content as 20260607233704; covered
+- https://www.innosoftdays.com/about-us/ @20251101120806: same content as 20260607224840; covered
+- https://www.innosoftdays.com/about-us/ @20251109033049: same content as 20260607224840; covered
+- https://www.innosoftdays.com/about-us/ @20260311125421: same content as 20260607224840; covered
+- https://www.innosoftdays.com/about-us/ @20260415063120: same content as 20260607224840; covered
+- https://www.innosoftdays.com/about-us/ @20260607224840: 2025 about page (en) -> pages
+- https://www.innosoftdays.com/acceso-online-innosoft-days/ @20241110140658: 2020 online-edition access page -> pages (other) + edition 2020 (online venue)
+- https://www.innosoftdays.com/adivina-el-logo/ @20240616203838: older/different version, superseded by 20250121034841 (differences noted)
+- https://www.innosoftdays.com/adivina-el-logo/ @20250121034841: online game page -> events (other, online, 2022)
+- https://www.innosoftdays.com/ajedrez/ @20250420190124: WordPress attachment page: image https://www.innosoftdays.com/wp-content/uploads/2023/10/ajedrez.jpg -> media (poster, 2023)
+- https://www.innosoftdays.com/brawlhalla/ @20250620131205: WordPress attachment page: image https://www.innosoftdays.com/wp-content/uploads/2023/10/brawlhalla.jpg -> media (poster, 2023)
+- https://www.innosoftdays.com/buscadores-sostenibles/ @20240616213235: same content as 20250121045129; covered
+- https://www.innosoftdays.com/buscadores-sostenibles/ @20240912121916: same content as 20250121045129; covered
+- https://www.innosoftdays.com/buscadores-sostenibles/ @20250121045129: sustainability page -> pages (2023)
+- https://www.innosoftdays.com/carlos-perez/ @20250209141353: talk poster page (Carlos Pérez) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/como-llegar/ @20240912133549: how_to_get page version describing edition 2023 -> pages
+- https://www.innosoftdays.com/como-llegar/ @20241212053141: how_to_get page version describing edition 2024 -> pages
+- https://www.innosoftdays.com/crucigrama-comandos-linux/ @20240616215849: older/different version, superseded by 20250214145531 (differences noted)
+- https://www.innosoftdays.com/crucigrama-comandos-linux/ @20241108151408: same content as 20250214145531; covered
+- https://www.innosoftdays.com/crucigrama-comandos-linux/ @20250214145531: online game page -> events (other, online, 2022)
+- https://www.innosoftdays.com/crucigrama-de-marcas-de-hardware/ @20240616205732: online game page -> events (other, online, 2022)
+- https://www.innosoftdays.com/crucigrama-de-videojuegos/ @20240616212438: older/different version, superseded by 20241212041744 (differences noted)
+- https://www.innosoftdays.com/crucigrama-de-videojuegos/ @20241212041744: online game page -> events (other, online, 2022)
+- https://www.innosoftdays.com/crucigrama-frameworks-y-librerias/ @20240616205247: older/different version, superseded by 20250121040254 (differences noted)
+- https://www.innosoftdays.com/crucigrama-frameworks-y-librerias/ @20241012115054: older/different version, superseded by 20250121040254 (differences noted)
+- https://www.innosoftdays.com/crucigrama-frameworks-y-librerias/ @20250121040254: online game page -> events (other, online, 2022)
+- https://www.innosoftdays.com/crucigrama-historia-de-la-informatica/ @20240616223456: older/different version, superseded by 20241201181140 (differences noted)
+- https://www.innosoftdays.com/crucigrama-historia-de-la-informatica/ @20240912133202: older/different version, superseded by 20241201181140 (differences noted)
+- https://www.innosoftdays.com/crucigrama-historia-de-la-informatica/ @20241201181140: online game page -> events (other, online, 2022)
+- https://www.innosoftdays.com/crucigrama-inteligencia-artificial/ @20240616223037: older/different version, superseded by 20250209152019 (differences noted)
+- https://www.innosoftdays.com/crucigrama-inteligencia-artificial/ @20241212052426: same content as 20250209152019; covered
+- https://www.innosoftdays.com/crucigrama-inteligencia-artificial/ @20250209152019: online game page -> events (other, online, 2022)
+- https://www.innosoftdays.com/crucigrama-nombres-ia/ @20240919015710: older/different version, superseded by 20250209153025 (differences noted)
+- https://www.innosoftdays.com/crucigrama-nombres-ia/ @20250209153025: online game page -> events (other, online, 2023)
+- https://www.innosoftdays.com/crucigrama-perifericos/ @20240616212659: older/different version, superseded by 20250213185315 (differences noted)
+- https://www.innosoftdays.com/crucigrama-perifericos/ @20241201165957: same content as 20250213185315; covered
+- https://www.innosoftdays.com/crucigrama-perifericos/ @20250213185315: online game page -> events (other, online, 2022)
+- https://www.innosoftdays.com/crucigrama/ @20240616212954: older/different version, superseded by 20250121044638 (differences noted)
+- https://www.innosoftdays.com/crucigrama/ @20250121044638: online game page -> events (other, online, 2022)
+- https://www.innosoftdays.com/en/find-us/ @20241110162646: how_to_get page version describing edition 2024 -> pages
+- https://www.innosoftdays.com/en/hardware-crossword/ @20241106200507: older/different version, superseded by 20250209135407 (differences noted)
+- https://www.innosoftdays.com/en/hardware-crossword/ @20250209135407: online game page -> events (other, online, 2024)
+- https://www.innosoftdays.com/en/innosoft-days-english/ @20250122215445: English 2024 home copy -> pages (about, en)
+- https://www.innosoftdays.com/en/sustainability-news/ @20241210211642: sustainability page -> pages (2024)
+- https://www.innosoftdays.com/en/sustainable-search-engines/ @20241210214257: sustainability page -> pages (2024)
+- https://www.innosoftdays.com/en/what-do-we-do-sustainability-xii/ @20241210201739: sustainability page -> pages (2023)
+- https://www.innosoftdays.com/encuestas-de-satisfaccion/ @20241110161759: 2021 satisfaction survey links (one per talk, per day) -> pages (other) + edition 2021 dates
+- https://www.innosoftdays.com/es/cronograma/ @20251109044418: same content as 20260415074129; covered
+- https://www.innosoftdays.com/es/cronograma/ @20260415074129: 2025 schedule (ES) -> events 2025 (titles, day, time, room, poster)
+- https://www.innosoftdays.com/es/cuestionario/ @20251109043206: same content as 20260415073012; covered
+- https://www.innosoftdays.com/es/cuestionario/ @20260114013901: same content as 20260415073012; covered
+- https://www.innosoftdays.com/es/cuestionario/ @20260415073012: 2025 satisfaction questionnaire intro -> pages (other); the form fields themselves are dropped
+- https://www.innosoftdays.com/es/eventos/ @20251109045925: 2025 events listing (descriptions, posters, links, speaker names) merged into the cronograma events; same content as 20260217185745
+- https://www.innosoftdays.com/es/eventos/ @20260217185745: 2025 events listing (descriptions, posters, links, speaker names) merged into the cronograma events
+- https://www.innosoftdays.com/es/fotos/ @20251109044150: older/different version, superseded by 20260607234621 (differences noted)
+- https://www.innosoftdays.com/es/fotos/ @20260311140022: same content as 20260607234621; covered
+- https://www.innosoftdays.com/es/fotos/ @20260607234621: 2025 photo galleries -> media (420 photo slots, grouped by activity)
+- https://www.innosoftdays.com/es/inicio/ @20251101112052: same content as 20260511021626; covered
+- https://www.innosoftdays.com/es/inicio/ @20251109032656: same content as 20260511021626; covered
+- https://www.innosoftdays.com/es/inicio/ @20260217172016: same content as 20260511021626; covered
+- https://www.innosoftdays.com/es/inicio/ @20260511021626: 2025 home copy (ES) -> edition 2025 description
+- https://www.innosoftdays.com/es/sobre-nosotros/ @20251109031347: same content as 20260415060359; covered
+- https://www.innosoftdays.com/es/sobre-nosotros/ @20260415060359: 2025 about page (es) -> pages
+- https://www.innosoftdays.com/events/categoria/ceremonia/ @20241110161952: TEC category listing: 2 events (JSON-LD + rendered articles), 2 already extracted (Ceremonia Apertura -> events_eventos_etn: Ceremonia Apertura; Ceremonia Clausura -> events_eventos_etn: Ceremonia Clausura)
+- https://www.innosoftdays.com/events/categoria/ciberseguridad/ @20250214055054: TEC category listing: 2 events (JSON-LD + rendered articles), 2 already extracted (Charla Ciberseguridad – Pablo Pino -> events_eventos_etn: Charla Ciberseguridad – Pablo Pino; Taller de Introducción a la Cibersegurirdad -> events_eventos_etn: Taller de Introducción a la Ciberseguridad)
+- https://www.innosoftdays.com/events/categoria/ciberseguridad/2024-11/ @20250121053711: TEC category listing: 2 events (JSON-LD + rendered articles), 2 already extracted (Taller de Introducción a la Cibersegurirdad -> events_eventos_etn: Taller de Introducción a la Ciberseguridad; Charla Ciberseguridad – Pablo Pino -> events_eventos_etn: Charla Ciberseguridad – Pablo Pino)
+- https://www.innosoftdays.com/events/categoria/ciberseguridad/dia/2024-11-01/ @20250214043431: TEC category listing: 2 events (JSON-LD + rendered articles), 2 already extracted (Taller de Introducción a la Cibersegurirdad -> events_eventos_etn: Taller de Introducción a la Ciberseguridad; Charla Ciberseguridad – Pablo Pino -> events_eventos_etn: Charla Ciberseguridad – Pablo Pino)
+- https://www.innosoftdays.com/events/categoria/ciberseguridad/dia/2024-12-01/ @20250121055129: TEC listing view without events in the capture (empty month/day view or JavaScript-rendered list); nothing to extract
+- https://www.innosoftdays.com/events/categoria/ciberseguridad/lista/?tribe-bar-date=2024-11-01 @20250214055315: TEC category listing: 2 events (JSON-LD + rendered articles), 2 already extracted (Taller de Introducción a la Cibersegurirdad -> events_eventos_etn: Taller de Introducción a la Ciberseguridad; Charla Ciberseguridad – Pablo Pino -> events_eventos_etn: Charla Ciberseguridad – Pablo Pino)
+- https://www.innosoftdays.com/events/categoria/ciberseguridad/lista/?tribe-bar-date=2024-12-01 @20250121042758: TEC listing view without events in the capture (empty month/day view or JavaScript-rendered list); nothing to extract
+- https://www.innosoftdays.com/events/categoria/ciberseguridad/mes/ @20241212034330: TEC listing view without events in the capture (empty month/day view or JavaScript-rendered list); nothing to extract
+- https://www.innosoftdays.com/events/categoria/comunicacion/ @20241110162504: TEC category listing: 1 events (JSON-LD + rendered articles), 1 already extracted (Photocall Innosoft -> events_eventos_etn: Photocall Innosoft)
+- https://www.innosoftdays.com/events/categoria/comunicacion/ @20250214153102: TEC category listing: 1 events (JSON-LD + rendered articles), 1 already extracted (Photocall Innosoft -> events_eventos_etn: Photocall Innosoft)
+- https://www.innosoftdays.com/events/categoria/emprendimiento/dia/2024-11-06/ @20241212052349: TEC category listing: 4 events (JSON-LD + rendered articles), 4 already extracted (Charla Emprendimiento – Ignasi Labastida i Juan -> events_eventos_etn: Charla Emprendimiento – Ignasi Labastida i Juan, events_mec: Charla Emprendimiento – Ignasi Labastida i Juan; Charla Emprendimiento – Javier María de Domingo -> events_mec: Charla Emprendimiento – Javier María de Domingo; Charla Emprendimiento – Carlos Sanchis Pedregosa -> events_eventos_etn: Conectando personas y empresas a través de valores: Carlos Sanchís Pedregosa; Charla Laboral – RRHH NttData -> events_eventos_etn: RRHH: NttData)
+- https://www.innosoftdays.com/events/categoria/emprendimiento/dia/2024-11-07/ @20241212054136: TEC category listing: 3 events (JSON-LD + rendered articles), 3 already extracted (Charla Emprendimiento – Javier María de Domingo -> events_mec: Charla Emprendimiento – Javier María de Domingo; Charla Emprendimiento – Carlos Sanchis Pedregosa -> events_eventos_etn: Conectando personas y empresas a través de valores: Carlos Sanchís Pedregosa; Charla Laboral – RRHH NttData -> events_eventos_etn: RRHH: NttData)
+- https://www.innosoftdays.com/events/categoria/igualdad/ @20241110162720: TEC category listing: 4 events (JSON-LD + rendered articles), 4 already extracted (Stand Igualdad -> events_eventos_etn: Stand Igualdad; Mentoría -> events_eventos_etn: Mentoría; Mentoría -> events_eventos_etn: Mentoría; Charla Iguldad – José Antonio Pérez -> events_eventos_etn: Charla Igualdad – José Antonio Pérez)
+- https://www.innosoftdays.com/events/categoria/igualdad/ @20250213201817: TEC category listing: 3 events (JSON-LD + rendered articles), 3 already extracted (Charla Iguldad – José Antonio Pérez -> events_eventos_etn: Charla Igualdad – José Antonio Pérez; Mentoría -> events_eventos_etn: Mentoría; Mentoría -> events_eventos_etn: Mentoría)
+- https://www.innosoftdays.com/events/categoria/inteligencia-artificial/ @20250213182926: TEC category listing: 1 events (JSON-LD + rendered articles), 1 already extracted (Charla Inteligencia Artificial – David López Carrascal y Juan Antonio Cabeza Sousa -> events_eventos_etn: Charla Inteligencia Artificial – David López Carrascal y Juan Antonio Cabeza Sousa)
+- https://www.innosoftdays.com/events/categoria/investigacion/ @20241108153151: TEC category listing: 1 events (JSON-LD + rendered articles), 1 already extracted (Charla Investigación – Pablo Pérez y Alberto Olmo -> events_eventos_etn: VOLUM: Pablo Pérez y Alberto Olmo)
+- https://www.innosoftdays.com/events/categoria/investigacion/ @20250209151350: TEC category listing: 1 events (JSON-LD + rendered articles), 1 already extracted (Charla Investigación – Pablo Pérez y Alberto Olmo -> events_eventos_etn: VOLUM: Pablo Pérez y Alberto Olmo)
+- https://www.innosoftdays.com/events/categoria/investigacion/mes/ @20241210214726: TEC listing view without events in the capture (empty month/day view or JavaScript-rendered list); nothing to extract
+- https://www.innosoftdays.com/events/categoria/laboral/ @20241110151522: TEC category listing: 1 events (JSON-LD + rendered articles), 1 already extracted (Charla Laboral – RRHH NttData -> events_eventos_etn: RRHH: NttData)
+- https://www.innosoftdays.com/events/categoria/photocall/ @20250122222910: TEC category listing: 1 events (JSON-LD + rendered articles), 1 already extracted (Photocall Innosoft -> events_eventos_etn: Photocall Innosoft)
+- https://www.innosoftdays.com/events/categoria/photocall/2024-12/ @20250214043122: TEC listing view without events in the capture (empty month/day view or JavaScript-rendered list); nothing to extract
+- https://www.innosoftdays.com/events/categoria/photocall/hoy/ @20250214053756: TEC listing view without events in the capture (empty month/day view or JavaScript-rendered list); nothing to extract
+- https://www.innosoftdays.com/events/categoria/photocall/lista/ @20250214050029: TEC listing view without events in the capture (empty month/day view or JavaScript-rendered list); nothing to extract
+- https://www.innosoftdays.com/events/categoria/photocall/mes/ @20250214052326: TEC category listing: 1 events (JSON-LD + rendered articles), 1 already extracted (Photocall Innosoft -> events_eventos_etn: Photocall Innosoft)
+- https://www.innosoftdays.com/events/categoria/sostenibilidad/ @20250213183746: TEC category listing: 3 events (JSON-LD + rendered articles), 3 already extracted (Charla Sostenibilidad – Anabel Carmona Gutiérrez -> events_eventos_etn: Charla Sostenibilidad – Anabel Carmona Gutiérrez; Charla Sostenibilidad – Rafael M Guitart -> events_eventos_etn: Charla Sostenibilidad – Rafael M Guitart, events_mec: Charla Sostenibilidad – Rafael M Guitart; Stand Sostenibilidad -> events_eventos_etn: Stand Sostenibilidad)
+- https://www.innosoftdays.com/events/categoria/stand/ @20241110150422: TEC category listing: 2 events (JSON-LD + rendered articles), 2 already extracted (Stand Igualdad -> events_eventos_etn: Stand Igualdad; Stand Sostenibilidad -> events_eventos_etn: Stand Sostenibilidad)
+- https://www.innosoftdays.com/events/categoria/stand/ @20250209142759: TEC category listing: 2 events (JSON-LD + rendered articles), 2 already extracted (Stand Sostenibilidad -> events_eventos_etn: Stand Sostenibilidad; Stand Igualdad -> events_eventos_etn: Stand Igualdad)
+- https://www.innosoftdays.com/events/categoria/talleres/ @20241106204704: TEC category listing: 5 events (JSON-LD + rendered articles), 5 already extracted (Mentoría -> events_eventos_etn: Mentoría; Mentoría -> events_eventos_etn: Mentoría; Taller de Introducción a la Cibersegurirdad -> events_eventos_etn: Taller de Introducción a la Ciberseguridad; Taller Pensamiento Computacional -> events_eventos_etn: Taller Pensamiento Computacional; Yincana Coles -> events_eventos_etn: Yincana Coles)
+- https://www.innosoftdays.com/events/categoria/talleres/ @20250214045027: TEC category listing: 3 events (JSON-LD + rendered articles), 3 already extracted (Yincana Coles -> events_eventos_etn: Yincana Coles; Taller Pensamiento Computacional -> events_eventos_etn: Taller Pensamiento Computacional; Taller de Introducción a la Cibersegurirdad -> events_eventos_etn: Taller de Introducción a la Ciberseguridad)
+- https://www.innosoftdays.com/events/categoria/torneos/ @20241106202645: TEC category listing: 6 events (JSON-LD + rendered articles), 5 already extracted (Torneo Pokémon Showdown -> events_eventos_etn: Torneo Pokémon Showdown; Final Torneo Pokémon Showdown -> events_eventos_etn: Final Torneo Pokémon Showdown; Torneo CS2 (primera ronda) -> events_eventos_etn: Torneo CS2 (primera ronda); Torneo LOL (primera ronda) -> events_eventos_etn: Torneo LOL (primera ronda); Final Torneo LOL -> events_eventos_etn: Final Torneo LOL), added here: Final Torneo CS2
+- https://www.innosoftdays.com/events/categoria/torneos/ @20250122204659: TEC category listing: 3 events (JSON-LD + rendered articles), 3 already extracted (Final Torneo Pokémon Showdown -> events_eventos_etn: Final Torneo Pokémon Showdown; Torneo Pokémon Showdown -> events_eventos_etn: Torneo Pokémon Showdown; Final Torneo LOL -> events_eventos_etn: Final Torneo LOL)
+- https://www.innosoftdays.com/events/categoria/torneos/2024-12/ @20250214034754: TEC listing view without events in the capture (empty month/day view or JavaScript-rendered list); nothing to extract
+- https://www.innosoftdays.com/events/categoria/torneos/hoy/ @20250214040933: TEC listing view without events in the capture (empty month/day view or JavaScript-rendered list); nothing to extract
+- https://www.innosoftdays.com/events/categoria/torneos/lista/ @20250214054347: TEC listing view without events in the capture (empty month/day view or JavaScript-rendered list); nothing to extract
+- https://www.innosoftdays.com/events/categoria/torneos/mes/ @20250214055017: TEC category listing: 3 events (JSON-LD + rendered articles), 3 already extracted (Final Torneo Pokémon Showdown -> events_eventos_etn: Final Torneo Pokémon Showdown; Torneo Pokémon Showdown -> events_eventos_etn: Torneo Pokémon Showdown; Final Torneo LOL -> events_eventos_etn: Final Torneo LOL)
+- https://www.innosoftdays.com/events/categoria/yincana/ @20241110155439: TEC category listing: 3 events (JSON-LD + rendered articles), 3 already extracted (Yincana inauguración Innosoft Days -> events_eventos_etn: Yincana Inauguración Innosoft Days, events_eventos_etn: Yincana inauguración Innosoft Days; Yincana Inauguración Innosoft Days -> events_eventos_etn: Yincana Inauguración Innosoft Days, events_eventos_etn: Yincana inauguración Innosoft Days; Yincana Coles -> events_eventos_etn: Yincana Coles)
+- https://www.innosoftdays.com/events/categoria/yincana/ @20250214051614: TEC category listing: 3 events (JSON-LD + rendered articles), 3 already extracted (Yincana Coles -> events_eventos_etn: Yincana Coles; Yincana Inauguración Innosoft Days -> events_eventos_etn: Yincana Inauguración Innosoft Days, events_eventos_etn: Yincana inauguración Innosoft Days; Yincana inauguración Innosoft Days -> events_eventos_etn: Yincana Inauguración Innosoft Days, events_eventos_etn: Yincana inauguración Innosoft Days)
+- https://www.innosoftdays.com/events/etiqueta/investigacion/ @20250214042156: TEC category listing: 1 events (JSON-LD + rendered articles), 1 already extracted (Charla Investigación – Pablo Pérez y Alberto Olmo -> events_eventos_etn: VOLUM: Pablo Pérez y Alberto Olmo)
+- https://www.innosoftdays.com/fotos-2/ @20251210183124: English/older photo gallery: 418 photos, 0 not already in /es/fotos
+- https://www.innosoftdays.com/fotos-2/ @20260415074337: English/older photo gallery: 418 photos, 0 not already in /es/fotos
+- https://www.innosoftdays.com/fotos-2/ @20260607235015: English/older photo gallery: 418 photos, 0 not already in /es/fotos
+- https://www.innosoftdays.com/gymkana/ @20250915193013: WordPress attachment page: image https://www.innosoftdays.com/wp-content/uploads/2024/11/gymkana.png -> media (poster, 2024); same
+- https://www.innosoftdays.com/gymkana/ @20251011155312: WordPress attachment page: image https://www.innosoftdays.com/wp-content/uploads/2024/11/gymkana.png -> media (poster, 2024)
+- https://www.innosoftdays.com/gymkhana/ @20250619184459: WordPress attachment page: image https://www.innosoftdays.com/wp-content/uploads/2023/10/gymkhana.jpg -> media (poster, 2023)
+- https://www.innosoftdays.com/haz-tu-wordle-diario/ @20240616210356: same content as 20250122202554; covered
+- https://www.innosoftdays.com/haz-tu-wordle-diario/ @20250122202554: online game page -> events (other, online, 2022)
+- https://www.innosoftdays.com/igualdad-xi/ @20240616212147: other page -> pages (2023)
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sr-clara-isabel-grima-ruiz/ @20241106200244: talk poster page (Clara Isabel Grima Ruiz) -> pages (other, 2022) + poster media; same images as 20250214040407
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sr-clara-isabel-grima-ruiz/ @20250214040407: talk poster page (Clara Isabel Grima Ruiz) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sra-maria-del-carmen-romero-ternero/ @20250121053019: talk poster page (María del Carmen Romero Ternero) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sra-maria-teresa-gomez-lopez/ @20241108160035: talk poster page (María Teresa Gómez López) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-los-srs-rafael-poveda-santos-y-jose-carlos-gomez/ @20241108145935: talk poster page (Rafael Poveda Santos, José Carlos Gómez) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-antonio-castillo/ @20241108141828: talk poster page (Antonio Castillo) -> pages (other, 2022) + poster media; same images as 20250213183911
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-antonio-castillo/ @20250213183911: talk poster page (Antonio Castillo) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-fernando-fernandez-mancera/ @20241110143843: talk poster page (Fernando Fernández Mancera) -> pages (other, 2022) + poster media; same images as 20250209141151
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-fernando-fernandez-mancera/ @20250209141151: talk poster page (Fernando Fernández Mancera) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-frank-azhrei-edwars/ @20241110163640: talk poster page (Frank "Azhrei" Edwars) -> pages (other, 2022) + poster media; same images as 20250214154440
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-frank-azhrei-edwars/ @20250214154440: talk poster page (Frank "Azhrei" Edwars) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-israel-blancas-alvares/ @20241106203805: talk poster page (Israel Blancas Álvares) -> pages (other, 2022) + poster media; same images as 20250122210858
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-israel-blancas-alvares/ @20250122210858: talk poster page (Israel Blancas Álvares) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-jesus-alcaide-marin/ @20250214150448: talk poster page (Jesús Alcaide Marín) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr/ @20221107115639: talk poster page (Sancho Lerena) -> pages (other, 2022) + poster media; same images as 20250209135703
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr/ @20250209135703: talk poster page (Sancho Lerena) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/innosoft-ctf/ @20241108142405: online game page -> events (other, online, 2021)
+- https://www.innosoftdays.com/ix-edicion/ @20240616224456: edition archive page IX (2021), same content as 20250121061459; covered
+- https://www.innosoftdays.com/ix-edicion/ @20250121061459: edition archive page IX (2021) -> edition (dates, copy, programme list), media (6 images), calendar: 0 slots, 0 events added here, 0 already extracted by other families
+- https://www.innosoftdays.com/juego-ahorcado/ @20240616211815: same content as 20250121043241; covered
+- https://www.innosoftdays.com/juego-ahorcado/ @20250121043241: online game page -> events (other, online, 2022)
+- https://www.innosoftdays.com/libnamic/ @20241110163656: WordPress attachment page: image https://www.innosoftdays.com/wp-content/uploads/2023/10/libnamic.png -> media (logo, 2023); same
+- https://www.innosoftdays.com/libnamic/ @20250428164126: WordPress attachment page: image https://www.innosoftdays.com/wp-content/uploads/2023/10/libnamic.png -> media (logo, 2023)
+- https://www.innosoftdays.com/manuel-jesus-flores-montano/ @20250520124523: WordPress attachment page: image https://www.innosoftdays.com/wp-content/uploads/2021/10/Manuel-Jesús-Flores-Montaño.png -> media (other, 2021)
+- https://www.innosoftdays.com/maria-jose-escalona/ @20241110163551: talk poster page (María José Escalona) -> pages (other, 2022) + poster media; same images as 20250213202427
+- https://www.innosoftdays.com/maria-jose-escalona/ @20250213202427: talk poster page (María José Escalona) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/noticias-de-igualdad/ @20240616215304: other page -> pages (2023)
+- https://www.innosoftdays.com/noticias-de-sostenibilidad/ @20250214052026: sustainability page -> pages (2024)
+- https://www.innosoftdays.com/photos/ @20251109030300: English/older photo gallery: 159 photos, 0 not already in /es/fotos
+- https://www.innosoftdays.com/prise/ @20241106205721: talk poster page (Daniel García) -> pages (other, 2022) + poster media; same images as 20250122214109
+- https://www.innosoftdays.com/prise/ @20250122214109: talk poster page (Daniel García) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/programa-x-edicion/ @20221107001938: X edition programme calendar (MEC, gzip capture): 30 slots, 0 events added here, 30 already extracted (events_mec / this family's /x-edicion/)
+- https://www.innosoftdays.com/que-hacemos-xi/ @20250209150216: sustainability page -> pages (2023)
+- https://www.innosoftdays.com/red-hat/ @20250209143028: talk poster page (Israel Blancas Álvarez) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/schedule/ @20251109043040: English 2025 schedule: same programme as /es/cronograma (English titles not extracted separately; times/rooms cross-checked)
+- https://www.innosoftdays.com/schedule/ @20260217182425: English 2025 schedule: same programme as /es/cronograma (English titles not extracted separately; times/rooms cross-checked)
+- https://www.innosoftdays.com/schedule/ @20260607233729: English 2025 schedule: same programme as /es/cronograma (English titles not extracted separately; times/rooms cross-checked)
+- https://www.innosoftdays.com/tdah/ @20250214053908: TDAH information page (Comité de Igualdad XII) -> pages (other, 2024)
+- https://www.innosoftdays.com/tdah/tdah-becas-y-ayudas/ @20241110160359: same content as 20250213194950; covered
+- https://www.innosoftdays.com/tdah/tdah-becas-y-ayudas/ @20250213194950: TDAH information page (Comité de Igualdad XII) -> pages (other, 2024)
+- https://www.innosoftdays.com/tdah/tdah-recursos-tecnologicos/ @20241108151439: TDAH information page (Comité de Igualdad XII) -> pages (other, 2024)
+- https://www.innosoftdays.com/tdah/tdah-servicios/ @20250209154422: TDAH information page (Comité de Igualdad XII) -> pages (other, 2024)
+- https://www.innosoftdays.com/torneo/ @20250915183812: WordPress attachment page: image https://www.innosoftdays.com/wp-content/uploads/2020/11/Torneo.jpeg -> media (poster, 2020); same
+- https://www.innosoftdays.com/torneo/ @20251011160651: WordPress attachment page: image https://www.innosoftdays.com/wp-content/uploads/2020/11/Torneo.jpeg -> media (poster, 2020)
+- https://www.innosoftdays.com/tragsatec/ @20241110155521: talk poster page (Javier Haro) -> pages (other, 2022) + poster media
+- https://www.innosoftdays.com/v-edicion/ @20240616204926: edition archive page V (2017) -> edition (dates, copy, programme list), media (2 images), calendar: 19 slots, 4 events added here, 15 already extracted by other families
+- https://www.innosoftdays.com/vi-edicion/ @20240616222207: edition archive page VI (2018) -> edition (dates, copy, programme list), media (1 images), calendar: 23 slots, 0 events added here, 23 already extracted by other families
+- https://www.innosoftdays.com/vii-edicion/ @20241012133841: edition archive page VII (2019), older version superseded by 20250213201028; covered
+- https://www.innosoftdays.com/vii-edicion/ @20250213201028: edition archive page VII (2019) -> edition (dates, copy, programme list), media (1 images), calendar: 18 slots, 1 events added here, 17 already extracted by other families
+- https://www.innosoftdays.com/viii-edicion/ @20240616222635: edition archive page VIII (2020), older version superseded by 20250121054256; covered
+- https://www.innosoftdays.com/viii-edicion/ @20250121054256: edition archive page VIII (2020) -> edition (dates, copy, programme list), media (10 images), calendar: 22 slots, 1 events added here, 21 already extracted by other families
+- https://www.innosoftdays.com/x-edicion/ @20241012114835: edition archive page X (2022), older version superseded by 20250209133132; covered
+- https://www.innosoftdays.com/x-edicion/ @20250209133132: edition archive page X (2022) -> edition (dates, copy, programme list), media (4 images), calendar: 31 slots, 2 events added here, 29 already extracted by other families
+- https://www.innosoftdays.com/xi-edicion/ @20241106213516: edition archive page XI (2023), older version superseded by 20250121054207; covered
+- https://www.innosoftdays.com/xi-edicion/ @20250121054207: edition archive page XI (2023) -> edition (dates, copy, programme list), media (3 images), calendar: 25 slots, 1 events added here, 24 already extracted by other families
+
+## Captures skipped (with reason)
+
+- https://institucional.us.es/innosoft/ @20201104204108: institucional.us.es capture: covered by the institucional family (parse/institucional.py: 2018 programme, 2019 home, 2021 MEC calendar)
+- https://institucional.us.es/innosoft/ @20230812010114: institucional.us.es capture: covered by the institucional family (parse/institucional.py: 2018 programme, 2019 home, 2021 MEC calendar)
+- https://institucional.us.es/innosoft/programa-ix-edicion/ @20211107222309: institucional.us.es capture: covered by the institucional family (parse/institucional.py: 2018 programme, 2019 home, 2021 MEC calendar)
+- https://institucional.us.es/innosoft/programa-ix-edicion/?event-day=20211115 @20211114223431: institucional.us.es capture: covered by the institucional family (parse/institucional.py: 2018 programme, 2019 home, 2021 MEC calendar)
+- https://institucional.us.es/innosoft/programa/ @20190621101803: institucional.us.es capture: covered by the institucional family (parse/institucional.py: 2018 programme, 2019 home, 2021 MEC calendar)
+- https://www.innosoftdays.com/ @20221023105227: home page with only the ColorMag placeholder sidebar widget (empty content)
+- https://www.innosoftdays.com/ @20221023105300: home page with only the ColorMag placeholder sidebar widget (empty content)
+- https://www.innosoftdays.com/ @20250421200116: 2025 interim Twenty Twenty-Five home: only "Disponible próximamente en el curso 2025/26"
+- https://www.innosoftdays.com/ @20250514201417: 2025 interim Twenty Twenty-Five home: only "Disponible próximamente en el curso 2025/26"
+- https://www.innosoftdays.com/ @20250619181152: 2025 interim Twenty Twenty-Five home: only "Disponible próximamente en el curso 2025/26"
+- https://www.innosoftdays.com/ @20251101120127: 2025 interim Twenty Twenty-Five home: only "Disponible próximamente en el curso 2025/26"
+- https://www.innosoftdays.com/?method=ical&id=2234 @20241210195839: MEC iCal export of an event whose page was captured (events family): ACTO DE APERTURA | 2019-11-04T10:30:00 |  |  | https://www.innosoftdays.com/events/acto-de-apertura/
+- https://www.innosoftdays.com/?method=ical&id=2234 @20250428143027: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2234 @20251011152935: iCal URL served an empty blog listing of the interim 2025 site
+- https://www.innosoftdays.com/?method=ical&id=2237 @20250214035100: MEC iCal export of an event whose page was captured (events family): CHARLA DE VIDEOJUEGOS | 2019-11-04T12:30:00 |  | José Eulalio Bernáldez Torres | https://www.innosoftdays.com/events/charla-de-videojuegos/
+- https://www.innosoftdays.com/?method=ical&id=2237 @20250813152620: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2238 @20241210195226: MEC iCal export of an event whose page was captured (events family): LECCIONES QUE HE APRENDIDO ESCRIBIENDO DOCUMENTACIÓN TÉCNICA | 2019-11-04T15:30:00 |  | Raquel Campuzano Godoy | https://www.innosoftdays.com/events/lecciones-he-aprendido-escribiendo-documentacion-tecnica/
+- https://www.innosoftdays.com/?method=ical&id=2238 @20250428142417: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2240 @20250620131314: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2250 @20250814081344: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2254 @20250709000600: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2273 @20241210215841: MEC iCal export of an event whose page was captured (events family): Conferencia – Los estudios de Ingeniería de Software: pasado presente y futuro | 2018-11-12T19:30:00 |  | Amador Durán | https://www.innosoftdays.com/events/conferencia-los-estudios-ingenieria-software-pasado-presente-futuro/
+- https://www.innosoftdays.com/?method=ical&id=2273 @20250420200837: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2282 @20251011154859: iCal URL served an empty blog listing of the interim 2025 site
+- https://www.innosoftdays.com/?method=ical&id=2284 @20250214041831: MEC iCal export of an event whose page was captured (events family): Conferencia – Los Nuevos Retos en la Ingeniería de Software Aplicada | 2018-11-13T11:40:00 | A1.16 | Jesús Bermejo | https://www.innosoftdays.com/events/conferencia-los-nuevos-retos-en-la-ingenieria-de-software-aplicada/
+- https://www.innosoftdays.com/?method=ical&id=2284 @20250708233120: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2286 @20241210202519: MEC iCal export duplicating an event already extracted by another family from its own page (institucional: Monitorizando aplicaciones en Kubernetes con Prometheus y Grafana): Conferencia – Monitorizando aplicaciones en Kubernetes con Prometheus y Grafana | 2018-11-13T12:40:00 | A1.16 | David Barranco Alfonso | https://www.innosoftdays.com/events/conferencia-monitorizando-aplicaciones-en-kubernetes-con-prometheus-y-grafana/
+- https://www.innosoftdays.com/?method=ical&id=2289 @20241210202322: MEC iCal export of an event whose page was captured (events family): Conferencia – OAS-Tools/Generator | 2018-11-13T13:50:00 | A2.16 | Rafael Fresno | https://www.innosoftdays.com/events/conferencia-oas-toolsgenerator/
+- https://www.innosoftdays.com/?method=ical&id=2289 @20250622173225: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2290 @20241210205736: MEC iCal export of an event whose page was captured (events family): Conferencia Introducción a Singular / Sass | 2018-11-13T15:50:00 | A1.16 | Inmaculada Rodríguez Vizcaína | https://www.innosoftdays.com/events/conferencia-introduccion-a-singular-sass/
+- https://www.innosoftdays.com/?method=ical&id=2291 @20241210205659: MEC iCal export of an event whose page was captured (events family): Conferencia – Blockchain, qué es y cómo funciona | 2018-11-13T15:50:00 | A2.16 | Diego Fernández Barrera | https://www.innosoftdays.com/events/conferencia-blockchain-que-es-y-como-funciona/
+- https://www.innosoftdays.com/?method=ical&id=2291 @20250620132530: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2293 @20241210205623: MEC iCal export of an event whose page was captured (events family): Taller Clasificación de imágenes y detección de objetos con YOLO | 2018-11-13T17:30:00 | A1.16 | Organizer Name | https://www.innosoftdays.com/events/taller-clasificacion-de-imagenes-y-deteccion-de-objetos-con-yolo/
+- https://www.innosoftdays.com/?method=ical&id=2293 @20250915190916: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2296 @20241210205407: MEC iCal export duplicating an event already extracted by another family from its own page (institucional: Realización del sorteo del dron): Realización del sorteo del dron | 2018-11-13T19:00:00 | A1.16 | Organizer Name | https://www.innosoftdays.com/events/realizacion-del-sorteo-del-dron/
+- https://www.innosoftdays.com/?method=ical&id=2296 @20251011161615: iCal URL served an empty blog listing of the interim 2025 site
+- https://www.innosoftdays.com/?method=ical&id=2298 @20250214044825: MEC iCal export of an event whose page was captured (events family): Conferencia – Ingeniería informática: pasado, presente y futuro | 2018-11-16T10:30:00 | A2.12 | Mónica Romero Nájera | https://www.innosoftdays.com/events/conferencia-ingenieria-informatica-pasado-presente-y-futuro/
+- https://www.innosoftdays.com/?method=ical&id=2298 @20250915190756: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2299 @20241210205258: MEC iCal export of an event whose page was captured (events family): Mesa redonda: el impacto de la ingeniería del software en la industria local | 2018-11-16T11:20:00 | CITIUS | Organizer Name | https://www.innosoftdays.com/events/mesa-redonda-el-impacto-de-la-ingenieria-del-software-en-la-industria-local/
+- https://www.innosoftdays.com/?method=ical&id=2299 @20250420191230: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2364 @20250214041918: MEC iCal export of an event whose page was captured (events family): Procesos Inteligentes en la Industria 4.0 | 2020-11-26T13:30:00 | Twitch Innosoft | Mayte Gómez | https://www.innosoftdays.com/events/procesos-inteligentes-en-la-industria-4-0/
+- https://www.innosoftdays.com/?method=ical&id=2482 @20250915181803: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2486 @20250714174327: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2493 @20241210203935: MEC iCal export of an event whose page was captured (events family): Como hacer los equipos de Data Science 10 veces más productivo | 2020-11-26T19:00:00 | Twitch Innosoft | Federico Castanedo Sotela | https://www.innosoftdays.com/events/como-hacer-los-equipos-de-data-science-10-veces-mas-productivo/
+- https://www.innosoftdays.com/?method=ical&id=2503 @20250522102906: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2504 @20250214052404: MEC iCal export of an event whose page was captured (events family): Conferencia – Impresión 3D de órganos y la creación de algoritmos para dichas impresiones. | 2017-11-06T12:45:00 | Aula A1.16 | Digitálica Salud | https://www.innosoftdays.com/events/conferencia-impresion-3d-de-organos-y-la-creacion-de-algoritmos-para-dichas-impresiones/
+- https://www.innosoftdays.com/?method=ical&id=2508 @20250420195035: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2510 @20241210220312: MEC iCal export of an event whose page was captured (events family): Taller – Desarrollo Ágil de software, envuelve un enfoque para la toma de decisiones en los proyectos de software. | 2017-11-06T16:50:00 | Aula A1.16 | atSistemas | https://www.innosoftdays.com/events/taller-desarrollo-agil-de-software-envuelve-un-enfoque-para-la-toma-de-decisiones-en-los-proyectos-de-software/
+- https://www.innosoftdays.com/?method=ical&id=2512 @20250620142741: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2514 @20250915200525: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2516 @20250214054829: MEC iCal export of an event whose page was captured (events family): Conferencia – Machine learning: rama de la inteligencia artificial cuyo objetivo es desarrollar técnicas que permitan a las computadoras aprender. | 2017-11-09T16:15:00 | Aula A1.16 | atSistemas | https://www.innosoftdays.com/events/conferencia-machine-learning-rama-de-la-inteligencia-artificial-cuyo-objetivo-es-desarrollar-tecnicas-que-permitan-a-las-computadoras-aprender/
+- https://www.innosoftdays.com/?method=ical&id=2516 @20250909171051: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2520 @20250214042357: MEC iCal export of an event whose page was captured (events family): Conferencia – “OSINT. Qué sabe Internet sobre ti”. | 2017-11-09T18:40:00 | Aula A1.16 | Jorge Coronado | https://www.innosoftdays.com/events/conferencia-osint-que-sabe-internet-sobre-ti/
+- https://www.innosoftdays.com/?method=ical&id=2520 @20250915183650: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2575 @20250214043648: MEC iCal export of an event whose page was captured (events family): Scape Room | 2020-11-26T18:00:00 | Twitch Innosoft | InnoSoft | https://www.innosoftdays.com/events/scape-room/
+- https://www.innosoftdays.com/?method=ical&id=2579 @20250613095459: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2734 @20241210204308: MEC iCal export of an event whose page was captured (events family): Ceremonia de Apertura | 2021-11-08T08:30:00 | Escuela Técnica Superior de Ingeniería Informática, Sevilla |  | https://www.innosoftdays.com/events/ceremonia-de-apertura/
+- https://www.innosoftdays.com/?method=ical&id=2734 @20251011161054: iCal URL served an empty blog listing of the interim 2025 site
+- https://www.innosoftdays.com/?method=ical&id=2735 @20241210204232: MEC iCal export of an event whose page was captured (events family): Lo que nadie me contó durante la universidad | 2021-11-08T08:45:00 | Escuela Técnica Superior de Ingeniería Informática, Sevilla | Alberto Fernández | https://www.innosoftdays.com/events/lo-nadie-me-conto-la-universidad/
+- https://www.innosoftdays.com/?method=ical&id=2735 @20250619184545: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2737 @20250915190313: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2741 @20250813163916: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2743 @20250214050914: MEC iCal export of an event whose page was captured (events family): Comienzo en la ciberseguridad ¿Por dónde empiezo? | 2021-11-15T09:30:00 | Escuela Técnica Superior de Ingeniería Informática, Sevilla | Manuel Jesús Flores Montaño | https://www.innosoftdays.com/events/comienzo-la-ciberseguridad-donde-empiezo/
+- https://www.innosoftdays.com/?method=ical&id=2743 @20251011163347: iCal URL served an empty blog listing of the interim 2025 site
+- https://www.innosoftdays.com/?method=ical&id=2744 @20250714185030: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2752 @20241210214004: MEC iCal export of an event whose page was captured (events family): Recorrido de las programadoras | 2021-11-15T17:30:00 | Escuela Técnica Superior de Ingeniería Informática, Sevilla | Ping a Programadoras | https://www.innosoftdays.com/events/recorrido-las-programadoras/
+- https://www.innosoftdays.com/?method=ical&id=2752 @20251011165900: iCal URL served an empty blog listing of the interim 2025 site
+- https://www.innosoftdays.com/?method=ical&id=2785 @20241210210352: MEC iCal export of an event whose page was captured (events family): Programación competitiva | 2021-11-10T08:30:00 | Escuela Técnica Superior de Ingeniería Informática, Sevilla | David Brincau Cano | https://www.innosoftdays.com/events/programacion-competitiva/
+- https://www.innosoftdays.com/?method=ical&id=2785 @20250814080409: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2787 @20241212043447: MEC iCal export of an event whose page was captured (events family): Ciberseguridad: Retos y necesidades | 2021-11-10T15:30:00 | Salón de Grados | Francisco Valencia (Secure&amp;It) | https://www.innosoftdays.com/events/secureit/
+- https://www.innosoftdays.com/?method=ical&id=2831 @20241210214346: MEC iCal export of an event whose page was captured (events family): Quedada musical mañana | 2021-11-08T09:30:00 | Campus Reina Mercedes, Sevilla |  | https://www.innosoftdays.com/events/quedada-musical-manana/
+- https://www.innosoftdays.com/?method=ical&id=2831 @20250714191245: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=2846 @20250214055510: MEC iCal export of an event whose page was captured (events family): Restos, servicios y salidas | 2021-11-17T10:30:00 | A0.30 | Ayesa | https://www.innosoftdays.com/events/restos-servicios-salidas/
+- https://www.innosoftdays.com/?method=ical&id=2846 @20251011172605: iCal URL served an empty blog listing of the interim 2025 site
+- https://www.innosoftdays.com/?method=ical&id=3128 @20250214040014: MEC iCal export of an event whose page was captured (events family): Introducción al hacking 3 | 2021-11-10T10:30:00 | Escuela Técnica Superior de Ingeniería Informática, Sevilla | Antoni Cobos Domínguez | https://www.innosoftdays.com/events/introduccion-al-hacking-3/
+- https://www.innosoftdays.com/?method=ical&id=3375 @20250707221503: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=3698 @20241212053937: MEC iCal export of an event whose page was captured (events family): Charla de SUSE | 2022-11-10T17:30:00 |  |  | https://www.innosoftdays.com/events/charla-opensuse-maptool/
+- https://www.innosoftdays.com/?method=ical&id=3698 @20250613110821: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=3699 @20241212053813: MEC iCal export of an event whose page was captured (events family): Charla de la Sra. Clara Grima Ruiz | 2022-11-10T18:30:00 |  |  | https://www.innosoftdays.com/events/charla-clara-grima-libnamic/
+- https://www.innosoftdays.com/?method=ical&id=3699 @20250915200035: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=3703 @20241210205148: MEC iCal export of an event whose page was captured (events family): Charla de cláusura | 2022-11-11T11:30:00 |  |  | https://www.innosoftdays.com/events/charla-de-clausura/
+- https://www.innosoftdays.com/?method=ical&id=3703 @20250514205720: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=3704 @20250214044600: MEC iCal export of an event whose page was captured (events family): Barrilada | 2022-11-11T12:30:00 |  |  | https://www.innosoftdays.com/events/barrilada/
+- https://www.innosoftdays.com/?method=ical&id=3704 @20251011161507: iCal URL served an empty blog listing of the interim 2025 site
+- https://www.innosoftdays.com/?method=ical&id=3707 @20241210204911: MEC iCal export of an event whose page was captured (events family): Gymkhana 2 | 2022-11-09T15:00:00 |  |  | https://www.innosoftdays.com/events/gymkhana/
+- https://www.innosoftdays.com/?method=ical&id=3707 @20250714182333: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=4048 @20250425092829: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=4059 @20250214055452: MEC iCal export of an event whose page was captured (events family): Charla de la Sra. María Teresa Gómez López | 2022-11-08T10:30:00 |  |  | https://www.innosoftdays.com/events/charla-la-sra-maria-teresa-gomez-lopez/
+- https://www.innosoftdays.com/?method=ical&id=4063 @20250915184204: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=462558 @20250214041314: MEC iCal export of an event whose page was captured (events family): Charla Energía renovable y emprendimiento – Anabel Carmona Guitiérrez (Maxeon) | 2024-11-07T16:00:00 |  |  | https://www.innosoftdays.com/events/charla-energia-renovable-y-emprendimiento-anabel-carmona-guitierrez-maxeon/
+- https://www.innosoftdays.com/?method=ical&id=462559 @20241210205812: MEC iCal export duplicating an event already extracted by another family from its own page (events_eventos_etn: Charla Ciberseguridad – Pablo Pino): Charla Ciberseguridad – Pablo Pino | 2024-11-08T12:00:00 |  |  | https://www.innosoftdays.com/events/charla-ciberseguridad-pablo-pino/
+- https://www.innosoftdays.com/?method=ical&id=462559 @20250915191107: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=5086 @20241210210103: MEC iCal export of an event whose page was captured (events family): Taller de ciberseguridad | 2023-11-08T12:30:00 |  |  | https://www.innosoftdays.com/events/taller-de-ciberseguridad/
+- https://www.innosoftdays.com/?method=ical&id=5115 @20250814074507: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=5119 @20241210203556: MEC iCal export of an event whose page was captured (events family): Retos sociales y éticos de la IA | 2023-11-09T16:30:00 |  |  | https://www.innosoftdays.com/events/retos-sociales-y-eticos-de-la-ia/
+- https://www.innosoftdays.com/?method=ical&id=5119 @20250425082854: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=5130 @20250214052558: MEC iCal export of an event whose page was captured (events family): Torneo de Smash Bros | 2023-11-07T17:30:00 |  |  | https://www.innosoftdays.com/events/torneo-de-smash-bros/
+- https://www.innosoftdays.com/?method=ical&id=5131 @20250709003533: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=5133 @20250214052521: MEC iCal export of an event whose page was captured (events family): Torneo de ajedrez | 2023-11-08T17:30:00 |  |  | https://www.innosoftdays.com/events/torneo-de-ajedrez/
+- https://www.innosoftdays.com/?method=ical&id=5133 @20250915194414: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/?method=ical&id=5134 @20241210213537: MEC iCal export of an event whose page was captured (events family): Stand de sostenibilidad | 2023-11-06T10:00:00 |  |  | https://www.innosoftdays.com/events/stand-de-sostenibilidad/
+- https://www.innosoftdays.com/?method=ical&id=5134 @20250613104801: iCal URL served the 2025 interim placeholder home ("Disponible próximamente en el curso 2025/26")
+- https://www.innosoftdays.com/acceder/ @20241108155702: login / registration / cart / account page (no event content)
+- https://www.innosoftdays.com/acceder/ @20250214054422: login / registration / cart / account page (no event content)
+- https://www.innosoftdays.com/carrito/ @20241210220535: login / registration / cart / account page (no event content)
+- https://www.innosoftdays.com/contactar/ @20240616215056: contact / newsletter / members form page (no event content)
+- https://www.innosoftdays.com/contactar/ @20240912125332: contact / newsletter / members form page (no event content)
+- https://www.innosoftdays.com/en/contact-us/ @20241110144513: contact / newsletter / members form page (no event content)
+- https://www.innosoftdays.com/en/contact-us/ @20250213184626: contact / newsletter / members form page (no event content)
+- https://www.innosoftdays.com/en/events/ @20241110152805: /en/events/ (The Events Calendar, 2024): the listing is rendered by JavaScript, the capture only holds the navigation
+- https://www.innosoftdays.com/en/events/ @20250213192655: /en/events/ (The Events Calendar, 2024): the listing is rendered by JavaScript, the capture only holds the navigation
+- https://www.innosoftdays.com/en/tickets-store/ @20241212043910: Eventin ticket store shell ("Discover 55 Upcoming and Expire Events", no rows rendered); used only as the 2024 registration_url
+- https://www.innosoftdays.com/en/xii-edition-organization/ @20241106202016: organisation (committee members) page: covered by the people family (organisers.json)
+- https://www.innosoftdays.com/envia-tu-duda-a-nuestro-equipo/ @20241110155044: contact / newsletter / members form page (no event content)
+- https://www.innosoftdays.com/envia-tu-duda-a-nuestro-equipo/ @20250213193536: contact / newsletter / members form page (no event content)
+- https://www.innosoftdays.com/etn_category-10/ @20250121050411: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-11/ @20250121043026: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-12/ @20250121062328: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-13/ @20250121054435: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-14/ @20250121051100: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-15/ @20250121043904: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-16/ @20250121035740: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-17/ @20250121055259: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-2/ @20250121041054: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-22/ @20250121061203: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-3/ @20250121062305: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-4/ @20250121060951: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-5/ @20250121054959: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-6/ @20250121053326: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-7/ @20250121051909: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-8/ @20250121050329: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category-9/ @20250121045041: empty Eventin category archive ('Etn Category', no events): listed by the events_eventos_etn family
+- https://www.innosoftdays.com/etn_category/taller/ @20241210202217: Eventin category listing (Yincana, Pensamiento Computacional, tournaments...): covered by the events_eventos_etn family, which uses it for its listing-only stubs
+- https://www.innosoftdays.com/etn_category/taller/ @20250214134426: Eventin category listing (Yincana, Pensamiento Computacional, tournaments...): covered by the events_eventos_etn family, which uses it for its listing-only stubs
+- https://www.innosoftdays.com/etn_category/torneo/ @20241210202803: Eventin category listing (Yincana, Pensamiento Computacional, tournaments...): covered by the events_eventos_etn family, which uses it for its listing-only stubs
+- https://www.innosoftdays.com/events-tab-pro/ @20241210213617: empty plugin demo page
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-de-la-sra-maria-teresa-gomez-lopez/embed/ @20250214044108: WordPress oEmbed rendering of a talk page (only a title card)
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr-fernando-fernandez-mancera/embed/ @20241212044006: WordPress oEmbed rendering of a talk page (only a title card)
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr/?hss_channel=tw-72764810 @20221107131153: query-string variant (utm / hss_channel) of /informacion-sobre-la-ponencia-del-sr/ with the same poster images
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr/?utm_content=227246656&utm_medium=social&utm_source=twitter&hss_channel=tw-72764810 @20221107131041: query-string variant (utm / hss_channel) of /informacion-sobre-la-ponencia-del-sr/ with the same poster images
+- https://www.innosoftdays.com/informacion-sobre-la-ponencia-del-sr/?utm_content=227248821&utm_medium=social&utm_source=twitter&hss_channel=tw-72764810 @20221108075315: query-string variant (utm / hss_channel) of /informacion-sobre-la-ponencia-del-sr/ with the same poster images
+- https://www.innosoftdays.com/mec-category/2017/ @20250214054235: MEC year archive rendered empty by the theme ('¡No hay eventos!'): listed by the events_eventos_etn family; the events themselves are single event captures (events_mec)
+- https://www.innosoftdays.com/mec-category/2018/ @20241110155355: MEC year archive rendered empty by the theme ('¡No hay eventos!'): listed by the events_eventos_etn family; the events themselves are single event captures (events_mec)
+- https://www.innosoftdays.com/mec-category/2019/ @20241106204304: MEC year archive rendered empty by the theme ('¡No hay eventos!'): listed by the events_eventos_etn family; the events themselves are single event captures (events_mec)
+- https://www.innosoftdays.com/mec-category/2020/ @20241110151428: MEC year archive rendered empty by the theme ('¡No hay eventos!'): listed by the events_eventos_etn family; the events themselves are single event captures (events_mec)
+- https://www.innosoftdays.com/mec-category/2021/ @20241110142302: MEC year archive rendered empty by the theme ('¡No hay eventos!'): listed by the events_eventos_etn family; the events themselves are single event captures (events_mec)
+- https://www.innosoftdays.com/mec-category/2021/ @20250209140156: MEC year archive rendered empty by the theme ('¡No hay eventos!'): listed by the events_eventos_etn family; the events themselves are single event captures (events_mec)
+- https://www.innosoftdays.com/mec-category/2023/ @20250213193704: MEC year archive rendered empty by the theme ('¡No hay eventos!'): listed by the events_eventos_etn family; the events themselves are single event captures (events_mec)
+- https://www.innosoftdays.com/mi-cuenta/ @20241210220800: login / registration / cart / account page (no event content)
+- https://www.innosoftdays.com/miembros/ @20241110145229: contact / newsletter / members form page (no event content)
+- https://www.innosoftdays.com/miembros/ @20250214043854: contact / newsletter / members form page (no event content)
+- https://www.innosoftdays.com/newsletter/ @20241106214556: contact / newsletter / members form page (no event content)
+- https://www.innosoftdays.com/newsletter/ @20250213200626: contact / newsletter / members form page (no event content)
+- https://www.innosoftdays.com/organizacion-ix-edicion/ @20241106203625: organisation (committee members) page: covered by the people family (organisers.json)
+- https://www.innosoftdays.com/organizacion-xi-edicion/ @20240616212816: organisation (committee members) page: covered by the people family (organisers.json)
+- https://www.innosoftdays.com/organizacion-xi-edicion/ @20250121044422: organisation (committee members) page: covered by the people family (organisers.json)
+- https://www.innosoftdays.com/organizacion-xii-edicion/ @20241110162250: organisation (committee members) page: covered by the people family (organisers.json)
+- https://www.innosoftdays.com/password-reset/ @20241110161309: login / registration / cart / account page (no event content)
+- https://www.innosoftdays.com/password-reset/ @20250121055214: login / registration / cart / account page (no event content)
+- https://www.innosoftdays.com/planes-xi-edicion/ @20250209145328: placeholder page: its only content is 'Aquí se mostrará los diferentes planes de los comités de las jornadas 2023' (no plans published)
+- https://www.innosoftdays.com/politica-de-cookies/ @20250121041536: legal page
+- https://www.innosoftdays.com/programa-2/ @20241110150726: empty page: the entry-content of both captures is empty (title 'Programa', no blocks)
+- https://www.innosoftdays.com/programa-2/ @20250122212140: empty page: the entry-content of both captures is empty (title 'Programa', no blocks)
+- https://www.innosoftdays.com/registrar-2/ @20241210214806: login / registration / cart / account page (no event content)
+- https://www.innosoftdays.com/registrar-2/bienvenidoi/ @20241210220612: login / registration / cart / account page (no event content)
+- https://www.innosoftdays.com/registrar-2/tu-membresia/?rcp_action=lostpassword @20250121052248: login / registration / cart / account page (no event content)
+- https://www.innosoftdays.com/registrar/ @20250213201424: login / registration / cart / account page (no event content)
+- https://www.innosoftdays.com/related-event-widget-pro-2/ @20241210210250: empty plugin demo page
+- https://www.innosoftdays.com/topics/ @20240614131416: bbPress topics archive full of spam threads (no event content)
+- https://www.innosoftdays.com/usuario/innosoft_editor/ @20241108141119: user profile page (excluded by scope)
+- https://www.innosoftdays.com/usuario/innosoft_manager/ @20241110144228: user profile page (excluded by scope)
+- https://www.innosoftdays.com/usuario/innosoft_publisher/ @20241106210409: user profile page (excluded by scope)
+- https://www.innosoftdays.com/usuario/innosoft_publisher_two/ @20241106205850: user profile page (excluded by scope)
+- https://www.innosoftdays.com/usuario/innosoft_seo/ @20241110150501: user profile page (excluded by scope)

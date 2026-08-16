@@ -1,0 +1,146 @@
+[
+ {
+  "name": "María del Carmen Romero Ternero",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Directora de la ETSII",
+  "bio_html": "<p>Directora de la Escuela Técnica Superior de Ingeniería Informática, confirmada como ponente de la X edición.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/10/27/se-confirman-los-ponentes-principales-de-la-primera-charla-innosoft/"
+ },
+ {
+  "name": "María José Escalona Cuaresma",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesora",
+  "bio_html": "<p>Profesora de la Universidad de Sevilla, confirmada como ponente de la X edición.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/10/27/se-confirman-los-ponentes-principales-de-la-primera-charla-innosoft/"
+ },
+ {
+  "name": "Clara Isabel Grima Ruiz",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesora",
+  "bio_html": "<p>Profesora de la Universidad de Sevilla y una de las divulgadoras matemáticas más influyentes del panorama nacional, ponente de la X edición.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/10/27/se-confirman-los-ponentes-principales-de-la-primera-charla-innosoft/"
+ },
+ {
+  "name": "María Teresa Gómez López",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesora",
+  "bio_html": "<p>Profesora de la Universidad de Sevilla, confirmada como ponente de la X edición.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/10/27/se-confirman-los-ponentes-principales-de-la-primera-charla-innosoft/"
+ },
+ {
+  "name": "Jesús Lagares Galán",
+  "affiliation": null,
+  "position": "Ingeniero informático",
+  "bio_html": "<p>Ingeniero informático, confirmado como ponente de la X edición.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/10/27/se-confirman-los-ponentes-principales-de-la-primera-charla-innosoft/"
+ },
+ {
+  "name": "Manuel Jesús Flores Montaño",
+  "affiliation": null,
+  "position": "Ingeniero informático",
+  "bio_html": "<p>Ingeniero informático, confirmado como ponente de la X edición.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/10/27/se-confirman-los-ponentes-principales-de-la-primera-charla-innosoft/"
+ },
+ {
+  "name": "Jesús Alcaide Marín",
+  "affiliation": "NTT DATA",
+  "position": null,
+  "bio_html": "<p>Graduado en ingeniería informática por la Universidad de Cádiz, con más de 20 años en NTT DATA. Ponencia «Software libre en NTT Data» (8 de noviembre de 2022).</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/11/08/software-libre-en-ntt-data/"
+ },
+ {
+  "name": "Rafael Poveda",
+  "affiliation": "Accenture",
+  "position": "Consultor senior",
+  "bio_html": "<p>Consultor senior de Accenture, anteriormente en WordPress Foundation y Drupal Association. Ponencia sobre el uso de software libre en Accenture (8 de noviembre de 2022).</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/11/09/accenture-y-el-uso-de-software-libre-para-el-desarrollo-y-venta-de-servicios-asociados/"
+ },
+ {
+  "name": "Ángeles Sánchez",
+  "affiliation": "Accenture",
+  "position": "Cazadora de talentos",
+  "bio_html": "<p>Cazadora de talentos en Accenture; presentó el programa de prácticas Dixcover (8 de noviembre de 2022).</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/11/09/accenture-y-el-uso-de-software-libre-para-el-desarrollo-y-venta-de-servicios-asociados/"
+ },
+ {
+  "name": "Rubén Ruíz",
+  "affiliation": "Accenture",
+  "position": "Mánager de desarrollo empresarial",
+  "bio_html": "<p>Mánager de desarrollo empresarial en Accenture; habló sobre SAP y su escaparate Spartacus (8 de noviembre de 2022).</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/11/09/accenture-y-el-uso-de-software-libre-para-el-desarrollo-y-venta-de-servicios-asociados/"
+ },
+ {
+  "name": "Daniel García",
+  "affiliation": "OpenSUSE",
+  "position": null,
+  "bio_html": "<p>Antiguo miembro de Wadobo, startup de soluciones con tecnologías de código abierto. Ponencia sobre OpenSUSE en la X edición.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/11/13/resumen-opensuse/"
+ },
+ {
+  "name": "Fernando Fernández Mancera",
+  "affiliation": "Red Hat",
+  "position": "Senior Software Engineer",
+  "bio_html": "<p>Senior Software Engineer en Red Hat y miembro de SUGUS (asociación universitaria y grupo de usuarios de software libre de la Universidad de Sevilla). Ponencia «Software Libre en la sociedad más libre».</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2022
+  ],
+  "source_url": "https://www.innosoftdays.com/2022/11/15/resumen-software-libre-en-la-sociedad-mas-libre/"
+ }
+]

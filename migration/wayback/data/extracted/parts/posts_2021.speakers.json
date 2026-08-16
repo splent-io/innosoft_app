@@ -1,0 +1,230 @@
+[
+ {
+  "name": "Alberto Fernández Valiente",
+  "affiliation": null,
+  "position": "Ingeniero Técnico en Informática de Sistemas (Universidad de Sevilla)",
+  "bio_html": "<p>Alberto Fernández, Ingeniero Técnico en Informática de Sistemas por la Universidad de Sevilla, nos dará una charla sobre lo que conlleva graduarse en la universidad. Alberto Fernández es un Ingeniero Técnico en Sistemas por la Universidad de Sevilla, el cual estuvo en la misma situación que nosotros y puede compartir sus vivencias. Con más de 15 años de experiencia, puede ilustrarnos la realidad que se encontró al acabar el grado, realidad a la que nos enfrentaremos todos próximamente.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/07/lo-nadie-me-conto-la-universidad/"
+ },
+ {
+  "name": "David Sánchez",
+  "affiliation": "Sputnik Ciberseguridad",
+  "position": "CEO",
+  "bio_html": "<p>En esta charla veremos una introducción al pentesting. El pentesting, abreviatura que se forma<br/> al juntar las palabras “penetration” y “testing”, es una práctica que consiste en atacar desde<br/> distintos entornos y/o sistemas para así encontrar posibles fallos y evitar futuros ataques<br/> maliciosos.</p><p>Es hoy en día una de las prácticas más demandadas ya que permite saber a las empresas el<br/> nivel de seguridad de sus sistemas y los peligros a los que se expone. Esto la convierte en una<br/> de las profesiones más demandadas dentro del mundo de la Seguridad Informática, y, por<br/> tanto, una de las profesiones más solicitadas del momento. Por esto último también tiene<br/> reclama mucho en las escuelas donde se imparte esta especialización. Precisamente el<br/> ponente de esta charla, David Sánchez, es profesor en el máster de ciberseguridad de la<br/> escuela EIP Madrid y la Universidad Europea Miguel de Cervantes.</p><p>Por estos motivos estamos muy agradecidos de que David Sánchez aceptara venir a dar una<br/> charla a las jornadas InnoSoft. David es CEO de Sputnik Ciberseguridad, una empresa<br/> especializada en auditoría y consultoría de seguridad informática, así como de peritaje<br/> informático y judicial. Además de todo esto tiene planes de formación.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/07/mayor-quiero-pentester-david-sanchez/"
+ },
+ {
+  "name": "Adrián Ramírez",
+  "affiliation": "Dolbuck S.L.",
+  "position": "CEO",
+  "bio_html": "<p>Esta conferencia será llevada a cabo por la empresa Dolbuck S.L., una consultora con sede en España, creada en el año 2007 con el objetivo de proteger empresas mediante un conjunto de soluciones ajustada a la realidad de cada negocio. En esta conferencia, Dolbuck S.L. nos hablará principalmente sobre ciberseguridad y sobre los distintos frameworks que existen actualmente. Si la ciberseguridad es un tema que te interesa, no te la puedes perder.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/07/hablemos-ciberseguridad-hablemos-frameworkd-ciberseguridad-dolbuck-s-l/"
+ },
+ {
+  "name": "Alberto Castro Ortiz",
+  "affiliation": "OnRetrieval",
+  "position": "Responsable técnico del área forense",
+  "bio_html": "<p>Alberto Castro Ortiz de la empresa OnRetrieval, empresa española certificada y especializada en Ciberseguridad, Informática forense y Recuperación de datos nos enseñará a identificar los diferentes dispositivos electrónicos con datos, así como su preservación y cadena de custodia. Dentro de OnRetrieval, Alberto Castro es experto en adquisición de evidencias digitales, reconstrucción virtualizada de sistemas Raid y recuperación de memorias NandFlash. Alberto Castro compartirá con nosotros su conocimientos sobre la gama más fiable de equipos informáticos con múltiples funcionalidades y herramientas de investigación forense, para la adquisición, decodificación, indexado y análisis forense de evidencias digitales.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/identificacion-preservacion-evidencias-digitales-alberto-castro/"
+ },
+ {
+  "name": "Daniel García",
+  "affiliation": "PRiSE",
+  "position": "Director tecnológico",
+  "bio_html": "<p>Daniel García nos ofrecerá una conferencia en el ámbito de la ciberseguridad, en la que hablará sobre la identidad digital y sobre un posible futuro en el que no sea necesario el uso de contraseñas.</p><p>Nuestro ponente, trabajó durante 5 años como “Middleware Engineer”, siendo responsable del servicio de los certificados digitales de “RedIRIS”, una red española para la interconexión de los Rrecursos informáticos de universidades y centros de investigación. Actualmente, trabaja como director tecnológico en la iniciativa empresarial “PRiSE” (donde lleva más de 12 años), en la que se ofrecen todo tipo de soluciones relacionadas con la identidad digital, la privacidad y la protección de los datos.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/futuro-sin-contrasenas-daniel-garcia/"
+ },
+ {
+  "name": "Alba Ferri",
+  "affiliation": "Sysdig",
+  "position": "Product Marketing Manager",
+  "bio_html": "<p>Alba Ferri, ingeniera técnica de telecomunicaciones vendrá a hablarnos sobre el cloud-native. Actualmente trabaja en Sysdig Secure, más concretamente en la parte de la plataforma de inteligencia de contenedores que proporciona seguridad y compliance en todas las fases del ciclo de vida de los contenedores y la nube.</p><p>La computación en la nube ha dejado de considerarse una moda pasajera en el mundo del software, para muchas empresas ha pasado a convertirse en algo primordial que hace posible abrir nuevas vías de negocio y aumentar la competitividad. Cloud native se centra en el desarrollo de aplicaciones en forma de microservicios independientes que no se ejecutan en una ubicación fija, sino en plataformas dinámicas basadas en contenedores. Concretamente, nuestra invitada vendrá a contarnos como es la seguridad que existe en dichos contenedores. Sin duda será una charla apasionante, ¡no te la pierdas!</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/seguridad-cloud-native-alba-ferri/"
+ },
+ {
+  "name": "Francisco Valencia",
+  "affiliation": "Secure&IT",
+  "position": "CEO",
+  "bio_html": "<p>En esta charla Francisco Valencia, CEO en Secure&amp;it nos va a hablar sobre los retos y las necesidades en el mundo de la ciberseguridad.</p><p>Ingeniero Consultor en Telecomunicaciones y Seguridad y MBA. Francisco Valencia comenzó trabajando en Operadoras de Telecomunicaciones (Grupo Auna), pasando por áreas de Tecnología en Redes de Datos, Ingeniería Preventa y por último Dirección de Grandes Proyectos, como es el caso del Grupo Santander.</p><p>Posteriormente pasó a dirigir el Departamento de Consultoría de Seguridad y Telecomunicaciones en Informática El Corte Inglés, donde se especializó en redes corporativas y en seguridad informática. De allí pasó a colaborar en el Desarrollo de Negocio en una iniciativa del Grupo Teldat centrada en los Centros de Proceso de Datos.</p><p>Después de una temporada trabajando como Consultor Independiente, decidió crear Secure&amp;IT, empresa especializada en Ciberseguridad y Cumplimiento normativo. Desde esta nueva perspectiva, realizó consultorías y auditorías técnicas de ciberseguridad, imparte formación, realiza funciones de preventa y dirección de proyectos, etc…</p><p>Dada su gran trayectoria profesional, vendrá a contarnos los retos y las necesidades que le han ido surgiendo a lo largo de los años de vida profesional en el ámbito de la ciberseguridad. Sin duda alguna, será una charla muy enriquecedora, puesto que nos hablará desde su propia experiencia personal.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/ciberseguridad-retos-necesidades-francisco-valencia/"
+ },
+ {
+  "name": "Paula Garrido Lerma",
+  "affiliation": "BeOneSec",
+  "position": "Estudiante de Ingeniería de Tecnologías Informáticas (Universidad de Sevilla)",
+  "bio_html": "<p>Paula Garrido Lerma y Jesús Manuel Sánchez Alanís nos vendrán a hablar sobre el pentesting y algunas herramientas para ello. Además de darnos una introducción a OWASP.</p><p>En esta ocasión contaremos con dos estudiantes de 4º de Tecnología Informática de la Universidad de Sevilla y que además trabajan en BeOneSec, empresa de ciberseguridad. Nos vendrán a hablar sobre algunas herramientas para atacar diferentes entornos con la finalidad de encontrar algunos fallos o vulnerabilidades y corregirlos. También nos harán una introducción de OWASP, un proyecto de código abierto dedicado a determinar y combatir las causas que hacen que un software no sea seguro. ¿Te lo vas a perder?</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/introduccion-owasp-herramientas-pentesting-paula-garrido-lerma-jesus-manuel-sanchez-alanis/"
+ },
+ {
+  "name": "Jesús Manuel Sánchez Alanís",
+  "affiliation": "BeOneSec",
+  "position": "Estudiante de Ingeniería de Tecnologías Informáticas (Universidad de Sevilla)",
+  "bio_html": "<p>Paula Garrido Lerma y Jesús Manuel Sánchez Alanís nos vendrán a hablar sobre el pentesting y algunas herramientas para ello. Además de darnos una introducción a OWASP.</p><p>En esta ocasión contaremos con dos estudiantes de 4º de Tecnología Informática de la Universidad de Sevilla y que además trabajan en BeOneSec, empresa de ciberseguridad. Nos vendrán a hablar sobre algunas herramientas para atacar diferentes entornos con la finalidad de encontrar algunos fallos o vulnerabilidades y corregirlos. También nos harán una introducción de OWASP, un proyecto de código abierto dedicado a determinar y combatir las causas que hacen que un software no sea seguro. ¿Te lo vas a perder?</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/introduccion-owasp-herramientas-pentesting-paula-garrido-lerma-jesus-manuel-sanchez-alanis/"
+ },
+ {
+  "name": "José Martínez García",
+  "affiliation": null,
+  "position": null,
+  "bio_html": "<p>José Martínez García nos dará unas nociones básicas sobre computación cuántica así como ofrecernos un contexto actual de lo que la computación cuántica. La computación cuántica es un tema de conversación muy recurrente en la actualidad, se trata de es un paradigma de computación distinto al de la informática clásica o computación clásica. Se basa en el uso de cúbits, un sistema cuántico con dos estados propios y que puede ser manipulado arbitrariamente. Nuestro ponente José Martínez García nos dará información sobre el tema y nos explicará sus aplicaciones y usos.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/09/introduccion-la-computacion-cuantica-jose-martinez-garcia/"
+ },
+ {
+  "name": "Manuel Jesús Flores Montaño",
+  "affiliation": "Universidad Pablo de Olavide",
+  "position": "Técnico de administración de sistemas informáticos, estudiante de Ingeniería Informática, Microsoft Student Ambassador",
+  "bio_html": "<p>Manuel Jesús Flores Montaño, técnico de administración de sistemas informáticos, vendrá el lunes 15 a hablarnos sobre ciberseguridad. Manuel Jesús lleva especializado en el mundo de la ciberseguridad desde 2014 y actualmente estudia ingeniería informática en la universidad Pablo de Olavide. Además, pertenece al programa de Microsoft Students Ambassador especializado en cloud computing.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/14/comienzo-la-ciberseguridad-donde-empiezo-manuel-jesus-flores-montano/"
+ },
+ {
+  "name": "Ángel Jesús Varela Vaca",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Profesor de Ingeniería Informática, doctor en Ingeniería Informática y del Software",
+  "bio_html": "<p>Ángel Jesús Varela Vaca, doctor en ingeniería informática y del software titulado por la Universidad de Sevilla dará el lunes una ponencia sobre ciberseguridad. Ángel Jesús está especializado en seguridad de la información y gestión de procesos empresariales. Además, Tiene experiencia en diversos proyectos de desarrollo y es autor de varios trabajos de investigación a nivel internacional, entre los que se encuentran temas de ciberseguridad.</p><p>La ciberseguridad es un ámbito en el que, al ser tan amplio, puede parecer difícil hacerse un hueco. Con esta ponencia se pretende ayudar a los estudiantes que quieran continuar o comenzar su formación en este tema. Si te gusta la ciberseguridad y quieres formarte en este tema, no te pierdas esta conferencia.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/14/ciberseguridad-esperan-los-alumnos-donde-estudiar-lo-esperan-angel-jesus-varela-vaca/"
+ },
+ {
+  "name": "Andrés Marchante Tirado",
+  "affiliation": "Dell",
+  "position": "Ingeniero Senior de Sistemas",
+  "bio_html": "<p>Este próxomo Lunes vamos a poder contar con Andrés Marchante Tirado, Ingeniéro Senior de Sistema para Dell. Andrés, que cuenta con una gran experiencia en materias de diseño, implantación y explotación de infraestructuras de sistemas TI y sistemas de telecomunicaciones de banda ancha. A día de hoy está enfocado en el soporte tecnológico en materia de redes y virtualización de red para clientes empresariales. Su charla, aunque enfocada en la seguridad en la nube, estará planteada desde el prisma de una organización que tiene la intención de desarrollar sus arquitecturas IT sobre este tipo de plataformas. Andrés nos hablará de las arquitecturas,  medidas de seguridad y estrategias de continuidad de negocio implementadas en los entornos de Cloud bajo los modelos público, privado e híbrido y la importancia de diseñar estrategias de seguridad en el despliegue de servicios en modelo Cloud Computing.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/14/seguridad-los-servicios-la-nube-andres-marchante-tirado/"
+ },
+ {
+  "name": "Francisco José Ramírez López",
+  "affiliation": "Deloitte",
+  "position": "Consultor de seguridad senior",
+  "bio_html": "<p>Francisco Ramírez nos ofrecerá una conferencia sobre los fundamentos de la ciberseguridad, y sobre cómo podemos empezar a abordar tareas profesionales en el mundo del hacking ético, empezando desde cero.</p><p>Nuestro ponente es consultor de seguridad senior en la empresa “Deloitte”, con más de 6 años de experiencia en el sector de la ciberseguridad enfocado a las auditorías de aplicaciones móviles, ATM´s, sistema de pagos o TVP. Actualmente se encuentra preparando su tesis doctoral con mención industrial en materias de Ciberseguridad en dispositivos inteligentes e industriales.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/14/ciberseguridad-hacking-etico-francisco-ramirez/"
+ },
+ {
+  "name": "Francisco Pérez Fernández",
+  "affiliation": "NTT DATA",
+  "position": "Ingeniero informático especializado en seguridad informática",
+  "bio_html": "<p>En el último día de los Innosoft Days tenemos esta conferencia presentada por Francisco Pérez Fernández, ingeniero informático especializado en proyectos de seguridad informática, desarrollo de aplicaciones móviles multiplataforma y soluciones cloud. Francisco es, además, un apasionado del software libre y el emprendimiento, con amplios conocimientos en seguridad informática y gestión ágil de proyectos. Esto unido a su interés por el IoT, SmartCities y BigData es una receta que garantizará el éxito de su charla y nos hará aprender muchísimo.<br/> En la charla se hablará de las distintas áreas que existen hoy en día en el mundo de la ciberseguridad, los perfiles que se están demandandi y los distintos caminos a seguir para llegar a uno de estos roles. Al final de la charla se hará un simulacro de entrevista de trabajo para poder acceder a este interesante mundo profesional.</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/16/becario-ciberseguridad-no-morir-intento-francisco-perez-fernandez/"
+ },
+ {
+  "name": "Rafael Martínez Gasca",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Catedrático de Universidad, doctor en Informática",
+  "bio_html": "<p>En esta charla Rafael Martínez, catedrático de universidad, nos va a hablar sobre el concepto de la inseguridad en el mundo de la ciberseguridad.</p><p>Rafael Martínez Gasca es Doctor en Informática y Catedrático de Universidad, lleva ejerciendo la docencia universitaria desde hace 30 años y especialmente en temas de ciberseguridad. Ha dirigido 4 tesis doctorales relacionadas con el tópico de la Ciberseguridad y también ha dirigido diferentes proyectos de I+D en dicha temática financiados tanto por instituciones públicas como privadas.</p><p>Vendrá a hablarnos sobre las inseguridades emergentes en el mundo de la ciberseguridad, en una charla que promete ser muy entretenida y enriquecedora. ¡No puedes perdértela!</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/16/identificacion-ciber-inseguridades-rafael-martinez/"
+ },
+ {
+  "name": "María José Escalona",
+  "affiliation": "Universidad de Sevilla",
+  "position": "Catedrática, Departamento de Lenguajes y Sistemas Informáticos",
+  "bio_html": "<p>En esta charla María José Escalona, catedrática en el departamento de Lenguajes y Sistemas Informáticos de la Universidad de Sevilla, nos va a hablar sobre el futuro que nos espera a todos los estudiantes que estamos a punto de acabar nuestros estudios.</p><p>María José Escalona es catedrática en el departamento de Lenguajes y Sistemas Informáticos de la Universidad de Sevilla donde imparte clase desde el año 2000. Es además la directora del grupo de investigación “Engineering and Science for Software System TIC021”. Su investigación se enmarca en la ingeniería del software y principalmente en todo aquello que tiene que ver con la inclusión del usuario en la definición, desarrollo y validación del software incluyendo campos como la ingeniería de requisitos, el design thinking, el testing temprano o la calidad del software. En su trayectoria destaca, además, su relación con las empresas. Antes de entrar en la universidad trabajó como freelance durante varios años y a través de su grupo ha colaborado con un gran número de empresas en proyectos de transferencia, teniendo una gran relación con el tejido empresarial. Este perfil y el hecho de haber tenido cargos de gestión relacionados con el tema, como la Subdirección de relaciones internacionales y empresariales de la ETSII, hacen que tenga un gran interés por todo lo que tiene que ver con las relaciones universidad-empresa.</p><p>Vendrá a hablarnos sobre las distintas opciones que tenemos los jóvenes estudiantes una vez que finalizan nuestros estudios, en una charla que promete ser muy entretenida y enriquecedora. ¡No puedes perdértela!</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/16/ahora-estoy-acabando-la-carrera-maria-jose-escalona/"
+ },
+ {
+  "name": "Jesús López",
+  "affiliation": "Viafirma",
+  "position": "Departamento de desarrollo",
+  "bio_html": "<p>Jesús López ofrecerá, junto con su compañero Benito Galán Algora, una ponencia sobre la firma e identidad digital, tratando los siguientes puntos principales:</p><p>•\teIDAS: Reglamento de identificación digital en Europa<br/> •\tFormatos de firma digital XAdES, CAdES, PAdES<br/> •\tParadigma de la Identidad Digital Centralizada</p><p>Jesús López pertenece al departamento de desarrollo de la empresa ViaFirma, donde ofrecen soluciones relacionadas con la firma electrónica. La empresa pretende automatizar y optimizar procesos de firma complejos  difícilmente realizables mediante las fórmulas tradicionales en papel. De esta forma, permiten realizar firmas de contratos desde cualquier dispositivo y  lugar.</p><p>Ente las soluciones que incorpora la empresa, se encuentran: Firmas biométricas, certificados digitales, firmas en la nube alojadas en servidores robustos, firmas electrónicas desatendidas que no requieren intervenciones de los usuarios, así como códigos de un solo uso (OTP SMS y OTP Email).</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/16/firma-digital-e-identidad-digital-jesus-lopez/"
+ },
+ {
+  "name": "Benito Galán Algora",
+  "affiliation": "Viafirma",
+  "position": "Departamento de desarrollo",
+  "bio_html": "<p>Jesús López ofrecerá, junto con su compañero Benito Galán Algora, una ponencia sobre la firma e identidad digital, tratando los siguientes puntos principales:</p><p>•\teIDAS: Reglamento de identificación digital en Europa<br/> •\tFormatos de firma digital XAdES, CAdES, PAdES<br/> •\tParadigma de la Identidad Digital Centralizada</p><p>Jesús López pertenece al departamento de desarrollo de la empresa ViaFirma, donde ofrecen soluciones relacionadas con la firma electrónica. La empresa pretende automatizar y optimizar procesos de firma complejos  difícilmente realizables mediante las fórmulas tradicionales en papel. De esta forma, permiten realizar firmas de contratos desde cualquier dispositivo y  lugar.</p><p>Ente las soluciones que incorpora la empresa, se encuentran: Firmas biométricas, certificados digitales, firmas en la nube alojadas en servidores robustos, firmas electrónicas desatendidas que no requieren intervenciones de los usuarios, así como códigos de un solo uso (OTP SMS y OTP Email).</p>",
+  "photo_url": null,
+  "links": [],
+  "edition_years": [
+   2021
+  ],
+  "source_url": "https://www.innosoftdays.com/2021/11/16/firma-digital-e-identidad-digital-jesus-lopez/"
+ }
+]
