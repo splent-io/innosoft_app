@@ -30,6 +30,30 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 DATA = HERE / "data"
+def intro_only(html):
+    """An edition's own landing copy, without the poster art. The archived
+    home page carries the promotional posters as <figure><img> blocks, but
+    those already live in the edition's Posters section, so an edition
+    description should be just the leading text."""
+    if not html:
+        return html or ""
+    html = re.sub(r"<(h[1-6])\b[^>]*>(?:\s|<[^>]+>)*programa(?:\s|<[^>]+>)*</\1>.*$", "", html, flags=re.I | re.S)
+    html = re.sub(r"<figure\b.*?</figure>", "", html, flags=re.I | re.S)
+    html = re.sub(r"<img\b[^>]*>", "", html, flags=re.I)
+    # Drop plain sentences that only introduced a now-removed image and end
+    # on a colon ("El logo de las jornadas fue el siguiente:").
+    html = re.sub(
+        r"<p>(?![^<]*<a\b)[^<]*(?:logo|cartel|mascota|imagen|foto)[^<]*:\s*</p>",
+        "", html, flags=re.I,
+    )
+    html = re.sub(r"<(p|h[1-6])>\s*(?:&nbsp;|<br\s*/?>)?\s*</\1>", "", html, flags=re.I)
+    html = re.sub(
+        r"<(h[1-6])>\s*(?:Logo(?:tipo)?|Mascota|Cartel(?:es)?)\s*</\1>\s*(?=<h[1-6]>|$)",
+        "", html, flags=re.I,
+    )
+    return re.sub(r">\s+<", "><", html).strip()
+
+
 EXTRACTED = DATA / "extracted"
 RAW = DATA / "raw"
 MANIFEST = RAW / "manifest.jsonl"
@@ -198,7 +222,7 @@ def main() -> int:
                     ends_on=datetime.fromisoformat(ed["ends_on"]).date() if ed.get("ends_on") else None,
                     venue=ed.get("venue", ""),
                     summary=ed.get("summary", ""),
-                    description=rewrite_images(ed.get("description_html", "")),
+                    description=intro_only(rewrite_images(ed.get("description_html", ""))),
                     # registration_url of past editions are dead links; skipped
                     order=int(number) if number else 0,
                 )
@@ -206,25 +230,11 @@ def main() -> int:
                     edition.image = import_image(ed["image_url"], title=name)
                 db.session.flush()
                 editions_by_year[year] = edition
-            # Informative pages of a year (about, sustainability, organisation
-            # copy) become sections of that edition's description, once.
-            for pg in _load("pages.json"):
-                year = pg.get("edition_year")
-                if not year or int(year) not in editions_by_year or int(year) in SKIP_YEARS:
-                    continue
-                if (pg.get("kind") or "other") in ("how_to_get",):
-                    continue
-                edition = editions_by_year[int(year)]
-                title = (pg.get("title") or "").strip()
-                body = rewrite_images(pg.get("content_html", ""))
-                if not body:
-                    continue
-                marker = f'<!-- wayback:{_norm_url(pg.get("url", ""))} -->'
-                if marker in (edition.description or ""):
-                    continue
-                section = f"\n{marker}\n" + (f"<h2>{title}</h2>\n" if title else "") + body
-                edition.description = (edition.description or "") + section
-                bump("page_folded")
+            # Informative pages of a year (sustainability, TDAH, grants, the
+            # English home copy...) are intentionally NOT folded into the
+            # edition description: doing so turned the page into an unreadable
+            # wall with giant inline posters. Their content stays archived in
+            # data/extracted/pages.json for a future proper "pages" surface.
             db.session.commit()
 
         # ── Events ──────────────────────────────────────────────────────
